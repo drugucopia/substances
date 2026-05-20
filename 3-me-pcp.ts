@@ -38,11 +38,11 @@ export const _3_me_pcp: Substance =
       "Nausea suppression"
     ],
     "neutral": [
-      "Stimulation - 3-MeO-PCP is regarded to be noticeably stimulating in comparison to other dissociatives such as ketamine, MXE, or DCK. The stimulation it presents is described as clear and subtle.",
-      "Spontaneous bodily sensations - The body high of 3-MeO-PCP can be described in terms of its style variations as a motionless, constant, sharp, all-encompassing, and euphoric activation of nerve endings across the body.",
-      "Mania - This effect is reportedly more common on 3-MeO-PCP than most other dissociatives. It typically occurs during the offset of the experience, but can also occur during the onset and come up as well.",
+      "Stimulation - 3-Me-PCP is regarded to be noticeably stimulating in comparison to other dissociatives such as ketamine, MXE, or DCK. The stimulation it presents is described as clear and subtle.",
+      "Spontaneous bodily sensations - The body high of 3-Me-PCP can be described in terms of its style variations as a motionless, constant, sharp, all-encompassing, and euphoric activation of nerve endings across the body.",
+      "Mania - This effect is reportedly more common on 3-Me-PCP than most other dissociatives. It typically occurs during the offset of the experience, but can also occur during the onset and come up as well.",
       "Tactile disconnection",
-      "Visual disconnection - This eventually results in 3-MeO-PCP's equivalent of the \\\"k-hole\\\" or, more specifically, holes, spaces and voids alongside of structures.",
+      "Visual disconnection - This eventually results in 3-Me-PCP's equivalent of the \\\"k-hole\\\" or, more specifically, holes, spaces and voids alongside of structures.",
       "Consciousness disconnection",
       "Optical sliding",
       "Visual acuity enhancement or Visual acuity suppression - While lower doses of this compound tend to produce mild visual acuity enhancements, this effect quickly disappears as one's general visual faculties become suppressed as the dose is increased.",
