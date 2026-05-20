@@ -1,3 +1,4 @@
+
 // Auto-generated from substances.txt
 import type { Substance } from './types';
 
@@ -7,19 +8,19 @@ import type { Substance } from './types';
 // Categories: dissociatives
 // Class: Arylcyclohexylamines
 
-export const _3_meo_pcp: Substance = 
+export const _3_me_pcp: Substance = 
 {
-  "id": "3-meo-pcp",
-  "name": "3-MeO-PCP",
+  "id": "3-me-pcp",
+  "name": "3-Me-PCP",
   "commonNames": [
-    "3-MeO-PCP",
-    "3-MeO"
+    "3-Me-PCP",
+    "3-Methyl-PCP"
   ],
   "categories": [
     "dissociatives"
   ],
   "class": "Arylcyclohexylamines",
-  "description": "However, its activity in humans was not described until 1999 when a chemist using the pseudonym John Q. Beagle reported qualitative similarities to PCP along with comparable potency. In 2009, it began to be discussed on online forums such as bluelight.ru and was made available for sale on the research chemicals market. Like other arylcyclohexylamines, 3-MeO-PCP induces a state referred to as \"dissociative anesthesia\", although the extent to which this occurs is reported to be highly dose-dependent and variable in its effects.",
+  "description": "3-Methylphencyclidine (also known as 3-Me-PCP) is a lesser-known novel dissociative substance of the arylcyclohexylamine class. Like other arylcyclohexylamines, 3-Me-PCP induces a state referred to as 'dissociative anesthesia', although the extent to which this occurs is reported to be highly dose-dependent and variable in its effects. Due to its potent hallucinogenic effects and lack of research, it is strongly advised to use use harm reduction practices if using this substance.",
   "effects": {
     "positive": [
       "Physical euphoria - 3-MeO-PCP has been reported to more readily induce euphoria than most other dissociatives, such as ketamine or diphenidine, especially of the manic variant.",
@@ -87,30 +88,13 @@ export const _3_meo_pcp: Substance =
   },
   "defaultUnit": "mg",
   "routeData": {
-    "insufflated": {
-      "dosage": {
-        "threshold": "1mg",
-        "light": "2-5mg",
-        "common": "5-10mg",
-        "strong": "10-15mg",
-        "heavy": "Unknown"
-      },
-      "duration": {
-        "onset": "5-30 minutes",
-        "comeup": "45-90 minutes",
-        "peak": "1.5-2 hours",
-        "offset": "45-60 minutes",
-        "total": "3-5 hours",
-        "afterglow": "4-48 hours"
-      }
-    },
     "oral": {
       "dosage": {
-        "threshold": "2mg",
-        "light": "4-8mg",
-        "common": "8-15mg",
-        "strong": "15-25mg",
-        "heavy": "25mg"
+        "threshold": "5mg",
+        "light": "5-10mg",
+        "common": "10-20mg",
+        "strong": "20-30mg",
+        "heavy": "30mg+"
       },
       "duration": {
         "onset": "30-90 minutes",
@@ -127,7 +111,7 @@ export const _3_meo_pcp: Substance =
         "light": "5-10mg",
         "common": "10-20mg",
         "strong": "20-25mg",
-        "heavy": "25mg"
+        "heavy": "25mg+"
       },
       "duration": {
         "onset": "Unknown",
@@ -137,8 +121,26 @@ export const _3_meo_pcp: Substance =
         "total": "45-120 minutes",
         "afterglow": "Unknown"
       }
-    }
-  },
+    },
+    "insufflated": {
+      "dosage": {
+        "threshold": "5mg",
+        "light": "5-10mg",
+        "common": "10-20mg",
+        "strong": "20-25mg",
+        "heavy": "15mg+"
+      },
+      
+      "duration": {
+        "onset": "5-30 minutes",
+        "comeup": "45-90 minutes",
+        "peak": "1,5-2 hours",
+        "offset": "45-60 minutes",
+        "total": "3-5 hours",
+        "afterglow": "4-48 hours"
+      }
+  }
+},
   "interactions": {
     "dangerous": [
       "Stimulants",
@@ -151,25 +153,7 @@ export const _3_meo_pcp: Substance =
     ]
   },
   "harmReduction": [
-    "The toxicity and long-term health effects of recreational 3-MeO-PCP use has not been studied in any scientific context and the exact toxic dosage is unknown. This is because 3-MeO-PCP has very short history of human usage.",
-    "There is one death involving this substance recorded in the medical literature. In this case, the individual's cause of death was determined to be from a combination of 3-MeO-PCP, amphetamine, and diphenhydramine.",
-    "3-MeO-PCP produces dependence with chronic use and has a high potential for abuse. In comparison to other dissociatives, 3-MeO-PCP has been reported to be more likely to produce psychological dependence than other dissociatives. When dependence has developed, cravings and withdrawal effects may occur if one suddenly stops their usage. There are multiple online reports of users becoming seriously dependent on this substance.",
-    "Tolerance to many of the effects of 3-MeO-PCP develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). 3-MeO-PCP presents cross-tolerance with all dissociatives, meaning that after the consumption of 3-MeO-PCP, all dissociatives will have a reduced effect.",
-    "3-MeO-PCP has been reported to cause psychosis, delusions, and mania at a significantly higher rate than other dissociatives such as ketamine, diphenidine, or MXE. There are a large number of experience reports online which describe states of \"psychotic delirium, amnesia, mania, and other serious consequences\" after abusing 3-MeO-PCP. In some cases, it has resulted in hospitalization and occasionally has taken up to a week or more to resolve.",
-    "Users should avoid taking 3-MeO-PCP for multiple days in a row or becoming dependent on it as this seems to be the main risk factor in the observed incidences of severe adverse effects.",
-    "The recommended dosage range should not be exceeded as high doses can trigger these effects as well.",
-    "Users should start with extremely low doses and work their way up as slowly as possible. Volumetric liquid dosing should preferably be used due to the drug's potency; most standard milligram scales cannot accurately weigh out doses below 10-15mg.",
-    "Compulsive redosing before one has fully sobered up is not recommended and can result in too high of a dose.",
-    "Due to the risk of psychosis, it is not recommended to combine this substance with other substances, especially stimulants, psychedelics, or other dissociatives like MXE. Independent research should always be done to ensure that a combination of two or more substances is safe before consumption.",
-    "It is strongly advised to use harm reduction practices when using this substance.",
-    "In terms of its long-term health effects when used repeatedly and excessively for extended periods of time, 3-MeO-PCP seems to exhibit almost identical bladder and urinary tract problems to those found within ketamine, but to a lesser extent. This is possibly because 3-MeO-PCP is far more potent than ketamine so significantly less of drug needs to be consumed.  Increased urinary tract effects will compound with usage of other drugs like amphetamine even if the drugs are not simultaneously used.  Symptoms of ketamine-induced cystitis can become extremely serious and can be described as:",
-    "Urinary frequency - Urinary frequency is the need to empty the bladder every few minutes.",
-    "Urinary urgency - This can be described as a sudden, compelling need to urinate.",
-    "Urinary pressure - This is experienced as a constant sensation of fullness in the bladder that is unrelieved by urination.",
-    "Pelvic and bladder pain - Pain can develop suddenly and severely, particularly as the bladder fills with urine.",
-    "Hematuria - Hematuria is visible blood in the urine.",
-    "Incontinence - This is the leakage of urine.",
-    "These effects can be mitigated by refraining from using 3-MeO-PCP regularly (on a daily or weekly basis) and manually limiting one's usage of the substance."
+    "HR info soon, see PW link for more."
   ],
   "legality": "Legal status varies by jurisdiction. Check local laws.",
   "chemistry": {
@@ -180,5 +164,5 @@ export const _3_meo_pcp: Substance =
   "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
-  "psychonautWikiUrl": "https://psychonautwiki.org/wiki/3-MeO-PCP"
+  "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Talk:3-Me-PCP"
 };

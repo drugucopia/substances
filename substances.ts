@@ -205,6 +205,7 @@ export { _3_ho_pcp } from './3-ho-pcp';
 export { _3_meo_pcmo } from './3-meo-pcmo';
 export { _3_meo_pce } from './3-meo-pce';
 export { _3_meo_pcp } from './3-meo-pcp';
+export { _3_me_pcp } from './3-me-pcp';
 export { _4_meo_pcp } from './4-meo-pcp';
 export { deschloroketamine } from './deschloroketamine';
 export { dextromethorphan } from './dextromethorphan';
