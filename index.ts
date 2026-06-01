@@ -241,6 +241,7 @@ import { tramadol as opioids_tramadol } from './opioids/tramadol';
 import { u_47700 as opioids_u_47700 } from './opioids/u-47700';
 import { blue_lotus as other_blue_lotus } from './other/blue-lotus';
 import { bromazepam as other_bromazepam } from './other/bromazepam';
+import { magnesium_glycinate as other_magnesium_glycinate } from './other/magnesium-glycinate';
 import { _2_5_dma as stimulants__2_5_dma } from './stimulants/2-5-dma';
 import { _2_aminoindane as stimulants__2_aminoindane } from './stimulants/2-aminoindane';
 import { _2_fa as stimulants__2_fa } from './stimulants/2-fa';
@@ -562,6 +563,7 @@ const allRaw: Substance[] = [
   opioids_u_47700,
   other_blue_lotus,
   other_bromazepam,
+  other_magnesium_glycinate,
   stimulants__2_5_dma,
   stimulants__2_aminoindane,
   stimulants__2_fa,
