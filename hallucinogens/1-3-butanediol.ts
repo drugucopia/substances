@@ -1,5 +1,5 @@
 // Auto-generated from substances.txt
-import type { Substance } from './types';
+import type { Substance } from '../types';
 
 // Substance Data
 // Name: 1,3-Butanediol
