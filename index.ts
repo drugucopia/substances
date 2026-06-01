@@ -106,7 +106,6 @@ import { methylone as empathogens_methylone } from './empathogens/methylone';
 import { mt as empathogens_mt } from './empathogens/mt';
 import { pma as empathogens_pma } from './empathogens/pma';
 import { pmma as empathogens_pmma } from './empathogens/pmma';
-import { _1_3_butanediol as hallucinogens__1_3_butanediol } from './hallucinogens/1-3-butanediol';
 import { _1b_lsd as hallucinogens__1b_lsd } from './hallucinogens/1b-lsd';
 import { _1cp_al_lad as hallucinogens__1cp_al_lad } from './hallucinogens/1cp-al-lad';
 import { _1cp_lsd as hallucinogens__1cp_lsd } from './hallucinogens/1cp-lsd';
@@ -427,7 +426,6 @@ const allRaw: Substance[] = [
   empathogens_mt,
   empathogens_pma,
   empathogens_pmma,
-  hallucinogens__1_3_butanediol,
   hallucinogens__1b_lsd,
   hallucinogens__1cp_al_lad,
   hallucinogens__1cp_lsd,
