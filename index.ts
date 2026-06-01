@@ -8,6 +8,7 @@ import { jwh_073 as cannabinoids_jwh_073 } from './cannabinoids/jwh-073';
 import { sts_135 as cannabinoids_sts_135 } from './cannabinoids/sts-135';
 import { thj_018 as cannabinoids_thj_018 } from './cannabinoids/thj-018';
 import { thj_2201 as cannabinoids_thj_2201 } from './cannabinoids/thj-2201';
+import { cannabis as cannabinoids_cannabis } from './cannabinoids/cannabis';
 import { benzydamine as deliriants_benzydamine } from './deliriants/benzydamine';
 import { datura as deliriants_datura } from './deliriants/datura';
 import { diphenhydramine as deliriants_diphenhydramine } from './deliriants/diphenhydramine';
@@ -240,7 +241,6 @@ import { tramadol as opioids_tramadol } from './opioids/tramadol';
 import { u_47700 as opioids_u_47700 } from './opioids/u-47700';
 import { blue_lotus as other_blue_lotus } from './other/blue-lotus';
 import { bromazepam as other_bromazepam } from './other/bromazepam';
-import { cannabis as other_cannabis } from './other/cannabis';
 import { _2_5_dma as stimulants__2_5_dma } from './stimulants/2-5-dma';
 import { _2_aminoindane as stimulants__2_aminoindane } from './stimulants/2-aminoindane';
 import { _2_fa as stimulants__2_fa } from './stimulants/2-fa';
@@ -329,6 +329,7 @@ const allRaw: Substance[] = [
   cannabinoids_sts_135,
   cannabinoids_thj_018,
   cannabinoids_thj_2201,
+  cannabinoids_cannabis,
   deliriants_benzydamine,
   deliriants_datura,
   deliriants_diphenhydramine,
@@ -561,7 +562,6 @@ const allRaw: Substance[] = [
   opioids_u_47700,
   other_blue_lotus,
   other_bromazepam,
-  other_cannabis,
   stimulants__2_5_dma,
   stimulants__2_aminoindane,
   stimulants__2_fa,

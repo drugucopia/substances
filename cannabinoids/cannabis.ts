@@ -4,7 +4,7 @@ import type { Substance } from '../types';
 // Substance Data
 // Name: Cannabis
 // ID: cannabis
-// Categories: other
+// Categories: Cannabinoids
 // Class: Cannabinoid
 
 export const cannabis: Substance = 
