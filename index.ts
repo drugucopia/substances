@@ -309,6 +309,7 @@ import { theacrine as stimulants_theacrine } from './stimulants/theacrine';
 import { tma_2 as stimulants_tma_2 } from './stimulants/tma-2';
 import { tma_6 as stimulants_tma_6 } from './stimulants/tma-6';
 import { tyrosine as stimulants_tyrosine } from './stimulants/tyrosine';
+import { buspirone as medications_buspirone } from './medications/buspirone';
 
 import type { Substance, SubstanceCategory } from './types';
 
@@ -630,6 +631,7 @@ const allRaw: Substance[] = [
   stimulants_tma_2,
   stimulants_tma_6,
   stimulants_tyrosine,
+  medications_buspirone,
 ];
 
 for (const substance of allRaw) {
