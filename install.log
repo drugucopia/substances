@@ -1,9 +1,0 @@
-[14:50:31 2026-06-09] FETCHING Version 2.43.2
-[14:50:31 2026-06-09] CREATING /home/conflift/.spicetify
-[14:50:31 2026-06-09] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.43.2/spicetify-2.43.2-linux-amd64.tar.gz
-[14:50:32 2026-06-09] EXTRACTING /home/conflift/.spicetify/spicetify.tar.gz
-[14:50:32 2026-06-09] SETTING EXECUTABLE PERMISSIONS TO /home/conflift/.spicetify/spicetify
-[14:50:32 2026-06-09] REMOVING /home/conflift/.spicetify/spicetify.tar.gz
-[14:50:32 2026-06-09] APPENDING /home/conflift/.spicetify to PATH in /home/conflift/.config/fish/config.fish
-[14:50:32 2026-06-09] spicetify v2.43.2 was installed successfully to /home/conflift/.spicetify
-[14:50:32 2026-06-09] Run 'spicetify --help' to get started
