@@ -43,7 +43,7 @@ export interface Substance {
   history: string | null;
   routes?: string[];
   afterEffects: string;
-  riskLevel: 'low' | 'moderate' | 'high' | 'very-high';
+  riskLevel: 'none' | 'low' | 'moderate' | 'high' | 'very-high';
   aliases: string[];
   psychonautWikiUrl?: string;
 }
@@ -58,7 +58,8 @@ export type SubstanceCategory =
   | 'opioids'
   | 'deliriants'
   | 'nootropics'
-  | 'other';
+  | 'other'
+  | 'medications';
 
 export interface CategoryInfo {
   id: SubstanceCategory;
