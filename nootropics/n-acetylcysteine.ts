@@ -12,7 +12,9 @@ export const n_acetylcysteine: Substance =
   "id": "n-acetylcysteine",
   "name": "N-Acetylcysteine",
   "commonNames": [
-    "N-Acetylcysteine"
+    "N-Acetylcysteine",
+    "NAC"
+    
   ],
   "categories": [
     "nootropics"
@@ -54,10 +56,10 @@ export const n_acetylcysteine: Substance =
       },
       "duration": {
         "onset": "20-60 minutes",
-        "comeup": "Unknown",
-        "peak": "Unknown",
-        "offset": "Unknown",
-        "total": "3-6 hours",
+        "comeup": "1-2 hours",
+        "peak": "1-2 hours",
+        "offset": "6-12 hours",
+        "total": "12-18 hours",
         "afterglow": "Unknown"
       }
     }
