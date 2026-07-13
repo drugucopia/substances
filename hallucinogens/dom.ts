@@ -131,7 +131,8 @@ export const dom: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted amphetamines"
   },
-  "history": "DOM was first synthesized and tested in 1963 by Alexander Shulgin, who was investigating the effect of 4-position substitutions on psychedelic amphetamines. In mid-1967, tablets containing 20 mg (later 10 mg) of DOM were widely distributed in the Haight-Ashbury District of San Francisco under the name of \"STP\" (short for \"Serenity, Tranquility, and Peace\"). This, combined with DOM’s slow onset of action (which encouraged some users, familiar with substances that have quicker onsets, such as LSD, to re-dose) and its remarkably long duration, caused many users to panic and sent some to the emergency room.",
+    "aliases": [],
+"history": "DOM was first synthesized and tested in 1963 by Alexander Shulgin, who was investigating the effect of 4-position substitutions on psychedelic amphetamines. In mid-1967, tablets containing 20 mg (later 10 mg) of DOM were widely distributed in the Haight-Ashbury District of San Francisco under the name of \"STP\" (short for \"Serenity, Tranquility, and Peace\"). This, combined with DOM’s slow onset of action (which encouraged some users, familiar with substances that have quicker onsets, such as LSD, to re-dose) and its remarkably long duration, caused many users to panic and sent some to the emergency room.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/DOM"

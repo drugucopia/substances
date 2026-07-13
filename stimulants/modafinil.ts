@@ -100,7 +100,8 @@ export const modafinil: Substance =
     "molecularWeight": "Unknown",
     "class": "Benzhydryl"
   },
-  "history": "Modafinil was originally developed in France by neurophysiologist professor Michel Jouvet and Lafon Laboratories. Modafinil originated with the late 1970s invention of a series of benzhydryl sulfinyl compounds, including adrafinil, which was first offered as an experimental treatment for narcolepsy in France in 1986. Modafinil is the primary metabolite of adrafinil, lacking the polar -OH group on its terminal amide, and has similar activity to the parent drug but is much more widely used.",
+    "aliases": [],
+"history": "Modafinil was originally developed in France by neurophysiologist professor Michel Jouvet and Lafon Laboratories. Modafinil originated with the late 1970s invention of a series of benzhydryl sulfinyl compounds, including adrafinil, which was first offered as an experimental treatment for narcolepsy in France in 1986. Modafinil is the primary metabolite of adrafinil, lacking the polar -OH group on its terminal amide, and has similar activity to the parent drug but is much more widely used.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Modafinil"

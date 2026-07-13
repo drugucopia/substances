@@ -115,7 +115,8 @@ export const methiopropamine: Substance =
     "molecularWeight": "Unknown",
     "class": "Thiophene"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Methiopropamine"

@@ -136,7 +136,8 @@ export const doi: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted amphetamines"
   },
-  "history": "DOI was first synthesized by a team at the University of Alberta in 1972.",
+    "aliases": [],
+"history": "DOI was first synthesized by a team at the University of Alberta in 1972.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/DOI"

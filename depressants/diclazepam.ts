@@ -92,7 +92,8 @@ export const diclazepam: Substance =
     "molecularWeight": "Unknown",
     "class": "Benzodiazepines"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Diclazepam"

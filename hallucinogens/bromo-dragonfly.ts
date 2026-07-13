@@ -98,7 +98,8 @@ export const bromo_dragonfly: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted amphetamines"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Bromo-DragonFLY"

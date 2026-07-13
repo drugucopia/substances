@@ -129,7 +129,8 @@ export const _2_fluorodeschloroketamine: Substance =
     "molecularWeight": "Unknown",
     "class": "Arylcyclohexylamines"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/2-Fluorodeschloroketamine"

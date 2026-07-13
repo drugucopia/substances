@@ -102,7 +102,8 @@ export const f_phenibut: Substance =
     "molecularWeight": "Unknown",
     "class": "Gabapentinoids"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/F-Phenibut"

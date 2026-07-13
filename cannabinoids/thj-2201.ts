@@ -112,7 +112,8 @@ export const thj_2201: Substance =
     "molecularWeight": "Unknown",
     "class": "Naphthoylindazole"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/THJ-2201"

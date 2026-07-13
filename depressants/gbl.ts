@@ -138,7 +138,8 @@ export const gbl: Substance =
     "molecularWeight": "Unknown",
     "class": "Lactone"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/GBL"

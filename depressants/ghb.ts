@@ -138,7 +138,8 @@ export const ghb: Substance =
     "molecularWeight": "Unknown",
     "class": "Γ-Hydroxy acid"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "very-high",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/GHB"

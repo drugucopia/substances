@@ -140,7 +140,8 @@ export const _25b_nbome: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted phenethylamines"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "very-high",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/25B-NBOMe"

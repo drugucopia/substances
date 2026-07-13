@@ -93,7 +93,8 @@ export const apica: Substance =
     "molecularWeight": "Unknown",
     "class": "Indolecarboxamide"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/APICA"

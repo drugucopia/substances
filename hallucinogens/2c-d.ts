@@ -119,7 +119,8 @@ export const _2c_d: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted phenethylamines"
   },
-  "history": "The synthesis of 2C-D was first published in 1970 by a team from the Texas Research Institute of Mental Sciences,, but initial trials by Alexander Shulgin at sub-threshold doses were carried out in 1964. Shulgin notably referred to 2C-D as a “pharmacological tofu,” meaning it can extend or potentiate the effect of other substances without overly coloring the experience, in a manner similar to how tofu absorbs the flavors of sauces or spices it is cooked with. Despite showing promise as a very functional psychostimulant with successful studies investigating the use in psychotherapy in Germany, 2C-D has not found widespread use.",
+    "aliases": [],
+"history": "The synthesis of 2C-D was first published in 1970 by a team from the Texas Research Institute of Mental Sciences,, but initial trials by Alexander Shulgin at sub-threshold doses were carried out in 1964. Shulgin notably referred to 2C-D as a “pharmacological tofu,” meaning it can extend or potentiate the effect of other substances without overly coloring the experience, in a manner similar to how tofu absorbs the flavors of sauces or spices it is cooked with. Despite showing promise as a very functional psychostimulant with successful studies investigating the use in psychotherapy in Germany, 2C-D has not found widespread use.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/2C-D"

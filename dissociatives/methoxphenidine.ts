@@ -100,7 +100,8 @@ export const methoxphenidine: Substance =
     "molecularWeight": "Unknown",
     "class": "Diarylethylamines"
   },
-  "history": "Methoxphenidine is an example of a designer drug, specifically chosen to mimic the functional or structural features of commonly used illicit substances and circumvent government regulation.",
+    "aliases": [],
+"history": "Methoxphenidine is an example of a designer drug, specifically chosen to mimic the functional or structural features of commonly used illicit substances and circumvent government regulation.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Methoxphenidine"

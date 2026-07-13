@@ -77,7 +77,8 @@ export const citicoline: Substance =
     "molecularWeight": "Unknown",
     "class": "Ammonium salt"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Citicoline"

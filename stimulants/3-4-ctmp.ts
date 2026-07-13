@@ -133,7 +133,8 @@ export const _3_4_ctmp: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted phenidates"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/3,4-CTMP"

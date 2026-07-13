@@ -196,7 +196,8 @@ export const alcohol: Substance =
     "molecularWeight": "Unknown",
     "class": "Alcohol"
   },
-  "history": "History and culture of alcoholic drinks\nAlcohol was brewed as early as 7000 to 6650 BCE in northern China. Pliny the Elder wrote about the golden age of winemaking in Rome, the second century BCE, when vineyards were planted. In vino veritas is a Latin phrase that means \"in wine there is truth.\"",
+    "aliases": [],
+"history": "History and culture of alcoholic drinks\nAlcohol was brewed as early as 7000 to 6650 BCE in northern China. Pliny the Elder wrote about the golden age of winemaking in Rome, the second century BCE, when vineyards were planted. In vino veritas is a Latin phrase that means \"in wine there is truth.\"",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "very-high",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Alcohol"

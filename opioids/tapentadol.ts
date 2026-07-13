@@ -119,7 +119,8 @@ export const tapentadol: Substance =
     "molecularWeight": "Unknown",
     "class": "Phenylpropylamine"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Tapentadol"

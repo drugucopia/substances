@@ -115,7 +115,8 @@ export const _4f_eph: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted phenidates"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/4F-EPH"

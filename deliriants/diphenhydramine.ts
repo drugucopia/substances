@@ -168,7 +168,8 @@ export const diphenhydramine: Substance =
     "molecularWeight": "Unknown",
     "class": "Ethanolamine"
   },
-  "history": "Diphenhydramine was discovered in 1943 by George Rieveschl, a former professor at the University of Cincinnati. In 1946, it became the first prescription antihistamine approved by the United States Food and Drug Administration (FDA). This discovery led to a search for viable antidepressants with similar structures and fewer side effects, culminating in the invention of fluoxetine (Prozac), a selective serotonin reuptake inhibitor (SSRI).",
+    "aliases": [],
+"history": "Diphenhydramine was discovered in 1943 by George Rieveschl, a former professor at the University of Cincinnati. In 1946, it became the first prescription antihistamine approved by the United States Food and Drug Administration (FDA). This discovery led to a search for viable antidepressants with similar structures and fewer side effects, culminating in the invention of fluoxetine (Prozac), a selective serotonin reuptake inhibitor (SSRI).",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "very-high",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Diphenhydramine"

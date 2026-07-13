@@ -44,7 +44,7 @@ export interface Substance {
   routes?: string[];
   afterEffects: string;
   riskLevel: 'none' | 'low' | 'moderate' | 'high' | 'very-high';
-  aliases: string[];
+  aliases?: string[];
   psychonautWikiUrl?: string;
 }
 
@@ -74,6 +74,7 @@ export interface Interactions {
   unsafe: string[];
   uncertain: string[];
   crossTolerances: string[];
+  [key: string]: string[];
 }
 
 export interface TripSitCombo {

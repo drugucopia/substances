@@ -103,7 +103,8 @@ export const k_2c_b: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted phenethylamines"
   },
-  "history": "However, based on information gathered from internet forums and scientific studies, it appears that it was not originally synthesized in the 1970s by Alexander Shulgin like many 2C-x compounds. The first reliable mention of βk-2C-B does not appear until 2004, with it playing only a minor role in a scientific study as a precursor of 5-HT2A serotonin receptor agonists. βk-2C-B received more attention since 2013, when the first experience reports appear on the internet following its appearance on the research chemical market via \"online head shops\" start selling it as \"a legal replacement for 2C-B\".",
+    "aliases": [],
+"history": "However, based on information gathered from internet forums and scientific studies, it appears that it was not originally synthesized in the 1970s by Alexander Shulgin like many 2C-x compounds. The first reliable mention of βk-2C-B does not appear until 2004, with it playing only a minor role in a scientific study as a precursor of 5-HT2A serotonin receptor agonists. βk-2C-B received more attention since 2013, when the first experience reports appear on the internet following its appearance on the research chemical market via \"online head shops\" start selling it as \"a legal replacement for 2C-B\".",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Bk-2C-B"

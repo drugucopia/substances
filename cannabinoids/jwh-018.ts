@@ -115,7 +115,8 @@ export const jwh_018: Substance =
     "molecularWeight": "Unknown",
     "class": "Naphthoylindole"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/JWH-018"

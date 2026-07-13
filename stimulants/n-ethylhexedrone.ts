@@ -148,7 +148,8 @@ export const n_ethylhexedrone: Substance =
     "molecularWeight": "Unknown",
     "class": "Cathinone"
   },
-  "history": "N-Ethylhexedrone was patented by the German pharmaceutical company Boehringer Ingelheim in 1964 as a potential anorexigenic agent. It was first identified in a sample from the Belgian Customs laboratory which was received at the JRC on November 2015. Subsequently, in February 2016, the EMCDDA received notifications of the identification of this substance from other countries, such as Sweden, The Netherlands, France, Belgium and Slovenia.",
+    "aliases": [],
+"history": "N-Ethylhexedrone was patented by the German pharmaceutical company Boehringer Ingelheim in 1964 as a potential anorexigenic agent. It was first identified in a sample from the Belgian Customs laboratory which was received at the JRC on November 2015. Subsequently, in February 2016, the EMCDDA received notifications of the identification of this substance from other countries, such as Sweden, The Netherlands, France, Belgium and Slovenia.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/N-Ethylhexedrone"

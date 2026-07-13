@@ -127,7 +127,8 @@ export const _5f_pb_22: Substance =
     "molecularWeight": "Unknown",
     "class": "Indolecarboxylate"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/5F-PB-22"

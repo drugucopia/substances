@@ -79,7 +79,8 @@ export const alpha_gpc: Substance =
     "molecularWeight": "Unknown",
     "class": "Choline derivative"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Alpha-GPC"

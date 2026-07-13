@@ -102,7 +102,8 @@ export const ethylmorphine: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted morphinans"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Ethylmorphine"

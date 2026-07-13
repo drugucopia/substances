@@ -125,7 +125,8 @@ export const dichloropane: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted tropanes"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Dichloropane"

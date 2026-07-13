@@ -92,7 +92,8 @@ export const sam_e: Substance =
     "molecularWeight": "Unknown",
     "class": "Nitrogenous organic acid"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/SAMe"

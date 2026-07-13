@@ -167,7 +167,8 @@ export const pce: Substance =
     "molecularWeight": "Unknown",
     "class": "Arylcyclohexylamines"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/PCE"

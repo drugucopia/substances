@@ -85,7 +85,8 @@ export const n_acetylcysteine: Substance =
     "molecularWeight": "Unknown",
     "class": "Cysteine"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/N-Acetylcysteine"

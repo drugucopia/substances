@@ -99,7 +99,8 @@ export const flualprazolam: Substance =
     "molecularWeight": "Unknown",
     "class": "Benzodiazepines"
   },
-  "history": "Flualprazolam first appeared on the research chemical market around 2017",
+    "aliases": [],
+"history": "Flualprazolam first appeared on the research chemical market around 2017",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Flualprazolam"

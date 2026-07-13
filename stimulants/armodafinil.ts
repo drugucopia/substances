@@ -109,7 +109,8 @@ export const armodafinil: Substance =
     "molecularWeight": "Unknown",
     "class": "Benzhydryl"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Armodafinil"

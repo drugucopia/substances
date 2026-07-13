@@ -106,7 +106,8 @@ export const u_47700: Substance =
     "molecularWeight": "Unknown",
     "class": "Benzamide"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/U-47700"

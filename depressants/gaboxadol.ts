@@ -108,7 +108,8 @@ export const gaboxadol: Substance =
     "molecularWeight": "Unknown",
     "class": "3-hydroxyisoxazole"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Gaboxadol"

@@ -104,7 +104,8 @@ export const efavirenz: Substance =
     "molecularWeight": "Unknown",
     "class": "Benzoxazine"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Efavirenz"

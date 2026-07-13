@@ -152,7 +152,8 @@ export const _4_aco_dmt: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted tryptamines"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/4-AcO-DMT"

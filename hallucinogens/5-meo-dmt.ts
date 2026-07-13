@@ -134,7 +134,8 @@ export const _5_meo_dmt: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted tryptamines"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/5-MeO-DMT"

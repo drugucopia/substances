@@ -117,7 +117,8 @@ export const methylphenidate: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted phenidates"
   },
-  "history": "The compound was first synthesized in 1944 by chemist Leandro Panizzon and marketed as “Ritalin” by Swiss company CIBA (now Novartis) in 1954. Production and prescription only rose significantly in the 1990s, especially in the United States, as the ADHD diagnosis came to be better understood and more generally accepted within the medical and mental health communities. In 2000, Alza Corporation received US FDA approval to market Concerta, an extended-release form of methylphenidate.",
+    "aliases": [],
+"history": "The compound was first synthesized in 1944 by chemist Leandro Panizzon and marketed as “Ritalin” by Swiss company CIBA (now Novartis) in 1954. Production and prescription only rose significantly in the 1990s, especially in the United States, as the ADHD diagnosis came to be better understood and more generally accepted within the medical and mental health communities. In 2000, Alza Corporation received US FDA approval to market Concerta, an extended-release form of methylphenidate.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Methylphenidate"

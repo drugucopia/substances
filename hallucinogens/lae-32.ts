@@ -69,7 +69,8 @@ export const lae_32: Substance =
     "molecularWeight": "Unknown",
     "class": "Lysergamides"
   },
-  "history": "",
+    "aliases": [],
+"history": "",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/LAE-32"

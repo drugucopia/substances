@@ -95,7 +95,8 @@ export const _1_4_butanediol: Substance =
     "molecularWeight": "Unknown",
     "class": "Alkanediol"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/1,4-Butanediol"

@@ -100,7 +100,8 @@ export const mcpp: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted piperazines"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/MCPP"

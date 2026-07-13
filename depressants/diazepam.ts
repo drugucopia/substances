@@ -106,7 +106,8 @@ export const diazepam: Substance =
     "molecularWeight": "Unknown",
     "class": "Benzodiazepines"
   },
-  "history": "Following chlordiazepoxide (Librium), which was approved for use in 1960, diazepam was the second benzodiazepine invented by Leo Sternbach of pharmaceutical company Hoffman-La Roche. Released in 1963 as an improved version of Librium, diazepam became incredibly popular and quickly surpassed it in sales, helping Roche to become a pharmaceutical industry giant. Marketed by Roche using an advertising campaign conceived by the William Douglas McAdams Agency under the leadership of Arthur Sackler, Diazepam was the top-selling pharmaceutical in the United States from 1969 to 1982, with peak annual sales in 1978 of 2.3 billion Valium tablets.",
+    "aliases": [],
+"history": "Following chlordiazepoxide (Librium), which was approved for use in 1960, diazepam was the second benzodiazepine invented by Leo Sternbach of pharmaceutical company Hoffman-La Roche. Released in 1963 as an improved version of Librium, diazepam became incredibly popular and quickly surpassed it in sales, helping Roche to become a pharmaceutical industry giant. Marketed by Roche using an advertising campaign conceived by the William Douglas McAdams Agency under the leadership of Arthur Sackler, Diazepam was the top-selling pharmaceutical in the United States from 1969 to 1982, with peak annual sales in 1978 of 2.3 billion Valium tablets.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Diazepam"

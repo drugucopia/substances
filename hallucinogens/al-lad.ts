@@ -146,7 +146,8 @@ export const al_lad: Substance =
     "molecularWeight": "Unknown",
     "class": "Lysergamides"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/AL-LAD"

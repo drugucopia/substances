@@ -108,7 +108,8 @@ export const hydrocodone: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted morphinans"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "very-high",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Hydrocodone"

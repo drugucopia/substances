@@ -98,7 +98,8 @@ export const gabapentin: Substance =
     "molecularWeight": "Unknown",
     "class": "Gabapentinoids"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Gabapentin"

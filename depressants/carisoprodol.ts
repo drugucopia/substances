@@ -89,7 +89,8 @@ export const carisoprodol: Substance =
     "molecularWeight": "Unknown",
     "class": "1,3-Propanediol dicarbamate"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Carisoprodol"

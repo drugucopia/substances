@@ -115,7 +115,8 @@ export const butylone: Substance =
     "molecularWeight": "Unknown",
     "class": "MDxx"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Butylone"

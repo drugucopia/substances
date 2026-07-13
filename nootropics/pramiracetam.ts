@@ -84,7 +84,8 @@ export const pramiracetam: Substance =
     "molecularWeight": "Unknown",
     "class": "Racetams"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Pramiracetam"

@@ -129,7 +129,8 @@ export const isopropylphenidate: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted phenidates"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Isopropylphenidate"

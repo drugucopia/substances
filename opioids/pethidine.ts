@@ -113,7 +113,8 @@ export const pethidine: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted piperidines"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Pethidine"

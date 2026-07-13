@@ -130,7 +130,8 @@ export const morphine: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted morphinans"
   },
-  "history": "Morphine was first isolated in 1806 by German pharmacist's assistant, Friedrich Sertürner. Sertürner originally named the substance morphium after the Greek god of dreams, Morpheus, for its tendency to cause sleep. Morphine's clinical significance was not recognized by the greater medical community until 1831, when Sertürner was recognized for his contribution and granted the French equivalent of the Nobel Prize. Other alkaloids were later identified from the opium plant, one of these thirty such alkaloids later became codeine. Morphine use was spearheaded by Dr. Alexander Wood's invention the hypodermic syringe in 1853. However, it wasn't until the American Civil War in 1861, the Prussian-Austrian War in 1866, and the Franco-Prussian War of 1870 that morphine saw widespread use as part of military medicine.",
+    "aliases": [],
+"history": "Morphine was first isolated in 1806 by German pharmacist's assistant, Friedrich Sertürner. Sertürner originally named the substance morphium after the Greek god of dreams, Morpheus, for its tendency to cause sleep. Morphine's clinical significance was not recognized by the greater medical community until 1831, when Sertürner was recognized for his contribution and granted the French equivalent of the Nobel Prize. Other alkaloids were later identified from the opium plant, one of these thirty such alkaloids later became codeine. Morphine use was spearheaded by Dr. Alexander Wood's invention the hypodermic syringe in 1853. However, it wasn't until the American Civil War in 1861, the Prussian-Austrian War in 1866, and the Franco-Prussian War of 1870 that morphine saw widespread use as part of military medicine.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Morphine"

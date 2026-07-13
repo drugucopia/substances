@@ -130,7 +130,8 @@ export const _2c_b_fly: Substance =
     "molecularWeight": "Unknown",
     "class": "Substituted phenethylamines"
   },
-  "history": "In a 2007 MAPS newsletter interview, Ann Shulgin revealed that 2C-B-FLY as one of her favorite psychedelic substances while also acknowledging the high variability in responses it seemed to display.\nAnn Shulgin",
+    "aliases": [],
+"history": "In a 2007 MAPS newsletter interview, Ann Shulgin revealed that 2C-B-FLY as one of her favorite psychedelic substances while also acknowledging the high variability in responses it seemed to display.\nAnn Shulgin",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/2C-B-FLY"

@@ -110,7 +110,8 @@ export const pma: Substance =
     "molecularWeight": "Unknown",
     "class": "Amphetamine"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "very-high",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/PMA"

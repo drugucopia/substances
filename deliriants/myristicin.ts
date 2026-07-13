@@ -154,7 +154,8 @@ export const myristicin: Substance =
     "molecularWeight": "Unknown",
     "class": "Phenylpropenes"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "very-high",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Myristicin"

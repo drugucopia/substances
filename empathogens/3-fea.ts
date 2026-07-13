@@ -152,7 +152,8 @@ export const _3_fea: Substance =
     "molecularWeight": "Unknown",
     "class": "Amphetamine"
   },
-  "history": null,
+    "aliases": [],
+"history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/3-FEA"

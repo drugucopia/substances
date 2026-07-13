@@ -151,7 +151,8 @@ export const _1v_lsd: Substance =
     "molecularWeight": "Unknown",
     "class": "Lysergamides"
   },
-  "history": "1V-LSD first appeared on the online research chemical market in June or July of 2021.\nThe provenance is not known; the substance does not appear in any academic literature pre-dating its arrival on the online research chemical market.\nInterestingly, the future usage of 1-akylated lysergamide derivatives as a means to bypass controlled substance laws banning LSD as a precursor was seemingly foreseen in a DEA report from 1988:\nFuture Synthetic Drugs of Abuse, 1988.",
+    "aliases": [],
+"history": "1V-LSD first appeared on the online research chemical market in June or July of 2021.\nThe provenance is not known; the substance does not appear in any academic literature pre-dating its arrival on the online research chemical market.\nInterestingly, the future usage of 1-akylated lysergamide derivatives as a means to bypass controlled substance laws banning LSD as a precursor was seemingly foreseen in a DEA report from 1988:\nFuture Synthetic Drugs of Abuse, 1988.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/1V-LSD"
