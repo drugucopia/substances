@@ -309,7 +309,34 @@ import { theacrine as stimulants_theacrine } from "./stimulants/theacrine";
 import { tma_2 as stimulants_tma_2 } from "./stimulants/tma-2";
 import { tma_6 as stimulants_tma_6 } from "./stimulants/tma-6";
 import { tyrosine as stimulants_tyrosine } from "./stimulants/tyrosine";
+import { agomelatine as medications_agomelatine } from "./medications/agomelatine";
+import { amitriptyline as medications_amitriptyline } from "./medications/amitriptyline";
+import { aripiprazole as medications_aripiprazole } from "./medications/aripiprazole";
+import { bupropion as medications_bupropion } from "./medications/bupropion";
 import { buspirone as medications_buspirone } from "./medications/buspirone";
+import { carbamazepine as medications_carbamazepine } from "./medications/carbamazepine";
+import { citalopram as medications_citalopram } from "./medications/citalopram";
+import { desvenlafaxine as medications_desvenlafaxine } from "./medications/desvenlafaxine";
+import { duloxetine as medications_duloxetine } from "./medications/duloxetine";
+import { escitalopram as medications_escitalopram } from "./medications/escitalopram";
+import { fluoxetine as medications_fluoxetine } from "./medications/fluoxetine";
+import { fluvoxamine as medications_fluvoxamine } from "./medications/fluvoxamine";
+import { lamotrigine as medications_lamotrigine } from "./medications/lamotrigine";
+import { lithium as medications_lithium } from "./medications/lithium";
+import { moclobemide as medications_moclobemide } from "./medications/moclobemide";
+import { olanzapine as medications_olanzapine } from "./medications/olanzapine";
+import { paroxetine as medications_paroxetine } from "./medications/paroxetine";
+import { phenelzine as medications_phenelzine } from "./medications/phenelzine";
+import { quetiapine as medications_quetiapine } from "./medications/quetiapine";
+import { risperidone as medications_risperidone } from "./medications/risperidone";
+import { selegiline as medications_selegiline } from "./medications/selegiline";
+import { sertraline as medications_sertraline } from "./medications/sertraline";
+import { tranylcypromine as medications_tranylcypromine } from "./medications/tranylcypromine";
+import { trazodone as medications_trazodone } from "./medications/trazodone";
+import { valproate as medications_valproate } from "./medications/valproate";
+import { venlafaxine as medications_venlafaxine } from "./medications/venlafaxine";
+import { vilazodone as medications_vilazodone } from "./medications/vilazodone";
+import { vortioxetine as medications_vortioxetine } from "./medications/vortioxetine";
 
 import type { Substance, SubstanceCategory } from "./types";
 
@@ -631,7 +658,34 @@ const allRaw: Substance[] = [
   stimulants_tma_2,
   stimulants_tma_6,
   stimulants_tyrosine,
+  medications_agomelatine,
+  medications_amitriptyline,
+  medications_aripiprazole,
+  medications_bupropion,
   medications_buspirone,
+  medications_carbamazepine,
+  medications_citalopram,
+  medications_desvenlafaxine,
+  medications_duloxetine,
+  medications_escitalopram,
+  medications_fluoxetine,
+  medications_fluvoxamine,
+  medications_lamotrigine,
+  medications_lithium,
+  medications_moclobemide,
+  medications_olanzapine,
+  medications_paroxetine,
+  medications_phenelzine,
+  medications_quetiapine,
+  medications_risperidone,
+  medications_selegiline,
+  medications_sertraline,
+  medications_tranylcypromine,
+  medications_trazodone,
+  medications_valproate,
+  medications_venlafaxine,
+  medications_vilazodone,
+  medications_vortioxetine,
 ];
 
 for (const substance of allRaw) {
