@@ -106,10 +106,10 @@ export const phenibut: Substance =
     "Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing and may necessitate a gradual dose reduction. Withdrawal symptoms include severe anxiety, nervousness, hallucinations, tremors, agitation, dizziness, tension, irritation, rapid heartbeat, fatigue, loss of appetite, nausea, vomiting, psychosis, and insomnia.",
     "Phenibut produces cross-tolerance with all GABAgenic depressants, meaning that after its consumption, depressants will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Legal status varies by jurisdiction. (US: uncontrolled federally, scheduled in some states (AL, AR, IN, LA, MI, TN); UK: controlled under Psychoactive Substances Act 2016; EU: varies, controlled in some member states (FR, DE, HU, LV); CA: uncontrolled; AU: Schedule 4 (prescription only))",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C10H13NO2",
+    "molecularWeight": "179.22 g/mol",
     "class": "Gabapentinoids"
   },
     "aliases": [],

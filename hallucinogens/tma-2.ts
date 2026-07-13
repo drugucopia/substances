@@ -97,10 +97,10 @@ export const tma_2: Substance =
     "TMA-2 is not habit-forming and the desire to use it can actually decrease with use. It is most often self-regulating.",
     "Tolerance to the effects of TMA-2 are built almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). TMA-2 presents cross-tolerance with all psychedelics, meaning that after the consumption of TMA-2 all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C12H19NO3",
+    "molecularWeight": "225.28 g/mol",
     "class": "Substituted amphetamines"
   },
     "aliases": [],

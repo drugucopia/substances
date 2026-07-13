@@ -119,10 +119,10 @@ export const eth_cat: Substance =
     "Tolerance to many of the effects of ETH-CAT develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 2 - 3 days for the tolerance to be reduced to half and 3-5 days to be back at baseline (in the absence of further consumption). ETH-CAT presents cross-tolerance with all dopaminergic stimulants, meaning that after the consumption of ETH-CAT all stimulants will have a reduced effect.",
     "Abuse of compounds within the amphetamine chemical class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis. Psychosis is known to arises only very rarely from therapeutic use."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C11H15NO",
+    "molecularWeight": "177.24 g/mol",
     "class": "Cathinone"
   },
     "aliases": [],

@@ -163,10 +163,10 @@ export const dpt: Substance =
     "DPT is not habit-forming and the desire to use it can actually decrease with use. As with most psychedelics, it is reported to be self-limiting.",
     "Tolerance to the effects of DPT has been shown to not be built in animal models. However, it has been reported to be able to build slightly relative to DMT, although still to an insignificant degree compared to most psychedelics."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C16H24N2",
+    "molecularWeight": "244.37 g/mol",
     "class": "Substituted tryptamines"
   },
     "aliases": [],

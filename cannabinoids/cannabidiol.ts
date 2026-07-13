@@ -71,10 +71,10 @@ export const cannabidiol: Substance =
     "Commonly reported side effects from prescribed cannabidiol use include tiredness, diarrhea, and changes of appetite and weight.",
     "Cannabidiol is considered to have low abuse potential compared to THC and other recreational substances. Cannabidiol administration does not produce euphoria or other reinforcing effects and there is no evidence that use results in physical or psychological dependence."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Legal status varies by jurisdiction. (US: Schedule I (FDA-approved Epidiolex is Schedule V, hemp-derived <0.3% THC is uncontrolled); UK: controlled if THC>0.2% (Schedule 2), prescription (Schedule 4) for medical; EU: varies by member state, generally prescription or novel food regulated; CA: prescription (Schedule II), hemp-derived products legal; AU: Schedule 4 (prescription only))",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C21H30O2",
+    "molecularWeight": "314.50 g/mol",
     "class": "Cannabinoid"
   },
     "aliases": [],

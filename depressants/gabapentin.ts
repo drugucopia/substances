@@ -92,10 +92,10 @@ export const gabapentin: Substance =
     "Gabapentin is not considered psychologically addictive. However, it is possible to develop a physical dependence on the drug. In fact, people can experience withdrawal symptoms for up to 45 days after they stop taking gabapentin. Although gabapentin does give some people a euphoric “high” which can cause abuse, gabapentin abusers do not present with the kind of compulsive, drug-seeking behavior or strong cravings associated with other more common depressants such as opioids, alcohol or benzodiazepines.",
     "Tolerance will develop to the anxiolytic effects with prolonged continuous usage. After cessation, the tolerance returns to baseline in 7-14 days. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing and may necessitate a gradual dose reduction."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule V (US - some states), Prescription-only (EU/UK/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C9H17NO2",
+    "molecularWeight": "171.24 g/mol",
     "class": "Gabapentinoids"
   },
     "aliases": [],

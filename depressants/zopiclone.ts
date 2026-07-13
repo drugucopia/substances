@@ -89,10 +89,10 @@ export const zopiclone: Substance =
     "Tolerance will develop to the sedative-hypnotic effects within a couple of weeks of daily use. After cessation, the tolerance returns to baseline in 7 - 14 days. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction.",
     "Zopiclone presents cross-tolerance with all benzodiazepines, meaning that after its consumption benzodiazepines and most other GABAgenic depressants will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule IV (US), Class C (UK), Schedule IV (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H17ClN6O3",
+    "molecularWeight": "388.80 g/mol",
     "class": "Cyclopyrrolone"
   },
     "aliases": [],

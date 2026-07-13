@@ -202,10 +202,10 @@ export const cocaine: Substance =
     "Typical symptoms of sufferers include paranoid delusions that they are being followed and that their drug use is being watched accompanied by hallucinations that support the delusional beliefs. Delusional parasitosis with formication (\"cocaine bugs\") is also a fairly common symptom.",
     "Cocaine-induced psychosis shows sensitization toward the psychotic effects of the drug. This means that psychosis becomes more severe with repeated intermittent use."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule II (US), Class A (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H21NO4",
+    "molecularWeight": "303.35 g/mol",
     "class": "Substituted tropanes"
   },
     "aliases": [],

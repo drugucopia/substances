@@ -126,10 +126,10 @@ export const ibogaine: Substance =
     "Ibogaine has been associated with life-threatening heart complications, such as QT prolongation. It can be taken safely, but only under the supervision of trained medical professionals.",
     "Ibogaine is not habit-forming, and the desire to use it can actually decrease with regular consumption. Like most psychedelics, it is most often thought to be self-regulating."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C20H26N2O",
+    "molecularWeight": "310.40 g/mol",
     "class": "Substituted tryptamines"
   },
     "aliases": [],

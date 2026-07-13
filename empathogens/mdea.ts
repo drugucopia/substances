@@ -139,10 +139,10 @@ export const mdea: Substance =
     "Tolerance to many of the effects of MDEA develops with prolonged and repeated use. This results in users having to administer increasingly larger doses to achieve the same effects. After that, it takes about 1-1.5 months for the tolerance to be reduced to half and 2-3 months to be back at baseline (in the absence of further consumption). MDEA presents cross-tolerance with all dopaminergic and serotonergic stimulants and entactogens, meaning that after the consumption of MDEA all of these will have a reduced effect.",
     "There is an increased risk of serotonin syndrome when MDEA is taken with many antidepressants, particularly selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs). Additionally, if MDEA is taken with SSRIs and SNRIs, the MDEA will be significantly less powerful or may have no distinguishable effects at all."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C5H13NO2",
+    "molecularWeight": "119.16 g/mol",
     "class": "Amphetamine"
   },
     "aliases": [],

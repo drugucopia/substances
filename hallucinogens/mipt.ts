@@ -94,10 +94,10 @@ export const mipt: Substance =
     "MiPT is not habit-forming and the desire to use it can actually decrease with regular consumption. Like with most psychedelics, it is most often thought to be self-regulating.",
     "Tolerance to the effects of MiPT is built almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). MiPT presents cross-tolerance with all psychedelics, meaning that after the consumption of MiPT all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C14H20N2",
+    "molecularWeight": "216.32 g/mol",
     "class": "Substituted tryptamines"
   },
     "aliases": [],

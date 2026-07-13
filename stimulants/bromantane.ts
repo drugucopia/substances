@@ -81,10 +81,10 @@ export const bromantane: Substance =
     "There are multiple anecdotal reports of long-term increases in energy levels, likely from elevated dopamine, from use of bromantane for periods of several months. These effects are claimed to persist even after stopping use of the drug, although have been noted to diminish over time, on a scale of weeks to a month. In a study investigating bromantane in the treatment of neurasthenia, a persistent reduction in fatigue was noted for a month following withdrawal of the drug.",
     "Due to its mechanism of action, bromantane can cause an unexpectedly strong reaction when mixed with other stimulants such as amphetamine, cocaine and/or methylphenidate. It is advised to avoid the use of stimulants with bromantane due to the potential for much stronger reactions than one would expect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Legal status varies: US: uncontrolled (research chemical); UK: Psychoactive Substances Act; EU: varies; CA: uncontrolled; AU: Schedule 4",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C16H20BrN",
+    "molecularWeight": "306.24 g/mol",
     "class": "Adamantanes"
   },
     "aliases": [],

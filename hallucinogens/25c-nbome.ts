@@ -150,10 +150,10 @@ export const _25c_nbome: Substance =
     "25C-NBOMe is not habit-forming, and the desire to use it can actually decrease with use. It is most often self-regulating.",
     "Tolerance to the effects of 25C-NBOMe is built almost immediately after ingestion. After that, it takes about 7 days for the tolerance to be reduced to half and 14 days to be back at baseline (in the absence of further consumption). 25C-NBOMe presents cross-tolerance with all psychedelics, meaning that after the consumption of 25C-NBOMe all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C18H22ClNO3",
+    "molecularWeight": "335.80 g/mol",
     "class": "Substituted phenethylamines"
   },
     "aliases": [],

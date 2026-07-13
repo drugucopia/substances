@@ -94,10 +94,10 @@ export const fenethylline: Substance =
     "crossTolerances": []
   },
   "harmReduction": [],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C18H23N5O2",
+    "molecularWeight": "341.40 g/mol",
     "class": "Amphetamine"
   },
     "aliases": [],

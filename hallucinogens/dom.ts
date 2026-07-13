@@ -125,10 +125,10 @@ export const dom: Substance =
     "DOM is not habit-forming and the desire to use it can decrease with use. It is most often self-regulating.",
     "Tolerance to the effects of DOM is built almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). DOM presents cross-tolerance with all psychedelics, meaning that after the consumption of DOM all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C12H19NO2",
+    "molecularWeight": "209.28 g/mol",
     "class": "Substituted amphetamines"
   },
     "aliases": [],

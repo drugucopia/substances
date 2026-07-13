@@ -75,10 +75,10 @@ export const galantamine: Substance =
     "Galantamine is not known to be not habit-forming and the desire to use it can actually decrease with use. It is most often self-regulating.",
     "Galantamine does not seem to build up an immediate tolerance, and, due to its long half life, becomes stronger with prolonged use. Caution should be heeded when taking galantamine for extended periods longer than two weeks. Galantamine presents cross-tolerance with no other known compounds, meaning that after the consumption of Galantamine all other psychoactive compounds will not have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Prescription only: Unscheduled (US), Prescription-only (EU/UK/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H21NO3",
+    "molecularWeight": "287.35 g/mol",
     "class": "Benzazepine"
   },
     "aliases": [],

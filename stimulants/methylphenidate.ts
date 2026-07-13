@@ -111,10 +111,10 @@ export const methylphenidate: Substance =
     "crossTolerances": []
   },
   "harmReduction": [],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule II (US), Class B (UK), Schedule II (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C14H19NO2",
+    "molecularWeight": "233.31 g/mol",
     "class": "Substituted phenidates"
   },
     "aliases": [],

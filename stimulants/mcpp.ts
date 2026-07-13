@@ -94,10 +94,10 @@ export const mcpp: Substance =
     "It is strongly recommended that one use harm reduction practices when using this drug.",
     "mCPP is not known to be addictive, but there are not any studies exclusively on its addiction potential."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C10H11ClO3",
+    "molecularWeight": "214.64 g/mol",
     "class": "Substituted piperazines"
   },
     "aliases": [],

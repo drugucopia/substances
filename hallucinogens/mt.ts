@@ -127,10 +127,10 @@ export const mt: Substance =
     "AMT is considered to be moderately habit-forming.",
     "Tolerance to the effects of αMT is built almost immediately after ingestion. After that, it takes about 14 days for the tolerance to be reduced to half and 1 month to be back at baseline (in the absence of further consumption). AMT presents cross-tolerance with all psychedelics, meaning that after the consumption of αMT all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C11H14N2",
+    "molecularWeight": "174.24 g/mol",
     "class": "Substituted tryptamines"
   },
     "aliases": [],

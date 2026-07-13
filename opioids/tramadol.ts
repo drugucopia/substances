@@ -116,10 +116,10 @@ export const tramadol: Substance =
     "2C-T-x",
     "DXM"
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule IV (US), Class C (UK), Schedule IV (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C16H25NO2",
+    "molecularWeight": "263.37 g/mol",
     "class": "Phenylpropylamine"
   },
     "aliases": [],

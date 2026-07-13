@@ -121,10 +121,10 @@ export const _2_fa: Substance =
     "In a analogous way tolerance to amphetamine relates to tolerance on methamphetamine, 2-FA has been observed to have a similar relationship to its more popular relative, 2-FMA.",
     "Abuse of compounds within the amphetamine chemical class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis. Psychosis very rarely arises from therapeutic use."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C9H12FN",
+    "molecularWeight": "153.20 g/mol",
     "class": "Substituted amphetamines"
   },
     "aliases": [],

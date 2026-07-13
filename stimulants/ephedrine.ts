@@ -93,10 +93,10 @@ export const ephedrine: Substance =
     "As with other stimulants, the chronic use of ephedrine can be considered moderately addictive and is capable of causing psychological dependence among certain users.",
     "Tolerance to the effects of ephedrine are quickly built after repeated and frequent usage.  Ephedrinepresents cross-tolerance with other dopaminergic stimulants, meaning that after the consumption of ephedrine, most other stimulant compounds will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule V (US - some states), Prescription-only (EU/UK/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C10H15NO",
+    "molecularWeight": "165.23 g/mol",
     "class": "Amphetamine"
   },
     "aliases": [],

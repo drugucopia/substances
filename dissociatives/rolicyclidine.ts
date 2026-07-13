@@ -153,10 +153,10 @@ export const rolicyclidine: Substance =
     ]
   },
   "harmReduction": [],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C16H23N",
+    "molecularWeight": "229.36 g/mol",
     "class": "Arylcyclohexylamines"
   },
     "aliases": [],

@@ -146,10 +146,10 @@ export const heroin: Substance =
     "The risk of fatal heroin overdoses rise sharply after a period of cessation and relapse, largely because of reduced tolerance. When users dose their old doses, they no longer have the physical tolerance to handle the sedative effects of heroin and overdose occurs. To account for this lack of physical tolerance, it is safer to only dose a fraction of one's usual dosage if using after a prolonged period of sobriety. It has also been found that the environment one is in can play a role in tolerance: in one scientific study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment.",
     "Studies have shown that the subjective cognitive euphoria and physical euphoria of heroin use, which is the reinforcing component of addiction, is proportional in its' intensity to the rate at which the blood level concentrations of the drug increases. Intravenous injection is the fastest route of drug administration, causing blood concentrations to rise the fastest. It is followed by smoking, suppository (anal or vaginal insertion), insufflation (snorting), and ingestion (swallowing)."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C21H23NO5",
+    "molecularWeight": "369.40 g/mol",
     "class": "Substituted morphinans"
   },
     "aliases": [],

@@ -81,10 +81,10 @@ export const ept: Substance =
     "Anecdotal reports suggest that EPT does not produce dependence and has low abuse potential. It is believed to be similar in this respect to other unsubstituted tryptamines like DMT, DET, and MET.",
     "Unlike DMT, tolerance to the effects of EPT appears to form almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). EPT produces cross-tolerance with all psychedelics, meaning that after the consumption of EPT all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C14H20N2",
+    "molecularWeight": "216.32 g/mol",
     "class": "Substituted tryptamines"
   },
     "aliases": [],

@@ -113,10 +113,10 @@ export const methylnaphthidate: Substance =
     "In terms of its tolerance, methylnaphthidate can be used multiple days in a row for extended periods of time, but acute tolerance does exist and builds up gradually over repeated extended use. This results in the user requiring an increase in dosage to achieve the same effects.",
     "While generally considered less recreational, methylnaphthidate has potential for abuse on par with that of amphetamine, cocaine or methylphenidate due to its lack of significant tolerance, euphoric effects and action upon dopamine and serotonin transporters."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C18H21NO2",
+    "molecularWeight": "283.40 g/mol",
     "class": "Substituted phenidates"
   },
     "aliases": [],

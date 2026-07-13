@@ -136,10 +136,10 @@ export const diphenidine: Substance =
     "As with other NMDA receptor antagonists, the chronic use of diphenidine can be considered moderately addictive with a high potential for abuse. It is likely capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if one suddenly stops their usage.",
     "Tolerance to many of the effects of diphenidine develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Diphenidine presents cross-tolerance with all dissociatives, meaning that after the consumption of diphenidine all dissociatives will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US - analog act), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C19H23N",
+    "molecularWeight": "265.40 g/mol",
     "class": "Diarylethylamines"
   },
     "aliases": [],

@@ -133,10 +133,10 @@ export const _4_aco_det: Substance =
     "After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption).",
     "4-AcO-DET presents cross-tolerance with all psychedelics, meaning that after the consumption of 4-AcO-DET all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C16H22N2O2",
+    "molecularWeight": "274.36 g/mol",
     "class": "Substituted tryptamines"
   },
     "aliases": [],

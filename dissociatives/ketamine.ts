@@ -202,10 +202,10 @@ export const ketamine: Substance =
     "Fatal ketamine overdoses are rare. Ketamine's toxicity drastically increases when it is mixed with other substances. Overdoses can cause respiratory depression, vomiting, positional asphyxia, heart problems, rhabdomyolysis causing kidney failure and rarely seizures.  However, there is evidence that suggests extremely high doses may result in damage to the brain and other organs.",
     "Rapidly injected ketamine (under 2 minutes) can cause cause transient respiratory depression. The effects of ketamine on reflexes and rapid loss of normal consciousness can increase the chances of positional asphyxia (passing out in a position where you can't breath)."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule III (US), Class B (UK), Schedule III (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C13H16ClNO",
+    "molecularWeight": "237.72 g/mol",
     "class": "Arylcyclohexylamines"
   },
     "aliases": [],

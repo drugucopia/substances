@@ -188,10 +188,10 @@ export const amphetamine: Substance =
     "Amphetamine exhibits cross-tolerance with all dopaminergic stimulants, meaning that after the consumption of amphetamine most stimulants will have a reduced effect.",
     "Severe amphetamine overdose can result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, delusions). A review on treatment for amphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis. Psychosis very rarely arises from therapeutic use."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule II (US), Class B (UK), Schedule II (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C9H13N",
+    "molecularWeight": "135.21 g/mol",
     "class": "Substituted phenethylamines"
   },
     "aliases": [],

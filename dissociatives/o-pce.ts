@@ -139,10 +139,10 @@ export const o_pce: Substance =
     "Incontinence - This is the leakage of urine.",
     "However, anecdotal evidence suggests that these symptoms can be largely avoided by refraining from using O-PCE on a regular basis (e.g. weekly at the bare minimum) and carefully monitoring and limiting one's intake of the substance."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US - analog act), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C14H19NO",
+    "molecularWeight": "217.31 g/mol",
     "class": "Arylcyclohexylamines"
   },
     "aliases": [],

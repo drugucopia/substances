@@ -123,10 +123,10 @@ export const _2_fluorodeschloroketamine: Substance =
     "Incontinence - This is the leakage of urine.",
     "All of these, however, can easily be avoided by simply not using 2-Fluorodeschloroketamine on a daily or even weekly basis and manually limiting one's usage of the substance."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US - analog act), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C13H16FNO",
+    "molecularWeight": "221.27 g/mol",
     "class": "Arylcyclohexylamines"
   },
     "aliases": [],

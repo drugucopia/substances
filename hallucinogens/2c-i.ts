@@ -114,10 +114,10 @@ export const _2c_i: Substance =
     "Although no formal studies have been conducted, it is not unreasonable to assume that as is the case with psychedelics in general, 2C-I is not habit-forming and that the desire to use it can actually decrease with use.",
     "Tolerance to the effects of 2C-I is built almost immediately after ingestion. After that, it takes about 3-5 days for the tolerance to be reduced to half and 7-10 days to be back at baseline (in the absence of further consumption). 2C-I presents cross-tolerance with all psychedelics, meaning that after the consumption of 2C-I all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C10H14INO2",
+    "molecularWeight": "307.13 g/mol",
     "class": "Substituted phenethylamines"
   },
     "aliases": [],

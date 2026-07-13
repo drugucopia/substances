@@ -137,10 +137,10 @@ export const _3_meo_pce: Substance =
     "Incontinence - This is the leakage of urine.",
     "All of these, however, can easily be avoided by simply not using 3-MeO-PCE on a daily or even weekly basis and consciously limiting one's usage of the substance."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US - analog act), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C15H23NO",
+    "molecularWeight": "233.35 g/mol",
     "class": "Arylcyclohexylamines"
   },
     "aliases": [],

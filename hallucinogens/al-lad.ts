@@ -140,10 +140,10 @@ export const al_lad: Substance =
     "Tolerance to the effects of AL-LAD is built almost immediately after ingestion. After that, it takes about 5-7 days for the tolerance to be reduced to half and 14 days to be back at baseline (in the absence of further consumption). AL-LAD presents cross-tolerance with all psychedelics, meaning that after the use of AL-LAD all psychedelics will have a reduced effect.",
     "The LD50 of AL-LAD is unknown. Adverse psychological reactions are common especially at higher dosages. Some of these include anxiety, delusions, panic attacks and more rarely seizures. Medical attention is usually only needed if suspected of severe psychotic episodes or “fake acid” (such as 25i-NBOMe or DOB). Administration of benzodiazepines or antipsychotics can help to relieve the negative cognitive effects of AL-LAD."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C22H27N3O",
+    "molecularWeight": "349.50 g/mol",
     "class": "Lysergamides"
   },
     "aliases": [],

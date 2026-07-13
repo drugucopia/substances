@@ -74,10 +74,10 @@ export const midazolam: Substance =
     "Gradual reduction of midazolam after regular use can minimise withdrawal and rebound effects. Tolerance and the resultant withdrawal syndrome may be due to receptor down-regulation and GABAA receptor alterations in gene expression, which causes long-term changes in the function of the GABAergic neuronal system.",
     "A midazolam overdose is considered a medical emergency and generally requires the immediate attention of medical personnel. Benzodiazepine overdose in healthy individuals is rarely life-threatening with proper medical support; however, the toxicity of benzodiazepines increases when they are combined with other CNS depressants such as alcohol, opioids, or tricyclic antidepressants. The toxicity of benzodiazepine overdose and risk of death is also increased in the elderly and those with obstructive pulmonary disease or when used intravenously."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule IV (US), Class C (UK), Schedule IV (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C18H13ClFN3",
+    "molecularWeight": "325.80 g/mol",
     "class": "Benzodiazepines"
   },
     "aliases": [],

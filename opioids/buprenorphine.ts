@@ -120,10 +120,10 @@ export const buprenorphine: Substance =
     "Buprenorphine has the ability to precipitate withdrawal symptoms in opiate-dependent individuals. This is due to buprenorphine only being a partial agonist, which does not activate the receptor with the appreciable efficacy of a full agonist, as well as having a very high binding affinity for the receptor (Ki = 1.5nM), displacing other agonists that may still be attached when the buprenorphine is ingested.",
     "Note: It is a common misconception that naloxone, in some buprenorphine formulations, is what causes the precipitated withdrawal syndrome to manifest. This is false, as naloxone has a lower binding than Buprenorphine, as well as being inactive through most routes of administration."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule III (US), Class C (UK), Schedule III (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C29H41NO4",
+    "molecularWeight": "467.60 g/mol",
     "class": "Substituted morphinans"
   },
     "aliases": [],

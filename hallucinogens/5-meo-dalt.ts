@@ -128,10 +128,10 @@ export const _5_meo_dalt: Substance =
     "After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption).",
     "5-MeO-DALT presents cross-tolerance with all psychedelics, meaning that after the consumption of 5-MeO-DALT all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H22N2O",
+    "molecularWeight": "270.37 g/mol",
     "class": "Substituted tryptamines"
   },
     "aliases": [],

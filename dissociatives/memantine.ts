@@ -126,10 +126,10 @@ export const memantine: Substance =
     "Stimulants - Memantine is reported to increase the effects, prevent build up and in some cases reverse tolerance to stimulants.",
     "Alcohol - Memantine is reported to increase the effects, prevent build up and, in some cases, reverse tolerance to alcohol."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Prescription only: Unscheduled (US), Prescription-only (EU/UK/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C12H21N",
+    "molecularWeight": "179.30 g/mol",
     "class": "Adamantanes"
   },
     "aliases": [],

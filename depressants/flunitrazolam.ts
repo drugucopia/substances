@@ -89,10 +89,10 @@ export const flunitrazolam: Substance =
     "Benzodiazepine overdose is a medical emergency that may lead to a coma, permanent brain injury or death if not treated promptly and properly.",
     "Symptoms of a benzodiazepine overdose may include severe thought deceleration, slurred speech, confusion, delusions, respiratory depression, coma or death. Benzodiazepine overdoses may be treated effectively in a hospital environment, with generally favorable outcomes. Benzodiazepine overdoses are sometimes treated with flumazenil, a GABAA antagonist, however care is primarily supportive in nature."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class C (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H12FN5O2",
+    "molecularWeight": "337.31 g/mol",
     "class": "Benzodiazepines"
   },
     "aliases": [],

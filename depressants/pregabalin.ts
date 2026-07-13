@@ -147,10 +147,10 @@ export const pregabalin: Substance =
     "Oxycodone and pregabalin exists. However, several studies have failed to find any serotonergic effect whatsoever from pregabalin. One paper states, \"Although pregabalin is a structural analog of GABA, it has no clinically significant effects at GABA-A or GABA-B receptors, and it is not converted metabolically into GABA or a GABA agonist. Pregabalin is not a serotonin reuptake inhibitor and does not act as a glutamate receptor antagonist.\" A more recent study writes that \"Pregabalin has no involvement with serotonin and dopamine receptors and does not inhibit dopamine, serotonin, or noradrenaline reuptake.\" Pregabalin's main mechanism of action is binding and blocking sub receptor on Voltage-Gated Calcium Channels, leading to a downstream reduction of overactive neurons.",
     "If pregabalin has serotonergic effects, it could interact negatively with other serotonergic substances, including SSRIs, MDMA, various analgesics, and possibly other recreational and medical substances. Given the total lack of evidence for any serotonergic activity in multiple studies, it seems possible that the one reported adverse event was a freak accident, caused by unknown factors."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule V (US), Class C (UK), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C8H17NO2",
+    "molecularWeight": "159.23 g/mol",
     "class": "Gabapentinoids"
   },
     "aliases": [],

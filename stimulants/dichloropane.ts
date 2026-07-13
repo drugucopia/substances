@@ -119,10 +119,10 @@ export const dichloropane: Substance =
     "These symptoms can last for weeks or, in some cases, months. Even after most withdrawal symptoms dissipate most users feel the need to continue using the drug; this feeling can last for years and may peak during times of stress.",
     "Due to its very brief history of human usage, little is known about dichloropane's ability to induce psychosis, although it is reasonable to assume it presents similar risks to that of cocaine and other dopaminergic stimulants when abused, typically for extended durations, in high doses and or for prolonged periods of time."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C15H17Cl2NO2",
+    "molecularWeight": "314.20 g/mol",
     "class": "Substituted tropanes"
   },
     "aliases": [],

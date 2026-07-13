@@ -127,10 +127,10 @@ export const eth_lad: Substance =
     "Tolerance to the effects of ETH-LAD builds almost immediately after ingestion. After that, it takes about 5-7 days for the tolerance to be reduced to half and 14 days to return to baseline (in the absence of further consumption). ETH-LAD presents cross-tolerance with all psychedelics, meaning that after the consumption of ETH-LAD all psychedelics will display a reduced effect.",
     "While ETH-LAD has no known toxic dosage, many anecdotal reports suggest this compound to be harsher to handle in overdoses when compared to LSD or other lysergamides. Overdose effects can already start in the heavy dose range and are described as being particularly uncomfortable and bizarre. Some of these effects include anxiety, delusions, confusion, panic attacks, severe nausea and body load, and more rarely seizures. Medical attention is usually only needed if suspected of severe psychotic episodes or “fake acid” (such as 25i-NBOMe or DOB). Administration of benzodiazepines or antipsychotics can help to relieve the negative cognitive effects."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C21H27N3O",
+    "molecularWeight": "337.50 g/mol",
     "class": "Lysergamides"
   },
     "aliases": [],

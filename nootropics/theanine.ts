@@ -73,10 +73,10 @@ export const theanine: Substance =
     "Theanine is not habit-forming.",
     "Tolerance to the effects of theanine are built up after prolonged and repeated usage. After noticeable tolerance has been built, it takes about 5 days for tolerance to be reduced by half and 10 days return to baseline. Theanine presents cross-tolerance with no other known compounds, meaning that after the consumption of theanine all other psychoactive compounds will not have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (dietary supplement)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C7H14N2O3",
+    "molecularWeight": "174.20 g/mol",
     "class": "Unknown"
   },
     "aliases": [],

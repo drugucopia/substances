@@ -95,10 +95,10 @@ export const theacrine: Substance =
     "As with caffeine, theacrine produces dependence with chronic use and has a low abuse potential. When dependence has developed, cravings and withdrawal effects will occur if one suddenly stops its use.",
     "Tolerance to many of the effects of theacrine develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). It should be noted, however, that tolerance buildup does not occur as rapidly as with that of caffeine. Theacrine presents cross-tolerance with antagonists adenosine receptors, meaning that after the consumption of theacrine certain stimulants such as caffeine and theobromine will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (dietary supplement)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C9H12N4O3",
+    "molecularWeight": "224.22 g/mol",
     "class": "Xanthines"
   },
     "aliases": [],

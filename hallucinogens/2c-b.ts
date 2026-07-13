@@ -181,10 +181,10 @@ export const _2c_b: Substance =
     "Tolerance to the effects of 2C-B is not built almost immediately after ingestion. There are many anecdotal reports of people ingesting this substance many days in a row (either consecutively or by redosing many many times in a row and tripping continuously for dozens of hours) with no immediate tolerance build up and still building quite slowly even under sustained exposure.",
     "2C-B does not produce cross-tolerance with other serotonergic psychedelics, although most users report other psychedelics affecting 2C-B tolerance. For example 2C-B followed by LSD will not result in any loss of effects whereas LSD followed by 2C-B will. Others report 2C-B following a completely separate tolerance clock to other psychedelics with no cross tolerance being shared between the two, although this seems to be a rare reaction with that individual's personal body chemistry, with the aforementioned one-way tolerance being the case for the very large majority of the population."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Schedule II (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C10H14BrNO2",
+    "molecularWeight": "260.13 g/mol",
     "class": "Substituted phenethylamines"
   },
     "aliases": [],

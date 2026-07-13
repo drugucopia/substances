@@ -100,10 +100,10 @@ export const u_47700: Substance =
     "U-47700 withdrawal symptoms can be especially painful and emerge after 2-4 hours after the last dose administration. It is highly advisable not to become physically dependent on this substance, as physical dependence can develop in a short period.",
     "The risk of fatal opioid overdoses rise sharply after a period of cessation and relapse, largely because of reduced tolerance. To account for this lack of tolerance, it is safer to only dose a fraction of one's usual dosage if relapsing. It has also been found that the environment one is in can play a role in opioid tolerance. In one scientific study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C16H22Cl2N2O",
+    "molecularWeight": "329.30 g/mol",
     "class": "Benzamide"
   },
     "aliases": [],

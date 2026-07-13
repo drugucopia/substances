@@ -138,10 +138,10 @@ export const psilocybin_mushrooms: Substance =
     "In rare cases, psilocybin mushrooms may trigger hallucinogen persisting perception disorder (HPPD) in some individuals. The cause is unclear; however, explanations in terms of psilocybin physically remaining in the body for months or years after consumption have been discounted by experimental evidence.",
     "Some say HPPD is a manifestation of post-traumatic stress disorder, not related to the direct action on brain chemistry, and varies according to the susceptibility of the individual to the disorder."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US, UN); decriminalized/legal in some jurisdictions (OR, CO, Jamaica, Brazil, Netherlands truffles); illegal in UK, Canada, Australia",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "Variable (fungal mixture: psilocybin/psilocin + other compounds)",
+    "molecularWeight": "N/A (fungal mixture)",
     "class": "Substituted tryptamines"
   },
     "aliases": [],

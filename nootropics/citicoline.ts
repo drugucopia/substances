@@ -71,10 +71,10 @@ export const citicoline: Substance =
     "Citicoline is not habit-forming and the desire to use it can actually decrease with use. It is most often self-regulating.",
     "Citicoline does not seem to build up an immediate tolerance and becomes stronger with prolonged use due to its long half-life. It is not recommended to take citicoline for extended periods longer than two weeks."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Prescription only in some EU countries; Unscheduled/Uncontrolled in most jurisdictions (dietary supplement)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C14H26N4O11P2",
+    "molecularWeight": "488.32 g/mol",
     "class": "Ammonium salt"
   },
     "aliases": [],

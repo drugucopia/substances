@@ -94,10 +94,10 @@ export const desomorphine: Substance =
     "The risk of fatal opioid overdoses rise sharply after a period of cessation and relapse, largely because of reduced tolerance. To account for this lack of tolerance, it is safer to only dose a fraction of one's usual dosage if relapsing. It has also been found that the environment one is in can play a role in opioid tolerance. In one scientific study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment.",
     "Opiate overdose is usually treated with an opioid antagonist, such as naloxone (Narcan). This reverses the effects of opioids like desomorphine and causes an immediate return of consciousness but may result in withdrawal symptoms. The half-life of naloxone is shorter than most opioids, so it may have to be administered multiple times until the body has metabolized the opioid."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H21NO2",
+    "molecularWeight": "271.35 g/mol",
     "class": "Substituted morphinans"
   },
     "aliases": [],

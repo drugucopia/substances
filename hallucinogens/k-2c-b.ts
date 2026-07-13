@@ -97,10 +97,10 @@ export const k_2c_b: Substance =
     "As with psychedelics in general, βk-2C-B is not habit-forming and the desire to use it can actually decrease with use. It is most often self-regulating.",
     "Tolerance to the effects of βk-2C-B are built almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). Bk-2C-B presents cross-tolerance with all psychedelics, meaning that after the consumption of βk-2C-B, all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C18H22BrNO3",
+    "molecularWeight": "372.28 g/mol",
     "class": "Substituted phenethylamines"
   },
     "aliases": [],

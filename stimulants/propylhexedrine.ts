@@ -121,10 +121,10 @@ export const propylhexedrine: Substance =
     "In highly dependent amphetamine and methamphetamine abusers, \"when chronic heavy users abruptly discontinue methamphetamine use, many report a time-limited withdrawal syndrome that occurs within 24 hours of their last dose\". Withdrawal symptoms in chronic, high-dose users are frequent, occurring in up to 87.6% of cases, and persist for three to four weeks with a marked \"crash\" phase occurring during the first week. Methamphetamine withdrawal symptoms can include anxiety, drug craving, dysphoric mood, fatigue, increased appetite, increased movement or decreased movement, lack of motivation, sleeplessness or sleepiness, and vivid or lucid dreams. Withdrawal symptoms are associated with the degree of dependence (i.e., the extent of abuse). The mental depression associated with methamphetamine withdrawal lasts longer and is more severe than that of cocaine withdrawal.. It is likely that propylhexedrine abuse is subject to these same outcomes.",
     "Like with the abuse of methamphetamine, propylhexedrine abuse can result in a stimulant-induced psychotic state that may present with a variety of symptoms (e.g., paranoia, hallucinations, delusions), though likely to a lesser degree."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (OTC nasal decongestant)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C10H21N",
+    "molecularWeight": "155.28 g/mol",
     "class": "Cycloalkylamines"
   },
     "aliases": [],

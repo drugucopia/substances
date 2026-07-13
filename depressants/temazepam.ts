@@ -93,10 +93,10 @@ export const temazepam: Substance =
     "Benzodiazepine overdose may occur when a benzodiazepine is taken in extremely heavy quantities or concurrently with other depressants. This is particularly dangerous with other GABAergic depressants such as barbiturates and alcohol since they work in a similar fashion, but bind to distinct allosteric sites on the GABAA receptor, thus their effects potentiate one another. Benzodiazepines increase the frequency in which the chlorine ion pore opens on the GABAA receptor while barbiturates increase the duration in which they are open, meaning when both are consumed, the ion pore will open more frequently and stay open longer. Benzodiazepine overdose is a medical emergency that may lead to a coma, permanent brain injury or death if not treated promptly and properly.",
     "Symptoms of a benzodiazepine overdose may include severe thought deceleration, slurred speech, confusion, delusions, respiratory depression, coma or death. Benzodiazepine overdoses may be treated effectively in a hospital environment, with generally favorable outcomes. Benzodiazepine overdoses are sometimes treated with flumazenil, a GABAA antagonist, however care is primarily supportive in nature."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule IV (US), Class C (UK), Schedule IV (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C16H13ClN2O2",
+    "molecularWeight": "300.74 g/mol",
     "class": "Benzodiazepines"
   },
     "aliases": [],

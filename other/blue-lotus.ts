@@ -89,10 +89,10 @@ export const blue_lotus: Substance =
     "There are no studies on aporphine in animals. However, studies on subcutaneous apomorphine injection, the bioactive form of aporphine, have been carried out. In a 5-day study, mice were administered up to 10 mg/kg apomorphine subcutaneously daily. No adverse effects were observed other than a slight increase in dopamine levels.",
     "Blue Lotus is not thought to be addictive. Its compounds have been used in the treatment of alcohol and morphine addiction."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (some countries restrict)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "Variable (plant mixture: Nymphaea caerulea)",
+    "molecularWeight": "N/A (plant mixture)",
     "class": "Unknown"
   },
     "aliases": [],

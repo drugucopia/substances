@@ -181,10 +181,10 @@ export const lsd: Substance =
     "Some say HPPD is a manifestation of post-traumatic stress disorder, not related to the direct action of LSD on brain chemistry, and varies according to the susceptibility of the individual to the disorder.",
     "SSRIs (e.g. fluoxetine, sertraline): Due do the downregulation of 5-HT2A receptors caused by SSRIs, psychedelics can have a reduced effect. Weaker effects could lead to the user compensating by increasing their dose or re-dosing, potentially having stronger effects than they intended. SSRIs can also reduce the chance of having a bad trip due to its anxiolytic effects."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C20H25N3O",
+    "molecularWeight": "323.40 g/mol",
     "class": "Lysergamides"
   },
     "aliases": [],

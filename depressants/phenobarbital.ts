@@ -84,10 +84,10 @@ export const phenobarbital: Substance =
     "Barbiturate overdose may occur when a barbiturate is taken in extremely heavy quantities or concurrently with other depressants. This is particularly dangerous with other GABAergic depressants such as benzodiazepines and alcohol since they work in a similar fashion, but bind to distinct allosteric sites on the GABAA receptor, thus their effects potentiate one another. Benzodiazepines increase the frequency in which the chlorine ion pore opens on the GABAA receptor while barbiturates increase the duration in which they are open, meaning when both are consumed, the ion pore will open more frequently and stay open longer. Barbiturate overdose is a medical emergency that may lead to a coma, permanent brain injury or death if not treated promptly and properly. Barbiturate overdose has an increased frequency of serious adverse effects when compared to other depressants.",
     "Symptoms of a barbiturate overdose may include severe thought deceleration, slurred speech, confusion, delusions, respiratory depression, coma or death."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule IV (US), Class C (UK), Schedule III (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C12H12N2O3",
+    "molecularWeight": "232.23 g/mol",
     "class": "Barbiturates"
   },
     "aliases": [],

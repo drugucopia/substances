@@ -118,10 +118,10 @@ export const methylone: Substance =
     "Tolerance to many of the effects of methylone develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 1 - 3 weeks for the tolerance to be reduced to half and 3 - 6 weeks to be back at baseline (in the absence of further consumption). Methylone presents cross-tolerance with all dopaminergic stimulants, meaning that after the consumption of methylone all stimulants will have a reduced effect.",
     "Abuse of compounds within the stimulant class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis. Psychosis very rarely arises from therapeutic use."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C11H13NO3",
+    "molecularWeight": "207.23 g/mol",
     "class": "Cathinone"
   },
     "aliases": [],

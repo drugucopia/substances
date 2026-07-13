@@ -94,10 +94,10 @@ export const sts_135: Substance =
   "harmReduction": [
     "exact toxic dosage is unknown"
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C24H31FN2O",
+    "molecularWeight": "382.50 g/mol",
     "class": "Indolecarboxamide"
   },
     "aliases": [],

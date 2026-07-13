@@ -62,10 +62,10 @@ export const choline_bitartrate: Substance =
     "Choline is not habit-forming and the desire to use it can actually decrease with use. It is most often self-regulating.",
     "Tolerance to the effects of choline are built after prolonged and repeated usage. After that, it takes about 7 days for the tolerance to be reduced to half and 14 days to be back at baseline (in the absence of further consumption). Choline presents cross-tolerance with no other known compounds, meaning that after the consumption of choline, other psychoactive compounds will not have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (dietary supplement)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C9H19NO7",
+    "molecularWeight": "253.25 g/mol",
     "class": "Ammonium salt"
   },
     "aliases": [],

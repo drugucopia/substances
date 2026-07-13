@@ -125,10 +125,10 @@ export const _4f_mph: Substance =
     "In terms of its tolerance, 4F-MPH can be used multiple days in a row for extended periods of time, but acute tolerance does exist and builds up gradually over repeated extended use. This results in the user requiring an increase in dosage to achieve the same effects. Tolerance is reported to build quicker than methylphenidate.",
     "4F-MPH has potential for abuse on par with that of amphetamine or MDMA due to its lack of significant tolerance, euphoric effects and action upon dopamine transporters."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C14H18FNO2",
+    "molecularWeight": "251.30 g/mol",
     "class": "Substituted phenidates"
   },
     "aliases": [],

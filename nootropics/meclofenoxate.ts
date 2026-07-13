@@ -76,10 +76,10 @@ export const meclofenoxate: Substance =
     "Meclofenoxate is non-addictive, is not known to cause harm, and has an extremely low toxicity relative to dose. Similar to many other nootropic substances, there are relatively few physical side effects associated with acute choline exposure. Various studies have shown that in reasonable doses in a particular context, it presents no negative cognitive, psychiatric or toxic physical consequences of any sort.",
     "Regardless, it is strongly recommended that one is familiar with and uses harm reduction practices when using this substance."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Prescription only: Unscheduled (US), Prescription-only (EU/UK/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C12H16ClNO3",
+    "molecularWeight": "257.71 g/mol",
     "class": "Cholinergic"
   },
     "aliases": [],

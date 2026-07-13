@@ -127,10 +127,10 @@ export const nitrous: Substance =
     "As with other dissociatives, the chronic use of nitrous oxide can be considered mildly addictive with a moderate potential for abuse.",
     "Tolerance to many of the effects of nitrous oxide develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Nitrous oxide does not produce cross-tolerance with other dissocatives, meaning that after the use of nitrous oxide other dissociatives will not have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Legal/Uncontrolled in most jurisdictions (medical/industrial use); regulated as inhalant abuse in some regions",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "N2O",
+    "molecularWeight": "44.01 g/mol",
     "class": "Unknown"
   },
     "aliases": [],

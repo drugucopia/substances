@@ -88,10 +88,10 @@ export const tianeptine: Substance =
     "It is worth noting that because of tianeptine's short duration of effects, it may compel some to frequent redosing. The potential euphoric effects of high doses (> 100 mg) may cause some users to exceed recommended dosages, which could quickly raise tolerance and intensify negative side effects. In addition, tianeptine possesses certain properties as a μ-opioid agonist, possibly leading to addiction and withdrawal mechanics similar to that of opiates. However, as with most people looking to discontinue their antidepressant medications (both SSRIs and TCAs), daily users of tianeptine should taper off their usage instead of suddenly halting it. This will ensure that negative discontinuation symptoms are kept to a minimum.",
     "Tianeptine withdrawal can occur with as little as ~500mg per day, and increases in severity with the amount of daily dosage and time spent using the drug. Withdrawal symptoms are similar to opioids (flu-like symptoms, watery eyes, and nose, dry heaves et al.) and may include emotional instability. Due to the fact that Tianeptine generally has weaker recreational properties compared to other opioids, the withdrawal of this substance can feel significantly worse than an equally euphoric dose of a more traditional opioid."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Legal status varies: US: uncontrolled federally, scheduled in some states; UK: Psychoactive Substances Act; EU: varies; CA: uncontrolled; AU: Schedule 4",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C21H25ClN2O4S",
+    "molecularWeight": "437.00 g/mol",
     "class": "Dibenzothiazepine"
   },
     "aliases": [],

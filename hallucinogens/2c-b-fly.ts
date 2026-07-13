@@ -124,10 +124,10 @@ export const _2c_b_fly: Substance =
     "2C-B-FLY is not habit-forming, and the desire to use it can actually decrease with use. It is most often self-regulating.",
     "Tolerance to the effects of 2C-B-FLY is built almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). 2C-B-FLY presents cross-tolerance with all psychedelics, meaning that after the consumption of 2C-B-FLY all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C12H14BrNO2",
+    "molecularWeight": "284.15 g/mol",
     "class": "Substituted phenethylamines"
   },
     "aliases": [],

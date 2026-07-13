@@ -162,10 +162,10 @@ export const diphenhydramine: Substance =
     "Diphenhydramine produces dependence with chronic use. In comparison to other hallucinogens, DPH has been reported to have significantly less abuse potential than other hallucinogens. Most people who try it do not wish to repeat the experience.",
     "Tolerance to many of the effects of DPH develops with repeated use. Users have to administer increasingly large doses to achieve the impact. After that, it takes about 1 - 2 weeks for tolerance to return to baseline (in the absence of further consumption). DPH presents cross-tolerance with all deliriants, meaning that after the consumption of DPH, all deliriants will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (OTC antihistamine)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H21NO",
+    "molecularWeight": "255.35 g/mol",
     "class": "Ethanolamine"
   },
     "aliases": [],

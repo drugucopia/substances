@@ -145,10 +145,10 @@ export const _25d_nbome: Substance =
     "It is strongly recommended that one use harm reduction practices when using this substance.",
     "In terms of its addictive potential, 25D-NBOMe has not been studied formally but many users experience a self-regulating quality. Also, due to its immediate tolerance build up, which lasts up to 2 - 3 weeks after the experience, it is difficult to use this substance compulsively. 25D-NBOMe presents cross-tolerance with all psychedelics, meaning that after the consumption of 25D-NBOMe all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C19H25NO3",
+    "molecularWeight": "315.40 g/mol",
     "class": "Substituted phenethylamines"
   },
     "aliases": [],

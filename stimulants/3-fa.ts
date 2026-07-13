@@ -113,10 +113,10 @@ export const _3_fa: Substance =
     "Given its claimed equipotency to methamphetamine it may be similarly difficult to dose. 3-FA has not been studied to the same degree as other amphetamines, so its toxicity profile in humans is subject to speculation and has yet to be scientifically validated. Thus, it is strongly recommended that one use harm reduction practices when using this substance.",
     "Abuse of compounds within the amphetamine chemical class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis. Psychosis very rarely arises from therapeutic use."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C9H12FN",
+    "molecularWeight": "153.20 g/mol",
     "class": "Amphetamine"
   },
     "aliases": [],

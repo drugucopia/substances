@@ -206,10 +206,10 @@ export const cannabis: Substance =
     "Cannabis exhibits cross-tolerance with all cannabinoids, meaning that all cannabinoids will have a reduced effect for a period of time upon using cannabis. The mechanisms that create this tolerance to THC are thought to involve changes in cannabinoid receptor function.",
     "One study found that about 1 in 10 users of cannabis may develop dependence characterized by the occurrence of a withdrawal syndrome after abstinence. This withdrawal syndrome was found to peak 2-3 days after quitting and is mostly complete by 1 week; however, sleep disturbances and vivid dreams may persist for 2-3 weeks."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU); legal/decriminalized in some jurisdictions",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "Variable (plant mixture)",
+    "molecularWeight": "N/A (plant mixture)",
     "class": "Cannabinoid"
   },
   "history": "The history of cannabis and its usage by humans dates back to at least the third millennium BC in written history, and possibly as far back as the Pre-Pottery Neolithic B (8800–6500 BCE) based on archaeological evidence. For millennia, the plant has been valued for its use for fiber and rope, as food and medicine, and for its psychoactive properties for religious and recreational use. In 2004, the U.N. estimated that global consumption patterns of cannabis indicated that approximately 4% of the adult world population (162 million people) used cannabis annually and that approximately 0.6% (22.5 million) of people used cannabis daily.",

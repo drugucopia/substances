@@ -136,10 +136,10 @@ export const hydromorphone: Substance =
     "The risk of fatal opioid overdoses rise sharply after a period of cessation and relapse, largely because of reduced physical tolerance to the depressant effects of the opioid. To account for this lack of tolerance, it is safer for a user that has been sober for an extended period of time to only dose a fraction of one's usual dosage when using again. It has also been found that the environment one is in can play a role in opioid tolerance.",
     "In one study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment. Because of the structral and chemical similarity of hydromorphone and heroin, it can be assumed that the same interaction between physical tolerance and the environment occurs in hydromorphone use."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule II (US), Class B (UK), Schedule II (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H19NO3",
+    "molecularWeight": "285.34 g/mol",
     "class": "Substituted morphinans"
   },
     "aliases": [],

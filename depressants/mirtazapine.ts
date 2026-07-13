@@ -108,10 +108,10 @@ export const mirtazapine: Substance =
     "Twelve reported fatalities have been attributed to mirtazapine overdose. The fatal toxicity index (deaths per million prescriptions) for mirtazapine is 3.1 (95% CI: 0.1 to 17.2). This is similar to that observed with SSRIs.",
     "It is strongly recommended that one use harm reduction practices when using this substance."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Prescription only: Unscheduled (US), Prescription-only (EU/UK/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H19N3",
+    "molecularWeight": "265.35 g/mol",
     "class": "Piperazinoazepine"
   },
     "aliases": [],

@@ -132,10 +132,10 @@ export const gbl: Substance =
     "Tolerance will develop to the sedative-hypnotic effects within several days of continuous use. After cessation, the tolerance returns to baseline in 7 - 14 days. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few days or longer of steady dosing, and may necessitate a gradual dose reduction to minimize neurotoxicity from withdrawal. It is proposed that GHB and especially GBL can lead to dependence at a significantly faster rate than longer-acting depressants.",
     "GBL presents cross-tolerance with 1,4-Butanediol and GHB, since GBL and 1,4-Butanediol act as prodrugs for GHB. with other depressants such as alcohol, phenibut, baclofen and other GABAB-agonists is likely."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US - List I chemical), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C4H6O2",
+    "molecularWeight": "86.09 g/mol",
     "class": "Lactone"
   },
     "aliases": [],

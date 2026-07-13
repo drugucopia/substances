@@ -148,10 +148,10 @@ export const myristicin: Substance =
     "Depressants - Respiratory depression is a risk when combining with depressant drugs, while a few anecdotal reports have shown few side effects, it is generally recommended against.",
     "Serotonin releasers such as MDMA, 4-FA, methamphetamine, methylone and αMT will cause serotonin syndrome. If planning to combine these two, proceed with great caution."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (natural compound in nutmeg)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C11H12O3",
+    "molecularWeight": "192.21 g/mol",
     "class": "Phenylpropenes"
   },
     "aliases": [],

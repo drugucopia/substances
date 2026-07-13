@@ -104,10 +104,10 @@ export const etizolam: Substance =
     "Thienodiazepine overdoses may be treated effectively in a hospital environment, with generally favorable outcomes.",
     "Thienodiazepine overdoses are sometimes treated with flumazenil, a GABAA antagonist. However, care is primarily supportive in nature."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class C (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H15ClN4S",
+    "molecularWeight": "342.80 g/mol",
     "class": "Thienodiazepines"
   },
     "aliases": [],

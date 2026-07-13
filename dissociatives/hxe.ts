@@ -131,10 +131,10 @@ export const hxe: Substance =
     "after that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption).",
     "HXE presents cross-tolerance with all dissociatives, meaning that after the consumption of HXE all dissociatives will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Legal status varies: US: uncontrolled; UK: Psychoactive Substances Act; EU: varies; CA: uncontrolled; AU: likely Schedule 9",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C14H19NO",
+    "molecularWeight": "217.31 g/mol",
     "class": "Arylcyclohexylamines"
   },
     "aliases": [],

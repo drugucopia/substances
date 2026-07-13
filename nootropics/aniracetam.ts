@@ -80,10 +80,10 @@ export const aniracetam: Substance =
     "The chronic use of aniracetam can be considered as non-addictive with a low potential for abuse. It does not seem to be capable of causing psychological dependence among users, although this fact has not been confirmed or supported by clinical studies.",
     "Tolerance to many of the effects of aniracetam develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Aniracetam may presents cross-tolerance with all racetam nootropics, meaning that after the consumption of aniracetam certain nootropics such as coluracetam and piracetam may have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (nootropic)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C12H13NO3",
+    "molecularWeight": "219.24 g/mol",
     "class": "Racetams"
   },
     "aliases": [],

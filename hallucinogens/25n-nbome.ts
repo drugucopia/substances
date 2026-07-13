@@ -132,10 +132,10 @@ export const _25n_nbome: Substance =
   "harmReduction": [
     "potentially fatal at heavy dosages"
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C18H22N2O5",
+    "molecularWeight": "346.40 g/mol",
     "class": "Substituted phenethylamines"
   },
     "aliases": [],

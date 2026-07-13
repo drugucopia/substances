@@ -116,10 +116,10 @@ export const methaqualone: Substance =
     "Methaqualone is extremely addictive. Tolerance to the sedative-hypnotic effects develops within a couple of days of repeated administration. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Methaqualone presents cross-tolerance with all gabaergic depressants, meaning that after the consumption of methaqualone all compounds of the same class will have a reduced effect.",
     "Abrupt discontinuation of methaqualone following regular dosing over several days can result in a withdrawal phase which includes rebound symptoms such as increased anxiety and insomnia. It is possible to gradually reduce the dose over the course of several days, which will lengthen the duration of the withdrawal period but reduce the perceived intensity."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Schedule II (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C16H14N2O",
+    "molecularWeight": "250.29 g/mol",
     "class": "Quinazolinone"
   },
     "aliases": [],

@@ -111,10 +111,10 @@ export const _2c_c: Substance =
     "Although no formal studies have been conducted, it is not unreasonable to assume that like psychedelics in general, 2C-C is not habit-forming and that the desire to use it can actually decrease with use.",
     "Tolerance to the effects of 2C-C is not built almost immediately after ingestion. Similar to 2C-B there seems to be no apparent tolerance buildup if used repeatedly for a few days. 2C-C does however produce cross-tolerance with other serotonergic psychedelics, meaning that after the use of 2C-C all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C10H14ClNO2",
+    "molecularWeight": "215.67 g/mol",
     "class": "Substituted phenethylamines"
   },
     "aliases": [],

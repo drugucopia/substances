@@ -95,10 +95,10 @@ export const flubromazepam: Substance =
     "Benzodiazepine overdose may occur when a benzodiazepine is taken in large quantities or concurrently with other depressants. This is particularly dangerous with other GABAergic depressants such as barbiturates and alcohol since they work similarly, but bind to distinct allosteric sites on the GABAA receptor. Thus their effects potentiate one another. Benzodiazepines increase the frequency in which the chlorine ion pore opens on the GABAA receptor while barbiturates increase the duration in which they are open, meaning when both are consumed, the ion pore will open more frequently and stay open longer. Benzodiazepine overdose is a medical emergency that may lead to a coma, permanent brain injury or death if not treated promptly and appropriately.",
     "Symptoms of a benzodiazepine overdose may include severe thought deceleration, slurred speech, confusion, delusions, respiratory depression, coma or death. Benzodiazepine overdoses may be treated effectively in a hospital environment, with generally favorable outcomes. Benzodiazepine overdoses are sometimes treated with flumazenil, a GABAA antagonist. However, care is primarily supportive in nature."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class C (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C15H10BrFN2O",
+    "molecularWeight": "333.15 g/mol",
     "class": "Benzodiazepines"
   },
     "aliases": [],

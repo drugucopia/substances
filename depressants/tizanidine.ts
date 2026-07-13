@@ -96,10 +96,10 @@ export const tizanidine: Substance =
     "In some cases, Tizanidine overdose can be reversed with naloxone; however, this is not the case with everyone  .",
     "While dependence is rare, use of Tizanidine exceeding 36mg daily over an extended period of time can lead to hypertensive withdrawals. In cases where dependence has been built, a user should taper to avoid a hypertensive crisis."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Prescription only: Unscheduled (US), Prescription-only (EU/UK/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C9H8ClN5S",
+    "molecularWeight": "253.71 g/mol",
     "class": "Imidazoline"
   },
     "aliases": [],

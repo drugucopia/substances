@@ -145,10 +145,10 @@ export const desoxypipradrol: Substance =
     "User reports suggest that compared to many other stimulants, desoxypipradrol has some unique and atypical hazards that can accompany its misuse -- especially when it is eye-balled, not dosed volumetrically, or otherwise handled without the proper degree of caution. Desoxypipradrol, like other stimulants, increases dopamine levels in the brain which can lead to severe manic psychosis in the short-term in addition to persisting dopamine receptor down regulation in the long-term.",
     "User reports indicate that chronic abuse or single exposure overdose of desoxypipradrol can potentially lead to psychosis more readily than the vast majority of stimulants. Psychotic symptoms from desoxypipradrol can include hearing voices, visual hallucinations, urges to harm oneself, severe anxiety, mania, grandiosity, paranoid delusions, confusion, increased aggression, and irritability."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C18H21N",
+    "molecularWeight": "251.40 g/mol",
     "class": "Substituted piperidines"
   },
     "aliases": [],

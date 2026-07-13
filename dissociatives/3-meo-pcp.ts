@@ -171,10 +171,10 @@ export const _3_meo_pcp: Substance =
     "Incontinence - This is the leakage of urine.",
     "These effects can be mitigated by refraining from using 3-MeO-PCP regularly (on a daily or weekly basis) and manually limiting one's usage of the substance."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US - analog act), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C18H27NO",
+    "molecularWeight": "273.40 g/mol",
     "class": "Arylcyclohexylamines"
   },
     "aliases": [],

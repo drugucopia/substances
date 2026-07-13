@@ -149,10 +149,10 @@ export const datura: Substance =
     "The use of datura can be considered mildly addictive with a high potential for adverse side effects such as psychosis. Datura is reported to be significantly less addictive than than other substances because the vast majority of people who try it do not wish to repeat the experience.",
     "Tolerance to many of the effects of datura develops with repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Datura presents cross-tolerance with deliriants, meaning that after the consumption of datura, all deliriants will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Legal/Uncontrolled in most jurisdictions (plant parts); some jurisdictions regulate atropine/scopolamine content",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "Variable (plant mixture)",
+    "molecularWeight": "N/A (plant mixture)",
     "class": "Unknown"
   },
     "aliases": [],

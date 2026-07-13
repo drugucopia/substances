@@ -79,10 +79,10 @@ export const n_acetylcysteine: Substance =
     "Although N-acetylcysteine prevented liver damage when taken before alcohol, when taken four hours after alcohol it made liver damage worse in a dose-dependent fashion.",
     "The chronic use of Acetylcysteine does not seem to cause addiction or psychological dependence. N-Acetylcysteine's positive effects seem to be cumulative overtime."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (OTC supplement/drug)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C5H9NO3S",
+    "molecularWeight": "163.20 g/mol",
     "class": "Cysteine"
   },
     "aliases": [],

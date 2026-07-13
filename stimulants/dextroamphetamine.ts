@@ -95,10 +95,10 @@ export const dextroamphetamine: Substance =
     "crossTolerances": []
   },
   "harmReduction": [],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule II (US), Class B (UK), Schedule II (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C9H13N",
+    "molecularWeight": "135.21 g/mol",
     "class": "Substituted phenethylamines"
   },
     "aliases": [],

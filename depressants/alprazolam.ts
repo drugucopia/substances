@@ -103,10 +103,10 @@ export const alprazolam: Substance =
     "Tolerance will develop to the sedative-hypnotic effects within a couple of days of continuous use. After cessation, the tolerance returns to baseline in 7-14 days. However, in certain cases, this may take significantly longer in a manner which is proportional to the duration and intensity of one's long-term usage.",
     "Alprazolam presents cross-tolerance with all benzodiazepines, meaning that after its consumption all benzodiazepines will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule IV (US), Class C (UK), Schedule IV (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H13ClN4",
+    "molecularWeight": "308.80 g/mol",
     "class": "Benzodiazepines"
   },
     "aliases": [],

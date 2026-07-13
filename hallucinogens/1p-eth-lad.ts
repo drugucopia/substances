@@ -107,10 +107,10 @@ export const _1p_eth_lad: Substance =
     "Tolerance to the effects of 1P-ETH-LAD is built almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). It should be noted that this only applies to the physiological tolerance. Mental or psychological tolerance is thought by some to take two weeks or more for the full experience to re-manifest.",
     "Due to its activity at the 5-HT2A receptor, 1P-ETH-LAD presents cross-tolerance with all psychedelics, meaning that after the consumption of 1P-ETH-LAD all psychedelics (particularly the tryptamines and other lysergamides) will display a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C24H31N3O2",
+    "molecularWeight": "393.50 g/mol",
     "class": "Lysergamides"
   },
     "aliases": [],

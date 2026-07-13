@@ -98,10 +98,10 @@ export const tyrosine: Substance =
     "Tyrosine may potentially be mildly habit forming and the desire to use it may actually increase with use. This is because of its dopaminergic properties. However, in comparison to other more traditional stimulants such as amphetamine or methylphenidate, it is not nearly as addictive or compulsive.",
     "Tolerance to the effects of tyrosine are quickly built after repeated and frequent usage. After that, it takes about 7 days for the tolerance to be reduced to half and 14 days to be back at baseline (in the absence of further consumption). Tyrosine presents cross-tolerance with other dopaminergic stimulants, meaning that after the consumption of tyrosine, most other stimulant compounds will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (dietary supplement)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C9H11NO3",
+    "molecularWeight": "181.19 g/mol",
     "class": "Substituted phenethylamines"
   },
     "aliases": [],

@@ -131,10 +131,10 @@ export const lisdexamfetamine: Substance =
     "crossTolerances": []
   },
   "harmReduction": [],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule II (US), Class B (UK), Schedule II (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C15H25N3O",
+    "molecularWeight": "263.38 g/mol",
     "class": "Amphetamine"
   },
     "aliases": [],

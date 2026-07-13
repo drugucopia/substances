@@ -113,10 +113,10 @@ export const baclofen: Substance =
     "Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing and may necessitate a gradual dose reduction. Withdrawal symptoms may include auditory hallucinations,  visual hallucinations, tactile hallucinations, delusions, confusion, delirium, disorientation, fluctuation of consciousness, insomnia, dizziness, nausea, inattention, memory impairments, perceptual disturbances, itchiness, anxiety, depersonalization, hypertonia, hyperthermia, psychosis, mania, mood disturbances, tachycardia, seizures, tremors, autonomic dysfunction, hyperpyrexia (fever), extreme muscle rigidity resembling neuroleptic malignant syndrome and rebound spasticity.",
     "Baclofen produces cross-tolerance with all GABAgenic depressants, meaning that after its consumption, depressants will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Prescription only: Unscheduled (US), Prescription-only (EU/UK/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C10H12ClNO2",
+    "molecularWeight": "213.66 g/mol",
     "class": "Butyric acid"
   },
     "aliases": [],

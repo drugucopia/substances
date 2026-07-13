@@ -127,10 +127,10 @@ export const _3_4_ctmp: Substance =
     "In terms of its tolerance, many users have reported that 3,4-CTMP can be used for multiple days in a row for extended periods of time without any noticeable acute tolerance build up, instead increasing gradually over regular and extended use. Unusually, there are some reports indicating a sudden rise in tolerance after an extended period of relatively little increase. This results in the user requiring an increase in dosage to achieve the same effects or to remain functional. Increasing dose to match tolerance places one at high risk of addiction.",
     "It has been reported that 3,4-CTMP has potential for abuse on par with that of amphetamine or MDMA due to its lack of significant tolerance, euphoric effects and action upon dopamine transporters."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule II (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C14H17Cl2NO2",
+    "molecularWeight": "302.20 g/mol",
     "class": "Substituted phenidates"
   },
     "aliases": [],

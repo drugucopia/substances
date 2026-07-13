@@ -161,10 +161,10 @@ export const pce: Substance =
     "Incontinence - This is the leakage of urine.",
     "A large body of anecdotal evidence suggests that these symptoms can be minimized by not using PCE on a regular basis (daily or weekly at the bare minimum) and carefully monitoring and limiting one's usage of the substance, although general usage of this substance is still discouraged due to its observed toxic properties."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C2Cl4",
+    "molecularWeight": "165.80 g/mol",
     "class": "Arylcyclohexylamines"
   },
     "aliases": [],

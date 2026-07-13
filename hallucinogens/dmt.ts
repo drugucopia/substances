@@ -148,10 +148,10 @@ export const dmt: Substance =
     "Like other serotonergic psychedelics, DMT is considered to be non-addictive with a low abuse potential. There are no literature reports of successful attempts to train animals to self-administer DMT — an animal model predictive of abuse liability — indicating that it does not have the necessary pharmacology to either initiate or maintain dependence. Likewise, there is virtually no withdrawal syndrome when chronic use of DMT is stopped.",
     "Notably, tolerance to the effects of DMT does not appear to occur. The reason for this is unknown. Likewise, DMT does not produce cross-tolerance with other psychedelics, meaning that after the consumption of DMT, psychedelics will not have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C12H16N2",
+    "molecularWeight": "188.27 g/mol",
     "class": "Substituted tryptamines"
   },
     "aliases": [],

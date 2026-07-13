@@ -168,10 +168,10 @@ export const _3_mmc: Substance =
     "As with other stimulants, the chronic use of 3-MMC can be considered extremely addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage. It is said that this compound is considerably more addictive than that of mephedrone.",
     "Tolerance to many of the effects of 3-MMC develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). 3-MMC presents cross-tolerance with all dopaminergic stimulants, meaning that after the consumption of 3-MMC all stimulants will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C11H15NO",
+    "molecularWeight": "177.24 g/mol",
     "class": "Cathinone"
   },
     "aliases": [],

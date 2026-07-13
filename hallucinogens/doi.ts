@@ -130,10 +130,10 @@ export const doi: Substance =
     "DOI is not habit-forming, and the desire to use it can actually decrease with use. It is most often self-regulating.",
     "Tolerance to the effects of DOI is built almost immediately after ingestion. After that, it takes about 5-7 days for the tolerance to be reduced to half and 10-14 days to be back at baseline (in the absence of further consumption). DOI presents cross-tolerance with all psychedelics, meaning that after the consumption of DOI all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C11H16INO2",
+    "molecularWeight": "321.15 g/mol",
     "class": "Substituted amphetamines"
   },
     "aliases": [],

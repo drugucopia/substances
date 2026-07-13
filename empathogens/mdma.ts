@@ -193,10 +193,10 @@ export const mdma: Substance =
     "DXM",
     "5-HTP - 5-HTP is a supplement that acts as a precursor for serotonin. It is sometimes recommended to be used after MDMA experiences to try to restore depleted serotonin reserves. However, taking 5-HTP shortly before or with MDMA may cause excessive serotonin levels in the brain, which can lead to serotonin syndrome. As a result, it is advised to wait until the day after the MDMA has been used before consuming 5-HTP."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C11H15NO2",
+    "molecularWeight": "193.24 g/mol",
     "class": "Amphetamine"
   },
     "aliases": [],

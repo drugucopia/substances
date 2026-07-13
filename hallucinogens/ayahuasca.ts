@@ -143,10 +143,10 @@ export const ayahuasca: Substance =
   "harmReduction": [
     "LD50 is around 50 times a regular dose"
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US, UN); religious exemptions in some countries (US, Brazil, Netherlands); illegal in UK, France, Canada",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "Variable (plant mixture: Banisteriopsis caapi + Psychotria viridis)",
+    "molecularWeight": "N/A (plant mixture)",
     "class": "Unknown"
   },
     "aliases": [],

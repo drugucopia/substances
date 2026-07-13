@@ -81,10 +81,10 @@ export const piracetam: Substance =
     "The chronic use of piracetam can be considered as not addictive with a low potential for abuse. It does not seem to be capable of causing psychological dependence among certain users.",
     "Tolerance to many of the effects of piracetam develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Piracetam may presents cross-tolerance with all racetam nootropics, meaning that after the consumption of piracetam certain nootropics such as aniracetam and pramiracetam may have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (nootropic); prescription in some EU countries",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C6H10N2O2",
+    "molecularWeight": "142.16 g/mol",
     "class": "Racetams"
   },
     "aliases": [],

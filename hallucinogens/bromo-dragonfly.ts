@@ -92,10 +92,10 @@ export const bromo_dragonfly: Substance =
     "one can easily overdose if this substance is not measured correctly",
     "toxic dose is unknown"
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C13H12BrNO2",
+    "molecularWeight": "294.14 g/mol",
     "class": "Substituted amphetamines"
   },
     "aliases": [],

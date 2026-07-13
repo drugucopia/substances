@@ -87,10 +87,10 @@ export const apica: Substance =
     "Tolerance to many of the effects of APICA develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). APICA presents cross-tolerance with all cannabinoids, meaning that after the consumption of APICA all cannabinoids will have a reduced effect.",
     "It has been reported that overdose on this substance will cause physical discomfort including heart palpitations, vertigo and sedation at much lower than dangerous doses, usually causing the user to suffer large amounts of anxiety and paranoia, or to fall asleep."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C24H32N2O",
+    "molecularWeight": "364.50 g/mol",
     "class": "Indolecarboxamide"
   },
     "aliases": [],

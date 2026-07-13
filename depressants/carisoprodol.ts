@@ -83,10 +83,10 @@ export const carisoprodol: Substance =
     "Carisoprodol is extremely physically and psychologically addictive. Carbamate withdrawal, like barbiturate withdrawal, is medically serious and can potentially cause a life-threatening withdrawal syndrome that can cause seizures, psychosis, and death. Drugs which lower the seizure threshold such as tramadol and amphetamine should be avoided during withdrawal.",
     "Tolerance will develop to the sedative-hypnotic effects of carisoprodol after prolonged use. It is unknown exactly how long it takes for tolerance to reach baseline."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule IV (US), Class C (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C12H24N2O4",
+    "molecularWeight": "260.33 g/mol",
     "class": "1,3-Propanediol dicarbamate"
   },
     "aliases": [],

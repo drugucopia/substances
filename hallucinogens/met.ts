@@ -160,10 +160,10 @@ export const met: Substance =
     "Early reports suggest MET is not habit-forming and the desire to use it can actually decrease with regular consumption. Like with most psychedelics it is most widely thought to be self-regulating.",
     "As with DMT, tolerance to the effects of MET does not readily occur, though its extended residual effects indicate a mild form of tolerance may be present when used in quick succession. However, it presents little to no cross-tolerance with other psychedelics, meaning that after the consumption of MET psychedelics will not display a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C5H11NO2S",
+    "molecularWeight": "149.21 g/mol",
     "class": "Substituted tryptamines"
   },
     "aliases": [],

@@ -99,10 +99,10 @@ export const omberacetam: Substance =
     "Tolerance to many of the effects of omberacetam develops over several weeks of prolonged and repeated use. This results in users having to administer increasingly larger doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Omberacetam may present cross-tolerance with all racetam nootropics, meaning that after the consumption of omberacetam certain nootropics such as coluracetam and piracetam may have a reduced effect.",
     "Psychedelics - Anecdotal reports suggest that combining psychedelics with omberacetam strongly intensifies psychedelics effects. Independent research and caution are strongly advised before using these drugs in combination."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Prescription only: Unscheduled (US), Prescription-only (EU/UK/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H22N2O4",
+    "molecularWeight": "318.40 g/mol",
     "class": "Peptide"
   },
     "aliases": [],

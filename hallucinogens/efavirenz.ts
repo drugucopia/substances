@@ -98,10 +98,10 @@ export const efavirenz: Substance =
     "Efavirenz is not known to be habit-forming. While developing a tolerance to efavirenz is extremely rare, abusing efavirenz may cause HIV to become resistant to the drug and increase the viral load in patients with HIV.",
     "Efavirenz is a weak serotonin reuptake inhibitor, so it is possible that combining heavy doses of efavirenz and the substances listed below may result in serotonin syndrome."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Prescription only: Unscheduled (US), Prescription-only (EU/UK/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C14H9ClF3NO2",
+    "molecularWeight": "315.67 g/mol",
     "class": "Benzoxazine"
   },
     "aliases": [],

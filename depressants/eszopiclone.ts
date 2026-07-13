@@ -94,10 +94,10 @@ export const eszopiclone: Substance =
     "Eszopiclone presents cross-tolerance with all benzodiazepines, meaning that after its consumption benzodiazepines and most other GABAgenic depressants will have a reduced effect.Eszopiclone and triazolam in insomnia associated with generalized anxiety disorder.",
     "If Eszopiclone has been taken for more than a few weeks, then the medication should be gradually reduced or preferably crossed over to an equivalent dose of diazepam (Valium) which has a much longer half-life, making withdrawal easier. One should then gradually taper the dose over a period of several months to avoid extremely severe and unpleasant withdrawal symptoms which can last up to two years after withdrawal if the withdrawal is done too abruptly."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule IV (US), Prescription-only (EU/UK/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H17ClN6O3",
+    "molecularWeight": "388.80 g/mol",
     "class": "Cyclopyrrolone"
   },
     "aliases": [],

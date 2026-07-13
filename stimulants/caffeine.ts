@@ -142,10 +142,10 @@ export const caffeine: Substance =
     "Withdrawal symptoms – including headaches, irritability, inability to concentrate, drowsiness, insomnia, and pain in the stomach, upper body, and joints –- may appear within 12 to 24 hours after discontinuation of caffeine intake, peak at roughly 48 hours, and usually last from 2 to 9 days. Withdrawal headaches are experienced by 52% of people who stopped consuming caffeine for two days after an average of 235 mg caffeine per day prior to that. In prolonged caffeine drinkers, symptoms such as increased depression and anxiety, nausea, vomiting, physical pains and intense desire for caffeine containing beverages are also reported. Peer knowledge, support and interaction may aid withdrawal.",
     "Caffeine-induced psychosis, though rare, may occur with high doses or chronic abuse. It can trigger psychosis in healthy individuals and worsen it in those with schizophrenia. Caffeine has been shown to potentiate the effects of methamphetamine, which can also induce psychosis."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C8H10N4O2",
+    "molecularWeight": "194.19 g/mol",
     "class": "Xanthines"
   },
     "aliases": [],

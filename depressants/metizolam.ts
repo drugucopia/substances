@@ -86,10 +86,10 @@ export const metizolam: Substance =
     "Paradoxical reactions to benzodiazepines such as increased seizures (in epileptics), aggression, increased anxiety, violent behavior, loss of impulse control, irritability and suicidal behavior sometimes occur (although they are rare in the general population, with an incidence rate below 1%).",
     "These paradoxical effects occur with greater frequency in recreational abusers, individuals with mental disorders, children, and patients on high-dosage regimes. Due to the close structural and pharmacological similarities they share, it is likely that these same risks apply to thienodiazepines as well."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class C (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C16H13ClN4S",
+    "molecularWeight": "328.80 g/mol",
     "class": "Thienodiazepines"
   },
     "aliases": [],

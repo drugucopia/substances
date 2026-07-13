@@ -83,10 +83,10 @@ export const adrafinil: Substance =
     "The chronic use of adrafinil can be considered as not addictive with a low potential for abuse. It does not seem to be capable of causing psychological dependence among most users.",
     "Tolerance to many of the effects of adrafinil develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Adrafinil may present a cross-tolerance with all benzhydryl nootropics, meaning that after the consumption of adrafinil, all related eugeroic compounds such as armodafinil and modafinil will display a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (prodrug of modafinil)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C15H15NO3S",
+    "molecularWeight": "289.40 g/mol",
     "class": "Benzhydryl"
   },
     "aliases": [],

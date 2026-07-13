@@ -100,10 +100,10 @@ export const nm_2_ai: Substance =
     "Tolerance to many of the effects of NM-2-AI develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). NM-2-AI presents cross-tolerance with all dopaminergic stimulants, meaning that after the consumption of NM-2-AI all stimulants will have a reduced effect.",
     "Abuse of compounds within the stimulant class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Legal status varies: US: uncontrolled; UK: Psychoactive Substances Act; EU: varies; CA: uncontrolled; AU: likely Schedule 9",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C10H13N",
+    "molecularWeight": "147.22 g/mol",
     "class": "Amphetamine"
   },
     "aliases": [],

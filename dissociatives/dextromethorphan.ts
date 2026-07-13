@@ -209,10 +209,10 @@ export const dextromethorphan: Substance =
     "Death from DXM toxicity is rare, although most overdose cases do cite life-threatening complications, typically extremely elevated heart rate and blood pressure, urinary retention and rhabdomylosis. Fever and seizures can lead to brain cell death.",
     "DXM has been shown to prevent and reverse morphine tolerance while also increasing analgesic effects as well as potentiating the analgesic activity of NSAIDs, naproxen, piroxicam, etodolac, diclofenac, and ketorolac."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (OTC cough suppressant); some jurisdictions restrict sales",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C18H25NO",
+    "molecularWeight": "271.40 g/mol",
     "class": "Substituted morphinans"
   },
     "aliases": [],

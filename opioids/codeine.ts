@@ -100,10 +100,10 @@ export const codeine: Substance =
     "As with other opioids, the chronic use of codeine can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and may occur if a person suddenly stops their usage.",
     "Tolerance to many of the effects of codeine develops with prolonged and repeated use. The rate at which this occurs develops at different rates for different effects, with tolerance to the constipation-inducing effects developing particularly slowly for instance. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Codeine presents cross-tolerance with all other opioids, meaning that after the consumption of codeine all opioids will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule II/III/V (US), Class B (UK), Schedule II (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C18H21NO3",
+    "molecularWeight": "299.40 g/mol",
     "class": "Substituted morphinans"
   },
     "aliases": [],

@@ -69,10 +69,10 @@ export const mephenaqualone: Substance =
   "harmReduction": [
     "The toxicity profile of mephenaqualone is not well-documented, but it is assumed to be similar to that of methaqualone. Overdosing on mephenaqualone can lead to severe sedation, respiratory depression, and potentially life-threatening symptoms. As with all CNS depressants, combining mephenaqualone with other depressants like alcohol or benzodiazepines significantly increases the risk of overdose and fatal respiratory depression."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C16H14N2O",
+    "molecularWeight": "250.29 g/mol",
     "class": "Quinazolinone"
   },
     "aliases": [],

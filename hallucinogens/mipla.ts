@@ -135,10 +135,10 @@ export const mipla: Substance =
     "As with LSD, tolerance to the effects of MiPLA forms almost immediately after ingestion. After that, it is assumed to take about 5-7 days for the tolerance to be reduced to half and 14 days to be return to baseline (in the absence of further consumption).",
     "Due to its activity at the 5-HT2A receptor, MiPLA produces cross-tolerance with all psychedelics, meaning that after the consumption of MiPLA all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C20H25N3O",
+    "molecularWeight": "323.40 g/mol",
     "class": "Lysergamides"
   },
     "aliases": [],

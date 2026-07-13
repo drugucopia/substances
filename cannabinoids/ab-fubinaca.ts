@@ -104,10 +104,10 @@ export const ab_fubinaca: Substance =
     "As with other synthetic cannabinoids, the chronic use of AB-FUBINACA can be considered moderately addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.",
     "Tolerance to many of the effects of AB-FUBINACA develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). AB-FUBINACA presents cross-tolerance with all cannabinoids, meaning that after the consumption of AB-FUBINACA all cannabinoids will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C20H21FN4O2",
+    "molecularWeight": "368.40 g/mol",
     "class": "Indazolecarboxamide"
   },
     "aliases": [],

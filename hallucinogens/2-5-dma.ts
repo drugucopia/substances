@@ -87,10 +87,10 @@ export const _2_5_dma: Substance =
     "Although no formal studies have been conducted, it is not unreasonable to assume that as is the case with psychedelics in general, 2,5-DMA is not habit-forming and that the desire to use it can actually decrease with use. However, it's stimulating properties do provide a possible risk of addiction which would be associated with other stimulants.",
     "Tolerance to the effects of 2,5-DMA is built after ingestion over the couse of multiple days. After that, it takes about 3-5 days for the tolerance to be reduced to half and 7-10 days to be back at baseline (in the absence of further consumption). 2,5-DMA may present cross-tolerance, although unlikely, with all psychedelics, meaning that after the consumption of 2,5-DMA all psychedelics will have a reduced effect. It may also produce tolerance to stimulants as well."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C11H17NO2",
+    "molecularWeight": "195.26 g/mol",
     "class": "Amphetamine"
   },
     "aliases": [],

@@ -114,10 +114,10 @@ export const mdai: Substance =
     "After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption).",
     "MDAI presents cross-tolerance with all entactogens, meaning that after the consumption of MDAI all serotonergic stimulants will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C10H11NO2",
+    "molecularWeight": "177.20 g/mol",
     "class": "Aminoindane"
   },
     "aliases": [],

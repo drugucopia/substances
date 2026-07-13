@@ -150,10 +150,10 @@ export const _4_fa: Substance =
     "Tolerance to many of the effects of 4-FA develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). This is how long it takes to reduce the tolerance for the stimulating effects. Tolerance for the entactogenic effects may take a longer period to reduce. 4-FA presents cross-tolerance with all dopaminergic stimulants, meaning that after the consumption of 4-FA all stimulants will have a reduced effect.",
     "4-FA, like other stimulants, can result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C9H12FN",
+    "molecularWeight": "153.20 g/mol",
     "class": "Substituted amphetamines"
   },
     "aliases": [],

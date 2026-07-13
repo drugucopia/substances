@@ -85,10 +85,10 @@ export const n_methylbisfluoromodafinil: Substance =
     "The chronic use of N-methylbisfluoromodafinil can be considered as mildly addictive with a low potential for abuse and it does not seem to be capable of causing psychological dependence among certain users due to its lack of euphoria or recreational effects. If addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage.",
     "Tolerance to many of the effects of N-methylbisfluoromodafinil develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). N-methylbisfluoromodafinil presents cross-tolerance with all modafanil analogs, meaning that after the consumption of N-methylbisfluoromodafinil all modafinil analogs will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Legal status varies: US: uncontrolled (modafinil analog); UK: Psychoactive Substances Act; EU: varies; CA: uncontrolled; AU: likely Schedule 4",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H13F2N3O2S",
+    "molecularWeight": "363.37 g/mol",
     "class": "Benzhydryl"
   },
     "aliases": [],

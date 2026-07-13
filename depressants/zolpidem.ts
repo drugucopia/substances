@@ -123,10 +123,10 @@ export const zolpidem: Substance =
     "Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction. For more information on tapering from zolpidem in a controlled manner, please see this guide while keeping in mind it is intended for benzodiazepines.",
     "Although dependence builds up more slowly than in benzodiazepines, discontinuation from regular recreational doses of zolpidem appear to be as difficult as  ; it is potentially life-threatening for individuals using regularly to discontinue use without tapering their dose over a period of weeks. There is an increased risk of hypertension, seizures, and death. Drugs which lower the seizure threshold such as tramadol should be avoided during withdrawal."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule IV (US), Class C (UK), Schedule IV (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C19H21N3O",
+    "molecularWeight": "307.40 g/mol",
     "class": "Imidazopyridine"
   },
     "aliases": [],

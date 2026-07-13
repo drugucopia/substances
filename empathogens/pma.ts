@@ -104,10 +104,10 @@ export const pma: Substance =
     "PMA and its relative PMMA Toxicity can be considered extremely toxic when compared to other substances such as Methamphetamine or MDMA . Toxicity Ingestion of PMA has been associated with severe tachycardia (abnormally high heart rate), seizures, dehydration, hyperthermia, and death. PMA has a relatively slow onset, causing many users to redose which causes excess toxicity.",
     "It is strongly recommended that one use harm reduction practices when using this substance."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C10H15NO2",
+    "molecularWeight": "179.23 g/mol",
     "class": "Amphetamine"
   },
     "aliases": [],

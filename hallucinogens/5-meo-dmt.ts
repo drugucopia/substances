@@ -128,10 +128,10 @@ export const _5_meo_dmt: Substance =
     "Like other serotonergic psychedelics, 5-MeO-DMT is considered to be non-addictive with a low abuse potential. There are no literature reports of successful attempts to train animals to self-administer 5-MeO-DMT — an animal model predictive of abuse liability — indicating that it does not have the necessary pharmacology to either initiate or maintain dependence.",
     "Tolerance to the effects of 5-MeO-DMT is built almost immediately after ingestion. After that, it takes about 1 hour for the tolerance to be reduced to half and 2 hours to be back at baseline (in the absence of further consumption). 5-MeO-DMT does not have a cross-tolerance with other psychedelics, meaning that after the consumption of 5-MeO-DMT psychedelics will not have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C13H18N2O",
+    "molecularWeight": "218.29 g/mol",
     "class": "Substituted tryptamines"
   },
     "aliases": [],

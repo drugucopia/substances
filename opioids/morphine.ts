@@ -124,10 +124,10 @@ export const morphine: Substance =
     "Tolerance to many of the effects of morphine develops with prolonged use, including therapeutic effects. This results in users having to administer increasingly large doses to achieve the same effects. The rate at which this occurs develops at different rates for different effects with tolerance to the constipation-inducing effects developing particularly slowly. Morphine presents cross-tolerance with all other opioids, meaning that after the consumption of morphine all opioids will have a reduced effect.",
     "The risk of fatal opioid overdoses rise sharply after a period of cessation and relapse, largely because of reduced tolerance. To account for this lack of tolerance, it is safer to only dose a fraction of one's usual dosage if relapsing. It has also been found that the environment one is in can play a role in opioid tolerance. In one scientific study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule II (US), Class A (UK), Schedule I (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H19NO3",
+    "molecularWeight": "285.34 g/mol",
     "class": "Substituted morphinans"
   },
     "aliases": [],

@@ -140,10 +140,10 @@ export const _5_meo_mipt: Substance =
     "5-MeO-MiPT is not habit-forming, and the desire to use it can actually decrease with use. It is most often self-regulating.",
     "Tolerance to the effects of 5-MeO-MiPT is built almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). 5-MeO-MiPT presents cross-tolerance with all psychedelics, meaning that after the consumption of 5-MeO-MiPT all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C15H22N2O",
+    "molecularWeight": "246.35 g/mol",
     "class": "Substituted tryptamines"
   },
     "aliases": [],

@@ -104,10 +104,10 @@ export const allylescaline: Substance =
     "Allylescaline is not habit-forming, and the desire to use it can actually decrease with use. It is most often self-regulating.",
     "Tolerance to the effects of allylescaline is built almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). Allylescaline presents cross-tolerance with all psychedelics, meaning that after the consumption of allylescaline all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C13H19NO3",
+    "molecularWeight": "237.29 g/mol",
     "class": "Substituted phenethylamines"
   },
     "aliases": [],

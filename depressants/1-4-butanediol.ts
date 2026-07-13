@@ -89,10 +89,10 @@ export const _1_4_butanediol: Substance =
     "Although there have been reported fatalities due to GHB/1,4-Butanediol withdrawal, reports are inconclusive and further research is needed.",
     "Tolerance will develop to the sedative-hypnotic effects within several weeks of continuous use. After cessation, the tolerance returns to baseline in 7 - 14 days. Withdrawal symptoms or rebound symptoms may occur after ceasing usage abruptly following a few weeks or longer of steady dosing, and may necessitate a gradual dose reduction."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US - analog act), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C4H10O2",
+    "molecularWeight": "90.12 g/mol",
     "class": "Alkanediol"
   },
     "aliases": [],

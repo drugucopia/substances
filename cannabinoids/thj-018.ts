@@ -105,10 +105,10 @@ export const thj_018: Substance =
     "Tolerance to many of the effects of THJ-018 develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). THJ-018 presents cross-tolerance with all cannabinoids, meaning that after the consumption of THJ-018 all cannabinoids will have a reduced effect.",
     "Although there is no valid data on the toxicity of synthetic cannabinoids so far, there is concern that the naphthalene group found in THJ-018 and some other synthetic cannabinoids may be toxic or carcinogenic."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C23H22N2O",
+    "molecularWeight": "342.40 g/mol",
     "class": "Naphthoylindazole"
   },
     "aliases": [],

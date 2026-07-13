@@ -147,10 +147,10 @@ export const _6_apb: Substance =
     "As a potent releaser of serotonin, tolerance builds quickly with prolonged and repeated use to the point that the substance eventually loses any positive effects and instead leaves the user in an uncomfortable state of anxious, dysphoric stimulation. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3-4 weeks for the tolerance to be reduced to half and 6-8 weeks to be back at baseline (in the absence of further consumption). 6-APB presents cross-tolerance with all dopaminergic stimulants, meaning that after the consumption of 6-APB all stimulants will have a reduced effect.",
     "There is an increased risk of serotonin syndrome when 6-APB is taken with many antidepressants, particularly monoamine oxidase inhibitors (MAOIs). Additionally, if 6-APB is taken with SSRIs and SNRIs, it is likely to be significantly less effective if it produces any discernible effects at all."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C11H13NO",
+    "molecularWeight": "175.23 g/mol",
     "class": "Substituted amphetamines"
   },
     "aliases": [],

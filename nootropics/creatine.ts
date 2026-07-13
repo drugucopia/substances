@@ -83,10 +83,10 @@ export const creatine: Substance =
     "Creatine is not habit-forming with a low potential for abuse. It does not seem to be capable of causing psychological or physiological dependence among users.",
     "Tolerance to the effects of creatine are not built after ingestion as with most other psychoactive substances. There are many anecdotal reports of people ingesting this substance for prolonged periods of time with no tolerance build up."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (dietary supplement)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C4H9N3O2",
+    "molecularWeight": "131.13 g/mol",
     "class": "Unknown"
   },
     "aliases": [],

@@ -103,10 +103,10 @@ export const kratom: Substance =
     "Chronic kratom use may lead to tolerance to the effects of serotonergic psychedelics due to kratom's antagonism of the 5-HT2A receptor and said receptor's paradoxical down-regulation in response to inhibitors.",
     "Since kratom is classified as an herbal supplement and remains legal in many states, a subset of individuals mistakenly assume that it can be used regularly and eventually discontinued without any withdrawal symptoms.  In reality, most individuals who use kratom on a regular basis will experience some withdrawal symptoms following cessation."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Legal status varies by jurisdiction. (US: not federally scheduled, banned in 6 states; UK: Psychoactive Substances Act; EU: varies by country; CA: uncontrolled; AU: Schedule 9; banned in Thailand, Malaysia, Myanmar, Denmark, Poland, Sweden, Romania)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "Variable (plant mixture: Mitragyna speciosa - mitragynine, 7-hydroxymitragynine + other alkaloids)",
+    "molecularWeight": "N/A (plant mixture)",
     "class": "Indole alkaloids"
   },
     "aliases": [],

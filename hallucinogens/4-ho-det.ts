@@ -115,10 +115,10 @@ export const _4_ho_det: Substance =
     "4-HO-DET is not habit-forming and the desire to use it can actually decrease with use. It is most often self-regulating.",
     "Tolerance to the effects of 4-HO-DET is built almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). 4-HO-DET presents cross-tolerance with all psychedelics, meaning that after the consumption of 4-HO-DET all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C14H20N2O",
+    "molecularWeight": "232.32 g/mol",
     "class": "Substituted tryptamines"
   },
     "aliases": [],

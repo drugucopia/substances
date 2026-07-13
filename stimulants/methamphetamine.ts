@@ -229,10 +229,10 @@ export const methamphetamine: Substance =
     "Acute methamphetamine overdose is largely managed by treating the symptoms, and administration of benzodiazepines relieves symptoms such as agitation, hypertension, tachycardia, and seizure.",
     "Studies have shown that N-acetylcysteine (NAC) can block the harmful neurotoxic effects of methamphetamine while preventing neurotransmitter depletion in rats and clinical trials in humans to treat methamphetamine dependence are currently underway. NAC may be effective for reducing the cravings and psychological dependence as well. NAC has a short half life and a sustained release formulation may be preferred for harm reduction purposes. Selenium has also been shown to protect the brain against meth induced neurotoxicity. However, it is worth noting that this data is preliminary and may not be applicable to humans."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule II (US), Class A (UK), Schedule II (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C10H15N",
+    "molecularWeight": "149.23 g/mol",
     "class": "Amphetamine"
   },
     "aliases": [],

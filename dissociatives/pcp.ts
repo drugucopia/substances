@@ -197,10 +197,10 @@ export const pcp: Substance =
     "When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage. There have been multiple reports across the internet of people becoming seriously addicted daily users of this substance so serious precautions and considerations should be taken before trying this substance.",
     "Tolerance to many of the effects of PCP develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). PCP presents cross-tolerance with all dissociatives, meaning that after the consumption of PCP, all dissociatives will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule II (US), Class A (UK), Schedule II (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H25N",
+    "molecularWeight": "243.39 g/mol",
     "class": "Arylcyclohexylamines"
   },
     "aliases": [],

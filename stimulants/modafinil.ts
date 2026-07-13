@@ -94,10 +94,10 @@ export const modafinil: Substance =
     "The chronic use of modafinil can be considered as not addictive with a low potential for abuse. It does not seem to be capable of causing psychological dependence among most users.",
     "Tolerance to many of the effects of modafinil develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Modafinil may present a cross-tolerance with all benzhydryl nootropics, meaning that after the consumption of modafinil, all related eugeroic compounds such as armodafinil and adrafinil will display a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule IV (US), Prescription-only (EU/UK/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C15H15NO2S",
+    "molecularWeight": "273.40 g/mol",
     "class": "Benzhydryl"
   },
     "aliases": [],

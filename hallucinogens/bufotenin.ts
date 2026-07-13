@@ -92,10 +92,10 @@ export const bufotenin: Substance =
     "Tolerance to the effects of bufotenin is built almost immediately after ingestion. After that, it takes about 1 hour for the tolerance to be reduced to half and 2 hours to be back at baseline (in the absence of further consumption). Bufotenin does not have a cross-tolerance with other psychedelics, meaning that after the consumption of bufotenin psychedelics will not have a reduced effect.",
     "Deaths from bufotenin are rare but, as a powerful monoamine reuptake inhibitor (MRI), injury can occur when excessive doses are taken or when taken with drugs such as MAOIs, RIMAs, stimulants and any substance which act as a releasing agent or reuptake inhibitor of neurotransmitters such as serotonin and dopamine. This has resulted in well documented deaths that are easily avoidable and could have been otherwise prevented."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C12H16N2O",
+    "molecularWeight": "204.27 g/mol",
     "class": "Substituted tryptamines"
   },
     "aliases": [],

@@ -74,10 +74,10 @@ export const grayanotoxin: Substance =
   "harmReduction": [
     "It is strongly recommended that one use harm reduction practices when using this substance."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (natural toxin)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C20H34O5",
+    "molecularWeight": "354.50 g/mol",
     "class": "Diterpene"
   },
     "aliases": [],

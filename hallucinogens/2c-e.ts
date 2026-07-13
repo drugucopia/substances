@@ -138,10 +138,10 @@ export const _2c_e: Substance =
     "Although no formal studies have been conducted, it is not unreasonable to assume that like psychedelics in general, 2C-E is not habit-forming and that the desire to use it can actually decrease with use.",
     "Tolerance to the effects of 2C-E is built almost immediately after ingestion. After that, it takes about 1-2 days for the tolerance to be reduced to half and 2-4 days to be back at baseline (in the absence of further consumption). 2C-E presents cross-tolerance with all psychedelics but not evenly, meaning that after the consumption of 2C-E, some psychedelics will have significant reduced effects while some others will only be slighly affected."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C12H19NO2",
+    "molecularWeight": "209.28 g/mol",
     "class": "Substituted phenethylamines"
   },
     "aliases": [],

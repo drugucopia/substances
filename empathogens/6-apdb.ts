@@ -132,10 +132,10 @@ export const _6_apdb: Substance =
     "As a potent releaser of serotonin, tolerance builds quickly with prolonged and repeated use to the point that the drug eventually loses any positive effects and instead leaves the user in an uncomfortable state of anxious stimulation and dysphoria. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 21-30 days for the tolerance to be reduced to half and 2-3 months to be back at baseline (in the absence of further consumption). 6-APDB presents cross-tolerance with all dopaminergic stimulants, meaning that after the consumption of 6-APDB all stimulants will have a reduced effect.",
     "There is an increased risk of serotonin syndrome when 6-APDB is taken with many antidepressants, particularly selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs). Additionally, if 6-APDB is taken with SSRIs and SNRIs, the 6-APDB will be significantly less powerful or may have no distinguishable effects at all."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C11H15NO",
+    "molecularWeight": "177.24 g/mol",
     "class": "Substituted amphetamines"
   },
     "aliases": [],

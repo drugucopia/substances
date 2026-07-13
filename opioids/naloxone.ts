@@ -115,10 +115,10 @@ export const naloxone: Substance =
     "It has been noted that naloxone may be needed in higher dosages depending on the opioid that was consumed. It is not uncommon for several doses of naloxone to be administered in overdose cases involving fentanyl or one of its many analogs. If an individual does not have opioids in their system when naloxone is administered, it may cause dehydration and nausea.",
     "It is strongly recommended that one use harm reduction practices when using this substance."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (OTC in many places)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C19H21NO4",
+    "molecularWeight": "327.40 g/mol",
     "class": "Substituted morphinans"
   },
     "aliases": [],

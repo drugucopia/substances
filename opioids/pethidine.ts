@@ -107,10 +107,10 @@ export const pethidine: Substance =
     "The risk of fatal opioid overdoses rise sharply after a period of cessation and relapse, largely because of reduced tolerance. To account for this lack of tolerance, it is safer to only dose a fraction of one's usual dosage if relapsing. It has also been found that the environment one is in can play a role in opioid tolerance. In one scientific study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment.",
     "Pethidine is known to have a significantly increased chance of causing serotonin syndrome than other serotonergic opioids such as tramadol."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule II (US), Class B (UK), Schedule II (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C15H21NO2",
+    "molecularWeight": "247.33 g/mol",
     "class": "Substituted piperidines"
   },
     "aliases": [],

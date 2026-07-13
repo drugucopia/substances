@@ -168,10 +168,10 @@ export const a_php: Substance =
     "Tolerance to many of the effects of α-PHP develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). α-PHP presents cross-tolerance with all dopaminergic stimulants, meaning that after the consumption of α-PHP all stimulants will have a reduced effect.",
     "α-PHP, like other strongly dopaminergic stimulants, can result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C16H23NO",
+    "molecularWeight": "245.36 g/mol",
     "class": "Cathinone"
   },
     "aliases": [],

@@ -140,10 +140,10 @@ export const _25c_nboh: Substance =
     "25C-NBOH is not habit-forming and the desire to use it can actually decrease with use. It is most often self-regulating.",
     "Tolerance to the effects of 25C-NBOH is built almost immediately after ingestion. After that, it takes about 1 week for the tolerance to be reduced to half and 2 weeks to be back at baseline (in the absence of further consumption). 25C-NBOH presents cross-tolerance with all psychedelics, meaning that after the consumption of 25C-NBOH all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H20ClNO3",
+    "molecularWeight": "321.80 g/mol",
     "class": "Substituted phenethylamines"
   },
     "aliases": [],

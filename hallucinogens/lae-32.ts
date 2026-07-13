@@ -63,10 +63,10 @@ export const lae_32: Substance =
     "crossTolerances": []
   },
   "harmReduction": [],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance in multiple jurisdictions",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C18H21N3O",
+    "molecularWeight": "295.40 g/mol",
     "class": "Lysergamides"
   },
     "aliases": [],

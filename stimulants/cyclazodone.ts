@@ -134,10 +134,10 @@ export const cyclazodone: Substance =
     "Tolerance to many of the effects of cyclazodone develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Cyclazodone presents cross-tolerance with all dopaminergic stimulants, meaning that after the consumption of cyclazodone all stimulants will have a reduced effect.",
     "Based on its pharmacological similarity to other stimulants, it is likely that misuse of this compound can result in state of psychosis marked by a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on the treatment for amphetamine and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis. Psychosis very rarely arises from therapeutic use. The combination of the prolonged use of high doses combined with sleep deprivation significantly increases the risk of stimulant psychosis."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C12H12N2O2",
+    "molecularWeight": "216.24 g/mol",
     "class": "Substituted aminorexes"
   },
     "aliases": [],

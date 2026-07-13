@@ -96,10 +96,10 @@ export const f_phenibut: Substance =
     "Withdrawal symptoms likely include severe anxiety, nervousness, hallucinations, tremors, agitation, dizziness, tension, irritation, rapid heartbeat, fatigue, loss of appetite, nausea, vomiting, psychosis, and insomnia in a similar manner to phenibut.",
     "F-Phenibut presents cross-tolerance with all GABAgenic depressants, meaning that after its consumption most depressants will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Legal status varies: US: uncontrolled (research chemical); UK: Psychoactive Substances Act; EU: varies; CA: uncontrolled; AU: Schedule 4",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C10H12FNO2",
+    "molecularWeight": "197.21 g/mol",
     "class": "Gabapentinoids"
   },
     "aliases": [],

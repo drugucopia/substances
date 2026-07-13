@@ -107,10 +107,10 @@ export const prolintane: Substance =
     "When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage. Addiction is a potential risk among users of prolintane as it can cause compulsive redosing, although typically to a far lesser degree than the notoriously compulsive cathinone analogs A-PVP and MDPV.",
     "User reports indicate that chronic abuse or single overdose exposure of prolintane can potentially lead to psychosis. Psychotic symptoms from prolintane can include hearing voices, visual hallucinations, urges to harm oneself, severe anxiety, mania, grandiosity, paranoid delusions, confusion, increased aggression, and irritability."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C15H23N",
+    "molecularWeight": "217.35 g/mol",
     "class": "Amphetamine"
   },
     "aliases": [],

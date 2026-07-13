@@ -97,10 +97,10 @@ export const coluracetam: Substance =
     "The chronic use of Coluracetam can be considered as not addictive with a low potential for abuse. It does not appear to be capable of causing psychological dependence among certain users.",
     "Tolerance to many of the effects of Coluracetam develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption). Coluracetam may presents cross-tolerance with all racetam nootropics, meaning that after the consumption of Coluracetam certain nootropics such as aniracetam and piracetam may have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (research chemical/nootropic)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C19H23N3O3",
+    "molecularWeight": "341.40 g/mol",
     "class": "Racetams"
   },
     "aliases": [],

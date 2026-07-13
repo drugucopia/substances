@@ -145,10 +145,10 @@ export const _1v_lsd: Substance =
     "Likewise, there is virtually no withdrawal syndrome when chronic use of LSD is stopped. It is assumed that 1V-LSD shares these properties with LSD.",
     "Tolerance to the effects of 1V-LSD is built almost immediately after ingestion. After that, it takes about 5-7 days for the tolerance to be reduced to half and 14 days to be back at baseline (in the absence of further consumption). 1V-LSD produces cross-tolerance with all psychedelics, meaning that after the use of 1V-LSD they will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C25H33N3O2",
+    "molecularWeight": "407.50 g/mol",
     "class": "Lysergamides"
   },
     "aliases": [],

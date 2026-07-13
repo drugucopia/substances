@@ -97,10 +97,10 @@ export const methcathinone: Substance =
     "crossTolerances": []
   },
   "harmReduction": [],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C10H13NO",
+    "molecularWeight": "163.22 g/mol",
     "class": "Cathinone"
   },
     "aliases": [],

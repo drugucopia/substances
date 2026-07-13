@@ -115,10 +115,10 @@ export const psilocin: Substance =
     "Psilocin is not habit-forming, and the desire to use it can actually decrease with use. It is most often self-regulating.",
     "Tolerance to the effects of psilocin is built almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). Psilocin presents cross-tolerance with all psychedelics, meaning that after the consumption of psilocin all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C12H16N2O",
+    "molecularWeight": "204.27 g/mol",
     "class": "Substituted tryptamines"
   },
     "aliases": [],

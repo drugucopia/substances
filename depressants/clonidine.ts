@@ -82,10 +82,10 @@ export const clonidine: Substance =
     "crossTolerances": []
   },
   "harmReduction": [],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Prescription only: Unscheduled (US), Prescription-only (EU/UK/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C9H9Cl2N3",
+    "molecularWeight": "230.09 g/mol",
     "class": "Imidazoline"
   },
     "aliases": [],

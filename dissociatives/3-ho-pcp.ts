@@ -110,10 +110,10 @@ export const _3_ho_pcp: Substance =
     "Hematuria - Hematuria is visible blood in the urine.",
     "Incontinence - This is the leakage of urine."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US - analog act), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H25NO",
+    "molecularWeight": "259.40 g/mol",
     "class": "Arylcyclohexylamines"
   },
     "aliases": [],

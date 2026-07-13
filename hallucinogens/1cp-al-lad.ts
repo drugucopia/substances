@@ -139,10 +139,10 @@ export const _1cp_al_lad: Substance =
     "Tolerance to the effects of 1cP-AL-LAD is built almost immediately after ingestion. After that, it takes about 5-7 days for the tolerance to be reduced to half and 14 days to be back at baseline (in the absence of further consumption). 1cP-AL-LAD presents cross-tolerance with all psychedelics, meaning that after the use of 1cP-AL-LAD all psychedelics will have a reduced effect.",
     "The LD50 of 1cP-AL-LAD is unknown. Adverse psychological reactions are common especially at higher dosages. Some of these include anxiety, delusions, panic attacks and more rarely seizures. Medical attention is usually only needed if suspected of severe psychotic episodes or “fake acid” (such as 25i-NBOMe or DOB). Administration of benzodiazepines or antipsychotics can help to relieve the negative cognitive effects of 1cP-AL-LAD."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C26H31N3O2",
+    "molecularWeight": "417.50 g/mol",
     "class": "Lysergamides"
   },
     "aliases": [],

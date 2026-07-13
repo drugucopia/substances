@@ -190,10 +190,10 @@ export const alcohol: Substance =
     "Ethanol-containing beverages can cause skin problems and bronchoconstriction in patients with a history of asthma. These reactions occur within 1–60 minutes of ethanol ingestion. A deficiency of ALDH2 increase the likelihood of such events.",
     "About 50% of East Asians have a genetic deficiency of the ALDH2 enzyme, causing the accumulation of toxic acetaldehyde even without the ingestion of disulfiram-like drugs. The symptoms are similar: vomiting, nausea, and shortness of breath. There's also increased flushing, the so-called \"Asian flush\"."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Legal/Regulated (not controlled substance)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C2H6O",
+    "molecularWeight": "46.07 g/mol",
     "class": "Alcohol"
   },
     "aliases": [],

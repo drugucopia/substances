@@ -92,10 +92,10 @@ export const progesterone: Substance =
     "Tolerance to the offects of Progesterone metabolites on GABA will build within a few years and return to baseline within a few months after cessation.",
     "Combining oral progesterone with food leads to a two fold increase in absorptions.  Since oral progesterone is a oil soluable reports of increased effects when combined with fatty foods do seem plausible."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Prescription only: Unscheduled (US), Prescription-only (EU/UK/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C21H30O2",
+    "molecularWeight": "314.50 g/mol",
     "class": "Steroid"
   },
     "aliases": [],

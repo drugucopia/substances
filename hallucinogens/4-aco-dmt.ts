@@ -146,10 +146,10 @@ export const _4_aco_dmt: Substance =
     "After that, it takes about 7 days for tolerance to return to baseline (in the absence of further consumption).",
     "4-AcO-DMT produces cross-tolerance with all psychedelics, meaning that after the consumption of 4-AcO-DMT all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C14H18N2O2",
+    "molecularWeight": "246.30 g/mol",
     "class": "Substituted tryptamines"
   },
     "aliases": [],

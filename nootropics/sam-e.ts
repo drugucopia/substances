@@ -86,10 +86,10 @@ export const sam_e: Substance =
     "SAM-e is not habit-forming with a low potential for abuse. It does not seem to be capable of causing psychological or physiological dependence among users.",
     "Tolerance to many of the effects of S-adenosyl methionine develops over several weeks of prolonged and repeated use. This results in users having to administer increasingly larger doses to achieve the same effects. After that, it takes about 3 - 7 days for the tolerance to be reduced to half and 1 - 2 weeks to be back at baseline (in the absence of further consumption)."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (dietary supplement)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C15H22N6O5S",
+    "molecularWeight": "398.40 g/mol",
     "class": "Nitrogenous organic acid"
   },
     "aliases": [],

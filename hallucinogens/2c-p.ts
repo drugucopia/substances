@@ -121,10 +121,10 @@ export const _2c_p: Substance =
     "As a serotonergic psychedelic, 2C-P is considered to have a low potential for abuse and dependence.",
     "Tolerance to the effects of 2C-P is built almost immediately after ingestion. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). 2C-P produces cross-tolerance with all psychedelics, meaning that after the consumption of 2C-P all psychedelics will have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C13H21NO2",
+    "molecularWeight": "223.31 g/mol",
     "class": "Substituted phenethylamines"
   },
     "aliases": [],

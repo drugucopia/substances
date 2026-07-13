@@ -130,10 +130,10 @@ export const mxipr: Substance =
     "Incontinence - This is the leakage of urine.",
     "All of these, however, can easily be avoided by simply not using MXiPr on a daily or even weekly basis and consciously limiting one's usage of the substance."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Legal status varies: US: uncontrolled; UK: Psychoactive Substances Act; EU: varies; CA: uncontrolled; AU: likely Schedule 9",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C17H25NO",
+    "molecularWeight": "259.39 g/mol",
     "class": "Arylcyclohexylamines"
   },
     "aliases": [],

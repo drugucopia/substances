@@ -108,10 +108,10 @@ export const bromazepam: Substance =
     "continuous use of benzodiazepines varies in the different",
     "studies : from one month to six. Benzodiazepine dependence is more prevalent among women who are middle aged, separated, of low educational background, unemployed or housewives."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule IV (US), Class C (UK), Schedule IV (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C14H10BrN3O",
+    "molecularWeight": "316.15 g/mol",
     "class": "Unknown"
   },
     "aliases": [],

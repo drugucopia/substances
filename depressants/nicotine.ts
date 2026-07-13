@@ -123,10 +123,10 @@ export const nicotine: Substance =
     "Following discontinuation of nicotine, receptors may take several months to return to baseline.",
     "Nicotine has been indicated in the increased frequency of congenital disabilities and has been correlated with the increase of attention deficit hyperactivity disorder in children."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (regulated as tobacco product)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C10H14N2",
+    "molecularWeight": "162.23 g/mol",
     "class": "Pyridine"
   },
     "aliases": [],

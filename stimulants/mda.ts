@@ -147,10 +147,10 @@ export const mda: Substance =
     "Tolerance to the psychedelic effects of MDA is built almost immediately after ingestion. However, tolerance to the stimulant and entactogenic effects are built up after repeated and heavy usage in a manner that varies between individuals. After that, it takes about 3 days for the tolerance to be reduced to half and 7 days to be back at baseline (in the absence of further consumption). MDA presents cross-tolerance with all psychedelics and most stimulants, meaning that after the consumption of MDA all psychedelics and some stimulants will have a reduced effect."
 
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Schedule I (UN), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C10H13NO2",
+    "molecularWeight": "179.22 g/mol",
     "class": "Amphetamine"
   },
     "aliases": [],

@@ -153,10 +153,10 @@ export const lsa: Substance =
     "Selective serotonin reuptake inhibitors (SSRIs) - SSRIs are reported to suppress the visual and cognitive effects of LSA.",
     "MAOIs - MAO inhibitors, such as passionflower and syrian rue potentiate the visual and introspective effects of psychedelics. It is advised to take caution when combining MAOIs with psychedelics because they can increase the chance of having a bad trip and may with other substances, such as SSRIs and stimulants, as well as some psychedelics such as MDA."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class A (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C7H5NO3S",
+    "molecularWeight": "183.19 g/mol",
     "class": "Lysergamides"
   },
     "aliases": [],

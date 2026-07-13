@@ -168,10 +168,10 @@ export const methoxetamine: Substance =
     "Incontinence - This is the leakage of urine.",
     "All of these, however, can easily be avoided by simply not using MXE on a daily or even weekly basis and manually limiting one's usage of the substance."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C15H21NO2",
+    "molecularWeight": "247.33 g/mol",
     "class": "Arylcyclohexylamines"
   },
     "aliases": [],

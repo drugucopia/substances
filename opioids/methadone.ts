@@ -106,10 +106,10 @@ export const methadone: Substance =
     "The risk of fatal opioid overdoses rise sharply after a period of cessation and relapse, largely because of reduced tolerance. To account for this lack of tolerance, it is safer to only dose a fraction of one's usual dosage if relapsing. It has also been found that the environment one is in can play a role in opioid tolerance. In one scientific study, rats with the same history of heroin administration were significantly more likely to die after receiving their dose in an environment not associated with the drug in contrast to a familiar environment.",
     "While methadone has been reported to occasionally cause serotonin syndrome when combined with certain substances (such as those listed below), anecdotal reports suggests that it does so at a much lower rate than tramadol."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule II (US), Class B (UK), Schedule I (UN), Prescription-only (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C21H27NO",
+    "molecularWeight": "309.40 g/mol",
     "class": "Diphenylpropylamine"
   },
     "aliases": [],

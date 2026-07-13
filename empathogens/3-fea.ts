@@ -146,10 +146,10 @@ export const _3_fea: Substance =
     "Tolerance to many of the effects of 3-FEA develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects. Afterward, it takes about 2 - 3 days for the tolerance to be reduced to half and 3-7 days to be back at baseline (in the absence of further consumption). 3-FEA likely presents cross-tolerance with all dopaminergic and serotonergic stimulants and entactogens, meaning that after the consumption of 3-FEA all stimulants will have a reduced effect (including atypical stimulants one might not expect, such MDMA or amphetamine due to its reliance on robust dopamine and norepinephrine stores to exert its full spectrum of effect).",
     "Abuse of compounds within the amphetamine chemical class at high dosages for prolonged periods of time can potentially result in a stimulant psychosis that may present with a variety of symptoms (e.g., paranoia, hallucinations, or delusions). A review on treatment for amphetamine, dextroamphetamine, and methamphetamine abuse-induced psychosis states that about 5–15% of users fail to recover completely. The same review asserts that, based upon at least one trial, antipsychotic medications effectively resolve the symptoms of acute amphetamine psychosis. Psychosis very rarely arises from therapeutic use."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C11H16FN",
+    "molecularWeight": "181.25 g/mol",
     "class": "Amphetamine"
   },
     "aliases": [],

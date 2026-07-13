@@ -73,10 +73,10 @@ export const alpha_gpc: Substance =
     "Alpha-GPC is not habit-forming and the desire to use it can actually decrease with use. It is most often self-regulating.",
     "Tolerance to the effects of alpha-GPC is built after prolonged and repeated usage. After that, it takes about 7 days for the tolerance to be reduced to half and 14 days to be back at baseline (in the absence of further consumption). Alpha-GPC presents cross-tolerance with no other known compounds, meaning that after the use of Alpha-GPC all other psychoactive compounds will not have a reduced effect."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Unscheduled/Uncontrolled in most jurisdictions (dietary supplement)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C8H20NO6P",
+    "molecularWeight": "257.22 g/mol",
     "class": "Choline derivative"
   },
     "aliases": [],

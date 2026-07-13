@@ -123,10 +123,10 @@ export const ephylone: Substance =
     "As with other stimulants, the chronic use of ephylone can be considered moderately addictive with a high potential for abuse. It is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects will occur if one suddenly stops their use.",
     "Tolerance to many of the effects of ephylone develops with prolonged and repeated use. This results in users having to administer increasingly large doses to achieve the same effects."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C14H19NO3",
+    "molecularWeight": "249.30 g/mol",
     "class": "Cathinone"
   },
     "aliases": [],

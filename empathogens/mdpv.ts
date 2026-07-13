@@ -118,10 +118,10 @@ export const mdpv: Substance =
     "More so than other stimulants, the chronic use of MDPV can be considered highly addictive with a high potential for abuse and is capable of causing psychological dependence among certain users. When addiction has developed, cravings and withdrawal effects may occur if a person suddenly stops their usage. Addiction is a serious risk among users of MDPV as it easily causes compulsive redosing and causes highly unpleasant comedown symptoms.",
     "User reports indicate that chronic abuse or single exposure overdose of MDPV can potentially lead to psychosis more readily than the vast majority of stimulants. Psychotic symptoms from MDPV can include hearing voices, visual hallucinations, urges to harm oneself, severe anxiety, mania, grandiosity, paranoid delusions, confusion, increased aggression, and irritability."
   ],
-  "legality": "Legal status varies by jurisdiction. Check local laws.",
+  "legality": "Controlled substance: Schedule I (US), Class B (UK), Controlled (EU/CA/AU)",
   "chemistry": {
-    "formula": "Unknown",
-    "molecularWeight": "Unknown",
+    "formula": "C16H21NO3",
+    "molecularWeight": "275.34 g/mol",
     "class": "MDxx"
   },
     "aliases": [],
