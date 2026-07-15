@@ -110,5 +110,6 @@ export const u_47700: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/U-47700",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/U-47700"
 };

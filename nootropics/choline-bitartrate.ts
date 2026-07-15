@@ -72,5 +72,6 @@ export const choline_bitartrate: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Choline_bitartrate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Choline_bitartrate"
 };

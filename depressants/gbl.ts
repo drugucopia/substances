@@ -142,5 +142,6 @@ export const gbl: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/GBL",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/GBL"
 };

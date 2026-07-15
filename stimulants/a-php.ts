@@ -178,5 +178,6 @@ export const a_php: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/A-PHP",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/A-PHP"
 };

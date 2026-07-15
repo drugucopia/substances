@@ -143,5 +143,6 @@ export const o_desmethyltramadol: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/O-Desmethyltramadol",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/O-Desmethyltramadol"
 };

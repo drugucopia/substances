@@ -91,5 +91,5 @@ export const phenelzine: Substance = {
     "Phenelzine was first synthesized in the 1950s as a hydrazine derivative of phenylethylamine and was developed by Parke-Davis (now part of Pfizer). It received FDA approval on June 9, 1961, becoming one of the earliest MAOI antidepressants available in the United States, marketed under the brand name Nardil. Although newer antidepressants have largely displaced MAOIs as first-line therapy, phenelzine retains a niche role for atypical depression and treatment-refractory anxiety disorders. The brand-name Nardil formulation underwent a manufacturing change in 2003 that prompted widespread patient reports of reduced efficacy.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "high",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Phenelzine",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Phenelzine",
 };

@@ -104,5 +104,6 @@ export const methoxphenidine: Substance =
 "history": "Methoxphenidine is an example of a designer drug, specifically chosen to mimic the functional or structural features of commonly used illicit substances and circumvent government regulation.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Methoxphenidine",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Methoxphenidine"
 };

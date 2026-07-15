@@ -133,5 +133,6 @@ export const isopropylphenidate: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Isopropylphenidate",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Isopropylphenidate"
 };

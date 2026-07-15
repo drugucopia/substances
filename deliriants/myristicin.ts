@@ -158,5 +158,6 @@ export const myristicin: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "very-high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Myristicin",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Myristicin"
 };

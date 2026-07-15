@@ -86,5 +86,5 @@ export const risperidone: Substance = {
     "Risperidone was developed by Janssen Pharmaceutica and approved by the FDA in 1993 for the treatment of schizophrenia, making it the first second-generation antipsychotic introduced after clozapine. Subsequent approvals expanded its use to bipolar I mania and to irritability associated with autistic disorder in children. Its active metabolite, paliperidone (9-hydroxyrisperidone), was later developed and approved as a separate antipsychotic agent.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "moderate",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Risperidone",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Risperidone",
 };

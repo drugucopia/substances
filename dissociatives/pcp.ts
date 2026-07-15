@@ -207,5 +207,6 @@ export const pcp: Substance =
 "history": "After being discovered in 1926, PCP was developed as a general anesthetic in the 1950s because it could achieve analgesia and anesthesia with minimal cardiovascular and respiratory suppression. It was marketed under the name Sernyl and began to be used in surgical procedures in 1963. Also in the 1960s, PCP began to be illegally manufactured in laboratories and emerged as a popular street drug in San Francisco.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/PCP",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/PCP"
 };

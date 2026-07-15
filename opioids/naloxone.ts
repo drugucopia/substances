@@ -125,5 +125,6 @@ export const naloxone: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Naloxone",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Naloxone"
 };

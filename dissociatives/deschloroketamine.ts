@@ -173,5 +173,6 @@ export const deschloroketamine: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Deschloroketamine",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Deschloroketamine"
 };

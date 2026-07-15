@@ -89,5 +89,6 @@ export const pyrazolam: Substance =
 "history": "Pyrazolam was originally developed by a team led by Leo Sternbach at Hoffman-La Roche in the 1970s and subsequently \"rediscovered\" and sold as a research chemical starting in 2012. The first official report of the drug came out of Finland in 2011 and another came from the UK in 2012.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Pyrazolam",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Pyrazolam"
 };

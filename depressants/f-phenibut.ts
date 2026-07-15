@@ -106,5 +106,6 @@ export const f_phenibut: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/F-Phenibut",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/F-Phenibut"
 };

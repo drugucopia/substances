@@ -171,5 +171,6 @@ export const pce: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/PCE",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/PCE"
 };

@@ -103,5 +103,6 @@ export const temazepam: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Temazepam",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Temazepam"
 };

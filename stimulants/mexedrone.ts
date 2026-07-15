@@ -111,5 +111,6 @@ export const mexedrone: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Mexedrone",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Mexedrone"
 };

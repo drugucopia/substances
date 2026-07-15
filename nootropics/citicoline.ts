@@ -81,5 +81,6 @@ export const citicoline: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Citicoline",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Citicoline"
 };

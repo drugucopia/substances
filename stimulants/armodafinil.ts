@@ -113,5 +113,6 @@ export const armodafinil: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Armodafinil",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Armodafinil"
 };

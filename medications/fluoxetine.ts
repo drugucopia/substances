@@ -89,5 +89,5 @@ export const fluoxetine: Substance = {
     "Fluoxetine was synthesized in 1972 by Bryan Molloy and David Wong at Eli Lilly, building on the antihistamine diphenhydramine as a structural lead. It was approved by the US FDA in December 1987 and launched under the brand name Prozac in early 1988, becoming the first major SSRI marketed in the United States and ushering in the modern era of antidepressant pharmacotherapy. Its commercial success and cultural impact were unprecedented, and it was later approved for premenstrual dysphoric disorder under the brand name Sarafem.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "low",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Fluoxetine",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Fluoxetine",
 };

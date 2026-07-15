@@ -96,5 +96,6 @@ export const sam_e: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/SAM-e",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/SAMe"
 };

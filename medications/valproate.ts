@@ -88,5 +88,5 @@ export const valproate: Substance = {
     "Valproic acid was first synthesized in 1882 by Beverly Burton as a solvent analog of valerian extract and was used for nearly 80 years as a chemical solvent. In 1963, French researcher Pierre Meunier serendipitously discovered its anticonvulsant properties while using it as a solvent for other investigational compounds. Valproic acid was approved by the FDA in 1978 (as Depakene), with the enteric-coated divalproex sodium formulation (Depakote) approved in 1983 to improve gastrointestinal tolerability.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "high",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Valproic_acid",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Valproate",
 };

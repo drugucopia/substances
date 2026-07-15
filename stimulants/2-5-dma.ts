@@ -97,5 +97,6 @@ export const _2_5_dma: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/25-DMA",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/2,5-DMA"
 };

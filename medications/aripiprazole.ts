@@ -85,5 +85,5 @@ export const aripiprazole: Substance = {
     "Aripiprazole was discovered in 1988 by Otsuka Pharmaceutical and approved by the FDA in 2002 for the treatment of schizophrenia, becoming the first antipsychotic marketed as a dopamine system stabilizer based on its D2 partial agonist mechanism. Subsequent approvals expanded its use to bipolar I disorder, as an adjunct for major depressive disorder, for irritability associated with autism, and for Tourette's disorder, and long-acting injectable formulations were developed for maintenance therapy.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "moderate",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Aripiprazole",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Aripiprazole",
 };

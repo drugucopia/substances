@@ -90,5 +90,5 @@ export const duloxetine: Substance = {
     "Duloxetine was discovered in 1993 by Eli Lilly and Company (designated LY248686) and received FDA approval in August 2004 under the brand name Cymbalta for the treatment of major depressive disorder. Subsequent FDA approvals expanded its indications to include diabetic peripheral neuropathic pain (2004), generalized anxiety disorder (2007), fibromyalgia (2008), and chronic musculoskeletal pain (2010). It became one of the most widely prescribed SNRIs in the world following its launch.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "moderate",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Duloxetine",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Duloxetine",
 };

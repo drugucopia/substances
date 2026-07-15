@@ -114,5 +114,6 @@ export const pma: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "very-high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/PMA",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/PMA"
 };

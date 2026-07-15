@@ -128,5 +128,6 @@ export const methylone: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Methylone",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Methylone"
 };

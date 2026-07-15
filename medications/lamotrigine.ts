@@ -84,5 +84,5 @@ export const lamotrigine: Substance = {
     "Lamotrigine was discovered by Wellcome Research Laboratories (now part of GlaxoSmithKline) and approved by the FDA in 1994 for the treatment of epilepsy, originally as adjunctive therapy for partial seizures. Based on its mood-stabilizing properties observed in clinical use, it was subsequently approved by the FDA in 2003 for the maintenance treatment of bipolar I disorder, with particular benefit in delaying depressive episodes.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "moderate",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Lamotrigine",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Lamotrigine",
 };

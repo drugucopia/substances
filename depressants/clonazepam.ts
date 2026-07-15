@@ -107,5 +107,6 @@ export const clonazepam: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Clonazepam",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Clonazepam"
 };

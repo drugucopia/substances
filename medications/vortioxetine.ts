@@ -87,5 +87,5 @@ export const vortioxetine: Substance = {
     "Vortioxetine was developed through a collaboration between H. Lundbeck A/S and Takeda Pharmaceutical Company and was approved by the U.S. FDA in September 2013 (and by the European Medicines Agency in late 2013) for the treatment of major depressive disorder in adults. It was originally marketed in the United States under the brand name Brintellix, which was changed to Trintellix in 2016 to reduce confusion with the antiplatelet drug Brilinta (ticagrelor). Its receptor pharmacology was designed to preserve antidepressant efficacy while reducing SSRI-type adverse effects such as sexual dysfunction and cognitive blunting.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "low",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Vortioxetine",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Vortioxetine",
 };

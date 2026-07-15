@@ -118,5 +118,6 @@ export const mirtazapine: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Mirtazapine",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Mirtazapine"
 };

@@ -90,5 +90,5 @@ export const bupropion: Substance = {
     "Bupropion was first synthesized in 1969 by Nariman Mehta at Burroughs Wellcome (now GlaxoSmithKline) and was initially investigated as an antipsychotic before its antidepressant activity was recognized. It was approved by the U.S. FDA in 1985 as an antidepressant but was temporarily withdrawn in 1986 because of seizure concerns at higher doses, returning to the market in 1989 with a revised dosing limit of 450 mg/day. An extended-release formulation (Wellbutrin XL) was approved in 2003, and the same molecule was approved for smoking cessation under the brand name Zyban in 1997.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "moderate",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Bupropion",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Bupropion",
 };

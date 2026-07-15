@@ -112,5 +112,6 @@ export const dextropropoxyphene: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "very-high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Dextropropoxyphene",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Dextropropoxyphene"
 };

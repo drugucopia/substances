@@ -104,5 +104,6 @@ export const eszopiclone: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Eszopiclone",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Eszopiclone"
 };

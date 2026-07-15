@@ -107,5 +107,6 @@ export const tma_2: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/TMA-2",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/TMA-2"
 };

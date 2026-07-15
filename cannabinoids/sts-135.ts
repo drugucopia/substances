@@ -104,5 +104,6 @@ export const sts_135: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/STS-135",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/STS-135"
 };

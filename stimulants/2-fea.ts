@@ -141,5 +141,6 @@ export const _2_fea: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/2-FEA",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/2-FEA"
 };

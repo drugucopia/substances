@@ -88,5 +88,5 @@ export const lithium: Substance = {
     "Lithium salts were used medically for various indications throughout the 19th century, including gout and as a general tonic and table-salt substitute. In 1949, Australian psychiatrist John Cade serendipitously demonstrated the anti-manic effect of lithium citrate while investigating urea metabolism in psychiatric patients. Following international adoption in the 1950s and 1960s, lithium carbonate was approved by the FDA in 1970 for the treatment of bipolar mania, and it remains one of the oldest and most evidence-based psychotropic medications in use.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "high",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Lithium",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Lithium_(medication)",
 };

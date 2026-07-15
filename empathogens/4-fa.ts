@@ -160,5 +160,6 @@ export const _4_fa: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/4-FA",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/4-FA"
 };

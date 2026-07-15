@@ -98,5 +98,6 @@ export const _3_meo_pcmo: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/3-MeO-PCMo",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/3-MeO-PCMo"
 };

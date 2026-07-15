@@ -115,5 +115,6 @@ export const _2_aminoindane: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/2-Aminoindane",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/2-Aminoindane"
 };

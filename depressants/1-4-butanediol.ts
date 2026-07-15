@@ -99,5 +99,6 @@ export const _1_4_butanediol: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/14-Butanediol",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/1,4-Butanediol"
 };

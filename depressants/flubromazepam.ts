@@ -105,5 +105,6 @@ export const flubromazepam: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Flubromazepam",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Flubromazepam"
 };

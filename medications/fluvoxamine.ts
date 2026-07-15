@@ -90,5 +90,5 @@ export const fluvoxamine: Substance = {
     "Fluvoxamine was developed by the Belgian pharmaceutical company Solvay and was first marketed in Switzerland in 1983 under the brand name Floxyfral, making it the first SSRI to reach the market anywhere in the world. It was approved by the US FDA in 1997 specifically for obsessive-compulsive disorder and marketed as Luvox. Although never as widely prescribed as fluoxetine or sertraline, fluvoxamine retains a niche in OCD treatment and was repopularized during the COVID-19 pandemic due to research into its anti-inflammatory effects.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "low",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Fluvoxamine",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Fluvoxamine",
 };

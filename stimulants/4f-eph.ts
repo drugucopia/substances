@@ -119,5 +119,6 @@ export const _4f_eph: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/4F-EPH",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/4F-EPH"
 };

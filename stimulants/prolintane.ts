@@ -117,5 +117,6 @@ export const prolintane: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Prolintane",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Prolintane"
 };

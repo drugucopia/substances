@@ -97,5 +97,6 @@ export const _2m2b: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/2M2B",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/2M2B"
 };

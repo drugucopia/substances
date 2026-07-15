@@ -114,5 +114,6 @@ export const ab_fubinaca: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/AB-FUBINACA",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/AB-FUBINACA"
 };

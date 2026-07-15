@@ -149,5 +149,6 @@ export const o_pce: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/O-PCE",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/O-PCE"
 };

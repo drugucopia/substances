@@ -140,5 +140,6 @@ export const mxipr: Substance =
 "history": "MXiPr first appeared for sale on the online research chemical market in late 2020.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/MXiPr",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/MXiPr"
 };

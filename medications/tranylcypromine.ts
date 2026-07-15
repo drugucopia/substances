@@ -92,5 +92,5 @@ export const tranylcypromine: Substance = {
     "Tranylcypromine was originally synthesized in 1948 as an intermediate in the study of amphetamine analogues, and its MAO-inhibiting properties were discovered serendipitously during antitubercular drug research in the late 1950s. It was developed by Smith Kline & French (now GlaxoSmithKline) and received FDA approval in 1961, marketed under the brand name Parnate. Although withdrawn briefly in 1964 due to reports of hypertensive crises (later understood to be food-interaction-related), it was reintroduced and remains a key option for treatment-resistant and atypical depression.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "high",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Tranylcypromine",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Tranylcypromine",
 };

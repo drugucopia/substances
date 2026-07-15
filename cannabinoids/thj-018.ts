@@ -115,5 +115,6 @@ export const thj_018: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/THJ-018",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/THJ-018"
 };

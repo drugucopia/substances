@@ -110,5 +110,5 @@ export const selegiline: Substance = {
     "Selegiline (originally known as L-deprenyl) was first synthesized in 1962 by Jozsef Knoll and colleagues at Semmelweis University in Budapest, Hungary. It was developed as a selective MAO-B inhibitor for Parkinson's disease and received its first regulatory approval for that indication in Hungary in 1977 and subsequent FDA approval for oral Parkinson's use in 1989 (brand name Eldepryl). The transdermal selegiline system (brand name Emsam), developed by Somerset Pharmaceuticals and Bristol-Myers Squibb, was approved by the FDA in 2006 for the treatment of major depressive disorder, representing the first transdermal MAOI.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "high",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Selegiline",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Selegiline",
 };

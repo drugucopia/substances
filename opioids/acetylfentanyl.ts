@@ -132,5 +132,6 @@ export const acetylfentanyl: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "very-high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Acetylfentanyl",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Acetylfentanyl"
 };

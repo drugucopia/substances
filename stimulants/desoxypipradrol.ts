@@ -155,5 +155,6 @@ export const desoxypipradrol: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Desoxypipradrol",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Desoxypipradrol"
 };

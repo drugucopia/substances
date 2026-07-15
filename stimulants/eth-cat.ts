@@ -129,5 +129,6 @@ export const eth_cat: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/ETH-CAT",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/ETH-CAT"
 };

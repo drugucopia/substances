@@ -99,5 +99,6 @@ export const zopiclone: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Zopiclone",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Zopiclone"
 };

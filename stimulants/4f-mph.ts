@@ -135,5 +135,6 @@ export const _4f_mph: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/4F-MPH",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/4F-MPH"
 };

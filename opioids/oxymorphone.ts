@@ -108,5 +108,6 @@ export const oxymorphone: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Oxymorphone",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Oxymorphone"
 };

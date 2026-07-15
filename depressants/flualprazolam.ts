@@ -103,5 +103,6 @@ export const flualprazolam: Substance =
 "history": "Flualprazolam first appeared on the research chemical market around 2017",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Flualprazolam",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Flualprazolam"
 };

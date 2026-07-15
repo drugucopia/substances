@@ -133,5 +133,6 @@ export const nicotine: Substance =
 "history": "Crude nicotine was known by 1571, and the compound was obtained in purified form in 1828; the correct molecular formula was established in 1843, and the first laboratory synthesis was reported in 1904.\nNicotiana rustica has been used by the Mapacho (South America) and the thuoc lao (thuốc lào) (Vietnam) people for spiritual purposes.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Nicotine",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Nicotine"
 };

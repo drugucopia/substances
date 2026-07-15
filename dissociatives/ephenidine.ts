@@ -133,5 +133,6 @@ export const ephenidine: Substance =
 "history": "Ephenidine has been described as a designer drug. Designer drugs are substances mimic the functional and structural features of commonly used illicit substances in order to circumvent government regulation.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Ephenidine",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Ephenidine"
 };

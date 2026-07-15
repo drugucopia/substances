@@ -87,5 +87,5 @@ export const olanzapine: Substance = {
     "Olanzapine was discovered by Eli Lilly and Company and approved by the FDA in 1996 for the treatment of schizophrenia, with subsequent approvals for bipolar mania (2000) and bipolar maintenance (2004). It rapidly became one of the most widely prescribed atypical antipsychotics before growing concern about its substantial metabolic side-effect profile prompted more cautious use and the development of combination products such as olanzapine/samidorphan to mitigate weight gain.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "moderate",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Olanzapine",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Olanzapine",
 };

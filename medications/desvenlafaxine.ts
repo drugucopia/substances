@@ -88,5 +88,5 @@ export const desvenlafaxine: Substance = {
     "Desvenlafaxine, the synthetic active metabolite of venlafaxine, was developed by Wyeth (acquired by Pfizer in 2009) and approved by the FDA in 2008 as an extended-release formulation for major depressive disorder. It was marketed under the brand name Pristiq and offered the pharmacokinetic advantage of bypassing CYP2D6-mediated metabolism, yielding more predictable plasma concentrations than the parent drug. The product has also been marketed under the brand name Khedezla as a bioequivalent extended-release tablet.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "moderate",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Desvenlafaxine",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Desvenlafaxine",
 };

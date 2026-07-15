@@ -91,5 +91,5 @@ export const moclobemide: Substance = {
     "Moclobemide was developed by Hoffmann-La Roche and first approved in Switzerland in 1989 (later introduced across Europe, Canada, Australia, and other markets under the brand names Aurorix and Manerix). It was designed as a safer, reversible alternative to the older irreversible MAOIs, eliminating much of the dietary restriction burden while preserving antidepressant efficacy. Despite its favorable safety profile, Roche did not pursue FDA approval in the United States after a 1990s Phase III trial failed to demonstrate clear superiority over placebo, and the drug remains unavailable commercially in the US.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "high",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Moclobemide",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Moclobemide",
 };

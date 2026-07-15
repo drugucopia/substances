@@ -131,5 +131,6 @@ export const propylhexedrine: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Propylhexedrine",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Propylhexedrine"
 };

@@ -89,5 +89,5 @@ export const sertraline: Substance = {
     "Sertraline was developed by Pfizer chemists in the 1970s and approved by the US FDA in 1991, originally marketed under the brand name Zoloft. It was derived from the tametraline series of norepinephrine-dopamine reuptake inhibitors, but structure-activity modifications shifted its profile toward potent and selective serotonin reuptake inhibition. Sertraline went on to become one of the most prescribed antidepressants in the world and is now available as a generic.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "low",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Sertraline",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Sertraline",
 };

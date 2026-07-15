@@ -91,5 +91,6 @@ export const deschloroetizolam: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Deschloroetizolam",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Deschloroetizolam"
 };

@@ -83,5 +83,6 @@ export const theanine: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Theanine",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Theanine"
 };

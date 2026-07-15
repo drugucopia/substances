@@ -128,5 +128,6 @@ export const mdpv: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/MDPV",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/MDPV"
 };

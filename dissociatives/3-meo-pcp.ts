@@ -181,5 +181,6 @@ export const _3_meo_pcp: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/3-MeO-PCP",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/3-MeO-PCP"
 };

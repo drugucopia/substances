@@ -81,5 +81,6 @@ export const cannabidiol: Substance =
 "history": "Cannibidiol was first isolated from Mexican marijuana by Roger Adams and from Indian charas by Alexander Todd, both in 1940. On the basis of chemical degradation and correlation with cannabinol, a general structure was proposed. In 1963, Raphael Mechoulam isolated CBD from Lebanese hashish and established its structure and relative stereochemistry.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Cannabidiol",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Cannabidiol"
 };

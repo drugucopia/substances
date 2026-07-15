@@ -102,5 +102,6 @@ export const progesterone: Substance =
 "history": "Progesterone was first discovered in 1929 by George W. Corner and Willard M. Allen. By 1934 pure crystalline material was achieved by Adolf Butenandt at the Chemisches Institut of Technical University in wikipedia:Gdańsk. In a 2012 study higher levels of progesterone were linked to lower affinity to competitive behavior in women.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Progesterone",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Progesterone"
 };

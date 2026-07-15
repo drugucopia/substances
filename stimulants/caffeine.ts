@@ -152,5 +152,6 @@ export const caffeine: Substance =
 "history": "The earliest credible evidence of either coffee drinking or knowledge of the coffee tree appears in the middle of the 15th century, in Yemen's Sufi monasteries. The Sufi monks drank coffee as an aid to concentration and even spiritual intoxication when they chanted the name of God. Tea ceremonies are a tradition practiced throughout East Asia, particularly Japan, Korea, and other regions.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Caffeine",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Caffeine"
 };

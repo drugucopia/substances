@@ -133,5 +133,6 @@ export const _2_fluorodeschloroketamine: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/2-Fluorodeschloroketamine",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/2-Fluorodeschloroketamine"
 };

@@ -103,5 +103,6 @@ export const dihydrocodeine: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Dihydrocodeine",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Dihydrocodeine"
 };

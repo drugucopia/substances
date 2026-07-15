@@ -113,5 +113,6 @@ export const _5_hydroxytryptophan: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/5-Hydroxytryptophan",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/5-HTP"
 };

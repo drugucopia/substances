@@ -89,5 +89,5 @@ export const citalopram: Substance = {
     "Citalopram was first synthesized in 1972 by the Danish pharmaceutical company Lundbeck and was first marketed in Denmark in 1989 under the brand name Cipramil. It was approved by the US FDA in 1998 and marketed by Forest Laboratories as Celexa. The (S)-enantiomer, escitalopram, was subsequently isolated and developed as a separate drug and launched in 2002.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "moderate",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Citalopram",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Citalopram",
 };

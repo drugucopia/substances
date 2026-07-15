@@ -88,5 +88,5 @@ export const trazodone: Substance = {
     "Trazodone was synthesized in the 1960s by Bruno Silvestrini and co-workers at the Italian research institute Angelini Francesco and was first marketed in Italy in 1972 before receiving U.S. FDA approval in 1981 for the treatment of major depression. Although introduced as a second-generation antidepressant with a more favorable safety profile than tricyclics, its off-label use as a hypnotic has since come to dominate prescribing. An extended-release once-daily formulation (Oleptro) was approved in the United States in 2009.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "moderate",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Trazodone",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Trazodone",
 };

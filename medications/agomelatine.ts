@@ -88,5 +88,5 @@ export const agomelatine: Substance = {
     "Agomelatine was developed by the French pharmaceutical company Servier, with chemistry inspired by the structure of the endogenous hormone melatonin; it was designed to combine melatonergic agonism with 5-HT2C antagonism to address both circadian disruption and depressed mood. It received marketing authorization from the European Medicines Agency in February 2009 and has since been approved in many countries worldwide, including Australia and Russia. After a series of regulatory submissions, Servier withdrew the U.S. marketing application; the drug has never been approved by the FDA, primarily because of concerns about hepatotoxicity relative to placebo.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "moderate",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Agomelatine",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Agomelatine",
 };

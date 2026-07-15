@@ -131,5 +131,6 @@ export const _5f_pb_22: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/5F-PB-22",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/5F-PB-22"
 };

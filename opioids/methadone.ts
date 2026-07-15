@@ -116,5 +116,6 @@ export const methadone: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Methadone",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Methadone"
 };

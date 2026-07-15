@@ -142,5 +142,6 @@ export const _6_apdb: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/6-APDB",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/6-APDB"
 };

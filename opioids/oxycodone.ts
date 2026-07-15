@@ -174,5 +174,6 @@ export const oxycodone: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Oxycodone",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Oxycodone"
 };

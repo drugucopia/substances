@@ -200,5 +200,6 @@ export const alcohol: Substance =
 "history": "History and culture of alcoholic drinks\nAlcohol was brewed as early as 7000 to 6650 BCE in northern China. Pliny the Elder wrote about the golden age of winemaking in Rome, the second century BCE, when vineyards were planted. In vino veritas is a Latin phrase that means \"in wine there is truth.\"",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "very-high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Alcohol",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Alcohol"
 };

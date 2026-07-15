@@ -85,4 +85,5 @@ export const buspirone: Substance = {
   afterEffects: "See route data for afterglow information.",
   riskLevel: "low",
   psychonautWikiUrl: "https://psychonautwiki.org/wiki/Buspirone",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Buspirone",
 };

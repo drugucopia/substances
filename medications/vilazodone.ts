@@ -88,5 +88,5 @@ export const vilazodone: Substance = {
     "Vilazodone was discovered at Merck KGaA in Darmstadt, Germany and developed clinically by Clinical Data, Inc., which was acquired by Forest Laboratories (now part of AbbVie) in 2011. It was approved by the U.S. FDA in January 2011 for the treatment of major depressive disorder in adults and is marketed under the brand name Viibryd. The molecule was designed to combine SSRI-like serotonin reuptake inhibition with 5-HT1A receptor partial agonism in an effort to provide antidepressant efficacy with improved tolerability, particularly with respect to sexual function.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "low",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Vilazodone",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Vilazodone",
 };

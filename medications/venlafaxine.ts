@@ -89,5 +89,5 @@ export const venlafaxine: Substance = {
     "Venlafaxine was first synthesized by researchers at Wyeth (now part of Pfizer) and received FDA approval in 1993 as an immediate-release formulation for the treatment of major depressive disorder. The extended-release (XR) formulation followed, offering once-daily dosing and improved tolerability. It became one of the first widely prescribed SNRIs and was historically used off-label for neuropathic pain and hot flashes. Wyeth's patent expired in 2008, after which numerous generic versions became available worldwide.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "moderate",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Venlafaxine",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Venlafaxine",
 };

@@ -157,5 +157,6 @@ export const pregabalin: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Pregabalin",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Pregabalin"
 };

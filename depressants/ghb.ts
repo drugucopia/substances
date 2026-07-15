@@ -142,5 +142,6 @@ export const ghb: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "very-high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/GHB",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/GHB"
 };

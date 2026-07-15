@@ -87,5 +87,5 @@ export const carbamazepine: Substance = {
     "Carbamazepine was first synthesized in 1953 by chemist Walter Schindler at the Swiss company J.R. Geigy AG (now Novartis). It was initially investigated as an antidepressant but proved more effective as an anticonvulsant and was approved by the FDA in 1968 for epilepsy and in 1974 for trigeminal neuralgia. In the 1980s it became established as the first widely used non-lithium mood stabilizer for bipolar disorder, though lithium remained the comparative gold standard.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "high",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Carbamazepine",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Carbamazepine",
 };

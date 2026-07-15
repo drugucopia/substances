@@ -90,5 +90,6 @@ export const flubromazolam: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "low",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Flubromazolam",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Flubromazolam"
 };

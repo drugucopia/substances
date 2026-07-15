@@ -137,5 +137,6 @@ export const _3_4_ctmp: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/34-CTMP",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/3,4-CTMP"
 };

@@ -178,5 +178,6 @@ export const _3_mmc: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "high",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/3-MMC",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/3-MMC"
 };

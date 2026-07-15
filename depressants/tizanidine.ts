@@ -106,5 +106,6 @@ export const tizanidine: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Tizanidine",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Tizanidine"
 };

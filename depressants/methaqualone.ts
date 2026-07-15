@@ -126,5 +126,6 @@ export const methaqualone: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Methaqualone",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Methaqualone"
 };

@@ -156,5 +156,6 @@ export const heroin: Substance =
 "history": "Alder Wright in 1874 when attempting to combine morphine with various acids. The synthesis was achieved through boiling anhydrous morphine with morphine alkaloid with acetic anhydride. Although the name heroin is a traditional trade name for a Bayer product containing diacetylmorphine, the name has since been widely adopted for all intents and purposes and may describe a recreational depressant that may or may not contain pure diacetylmorphine.",
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Heroin",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Heroin"
 };

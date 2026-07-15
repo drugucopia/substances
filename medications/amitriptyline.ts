@@ -89,5 +89,5 @@ export const amitriptyline: Substance = {
     "Amitriptyline was first synthesized in 1960 by the Merck chemist Frank Berger's group from the tetracyclic antipsychotic prototype structure and was approved by the U.S. FDA in 1961 for the treatment of major depression. It became one of the most widely prescribed antidepressants worldwide through the 1970s and 1980s before being largely supplanted by SSRIs, which have a far safer overdose profile. Its use has since shifted predominantly to off-label indications such as neuropathic pain, fibromyalgia, migraine prophylaxis, and insomnia at lower doses.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "high",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Amitriptyline",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Amitriptyline",
 };

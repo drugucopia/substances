@@ -89,5 +89,5 @@ export const paroxetine: Substance = {
     "Paroxetine was developed by the Danish pharmaceutical company Ferrosan and later acquired by SmithKline Beecham (now GlaxoSmithKline). It was approved by the US FDA in 1992 and marketed as Paxil (Seroxat in Europe). At launch it was promoted as more effective than earlier SSRIs for severe depression and anxiety, but post-marketing experience and litigation around its discontinuation syndrome and suicidality signal in adolescents significantly affected its prescribing.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "low",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Paroxetine",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Paroxetine",
 };

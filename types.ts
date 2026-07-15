@@ -46,6 +46,7 @@ export interface Substance {
   riskLevel: 'none' | 'low' | 'moderate' | 'high' | 'very-high';
   aliases?: string[];
   psychonautWikiUrl?: string;
+  wikipediaUrl?: string;
 }
 
 export type SubstanceCategory = 

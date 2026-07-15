@@ -88,5 +88,5 @@ export const quetiapine: Substance = {
     "Quetiapine was first synthesized in 1985 by researchers at AstraZeneca (then ICI Pharmaceuticals). It was developed as a multireceptor-targeting antipsychotic intended to retain efficacy while minimizing extrapyramidal symptoms. The FDA approved quetiapine in 1997 for schizophrenia, and subsequent approvals expanded its use to bipolar mania, bipolar depression, and as an adjunct for major depressive disorder.",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "moderate",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Quetiapine",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Quetiapine",
 };

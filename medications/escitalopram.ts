@@ -89,5 +89,5 @@ export const escitalopram: Substance = {
     "Escitalopram was developed by Lundbeck and Forest Laboratories as the isolated (S)-enantiomer of citalopram, whose racemic mixture had been marketed since 1989. The single-enantiomer formulation was designed to deliver the therapeutic activity of citalopram while reducing the off-target effects of the (R)-enantiomer. Escitalopram was approved by the US FDA in 2002 and marketed under the brand names Lexapro (US) and Cipralex (Europe).",
   afterEffects: "See route data for afterglow information.",
   riskLevel: "low",
-  psychonautWikiUrl: "https://psychonautwiki.org/wiki/Escitalopram",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Escitalopram",
 };

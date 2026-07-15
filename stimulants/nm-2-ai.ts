@@ -110,5 +110,6 @@ export const nm_2_ai: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/NM-2-AI",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/NM-2-AI"
 };

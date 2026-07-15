@@ -93,5 +93,6 @@ export const adrafinil: Substance =
 "history": null,
   "afterEffects": "See route data for afterglow information.",
   "riskLevel": "moderate",
+  wikipediaUrl: "https://en.wikipedia.org/wiki/Adrafinil",
   "psychonautWikiUrl": "https://psychonautwiki.org/wiki/Adrafinil"
 };
