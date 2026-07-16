@@ -805,9 +805,13 @@ function normalizeCustomSubstance(value: unknown): Substance | null {
 function loadCustomSubstances(): Substance[] {
   if (typeof window === "undefined") return [];
   try {
-    const parsed = JSON.parse(
+    const stored = JSON.parse(
       localStorage.getItem("drugucopia-custom-substances") || "[]",
     ) as unknown;
+    const parsed =
+      stored && typeof stored === "object" && "data" in stored
+        ? (stored as { data: unknown }).data
+        : stored;
     if (!Array.isArray(parsed)) return [];
     return parsed
       .map(normalizeCustomSubstance)
