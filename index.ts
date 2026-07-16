@@ -722,28 +722,112 @@ export function getSubstancesByCategory(
   return substances.filter((s) => s.categories.includes(category));
 }
 
-/** Get all substances including custom ones from localStorage */
-export function getAllSubstances(): Substance[] {
-  if (typeof window === 'undefined') return substances;
+function normalizeCustomSubstance(value: unknown): Substance | null {
+  if (!value || typeof value !== "object") return null;
+  const raw = value as Record<string, unknown>;
+  if (typeof raw.id !== "string" || typeof raw.name !== "string") return null;
+  const category = typeof raw.category === "string" ? raw.category : "other";
+  const validCategories: SubstanceCategory[] = [
+    "stimulants",
+    "depressants",
+    "hallucinogens",
+    "dissociatives",
+    "empathogens",
+    "cannabinoids",
+    "opioids",
+    "deliriants",
+    "nootropics",
+    "other",
+    "medications",
+  ];
+  const categories: SubstanceCategory[] = Array.isArray(raw.categories)
+    ? raw.categories.filter((item): item is SubstanceCategory =>
+        validCategories.includes(item as SubstanceCategory),
+      )
+    : validCategories.includes(category as SubstanceCategory)
+      ? [category as SubstanceCategory]
+      : ["other"];
+
+  // Custom-substance storage intentionally has a smaller schema. Normalize it
+  // at the boundary so interaction, search, dose, and duration code never sees
+  // a partially shaped Substance object.
+  return {
+    id: raw.id,
+    name: raw.name,
+    commonNames: Array.isArray(raw.commonNames)
+      ? raw.commonNames.filter(
+          (item): item is string => typeof item === "string",
+        )
+      : [],
+    aliases: Array.isArray(raw.aliases)
+      ? raw.aliases.filter((item): item is string => typeof item === "string")
+      : [],
+    categories: categories.length ? categories : ["other"],
+    defaultUnit:
+      typeof raw.defaultUnit === "string" ? raw.defaultUnit : undefined,
+    class: typeof raw.class === "string" ? raw.class : "Custom substance",
+    description: typeof raw.description === "string" ? raw.description : "",
+    effects:
+      raw.effects && typeof raw.effects === "object"
+        ? (raw.effects as Substance["effects"])
+        : { positive: [], neutral: [], negative: [] },
+    routeData:
+      raw.routeData && typeof raw.routeData === "object"
+        ? (raw.routeData as Substance["routeData"])
+        : undefined,
+    interactions:
+      raw.interactions && typeof raw.interactions === "object"
+        ? (raw.interactions as Substance["interactions"])
+        : { dangerous: [], unsafe: [], uncertain: [], crossTolerances: [] },
+    harmReduction: Array.isArray(raw.harmReduction)
+      ? raw.harmReduction.filter(
+          (item): item is string => typeof item === "string",
+        )
+      : [],
+    legality: typeof raw.legality === "string" ? raw.legality : "Unknown",
+    chemistry:
+      raw.chemistry && typeof raw.chemistry === "object"
+        ? (raw.chemistry as Substance["chemistry"])
+        : { formula: "", molecularWeight: "", class: "" },
+    history: typeof raw.history === "string" ? raw.history : null,
+    routes: Array.isArray(raw.routes)
+      ? raw.routes.filter((item): item is string => typeof item === "string")
+      : undefined,
+    afterEffects: typeof raw.afterEffects === "string" ? raw.afterEffects : "",
+    riskLevel: ["none", "low", "moderate", "high", "very-high"].includes(
+      String(raw.riskLevel),
+    )
+      ? (raw.riskLevel as Substance["riskLevel"])
+      : "none",
+  };
+}
+
+function loadCustomSubstances(): Substance[] {
+  if (typeof window === "undefined") return [];
   try {
-    const custom = JSON.parse(localStorage.getItem('drugucopia-custom-substances') || '[]') as Substance[];
-    return [...substances, ...custom];
+    const parsed = JSON.parse(
+      localStorage.getItem("drugucopia-custom-substances") || "[]",
+    ) as unknown;
+    if (!Array.isArray(parsed)) return [];
+    return parsed
+      .map(normalizeCustomSubstance)
+      .filter((item): item is Substance => item !== null);
   } catch {
-    return substances;
+    return [];
   }
+}
+
+/** Get all substances including normalized custom records from localStorage */
+export function getAllSubstances(): Substance[] {
+  return [...substances, ...loadCustomSubstances()];
 }
 
 /** Look up a substance by ID, including custom substances */
 export function getSubstanceByIdAll(id: string): Substance | undefined {
   const builtin = substanceMap.get(id);
   if (builtin) return builtin;
-  if (typeof window === 'undefined') return undefined;
-  try {
-    const custom = JSON.parse(localStorage.getItem('drugucopia-custom-substances') || '[]') as Substance[];
-    return custom.find(s => s.id === id);
-  } catch {
-    return undefined;
-  }
+  if (typeof window === "undefined") return undefined;
+  return loadCustomSubstances().find((s) => s.id === id);
 }
 
 /** Search substances including custom ones */
@@ -751,82 +835,136 @@ export function searchSubstancesRankedAll(
   query: string,
   options: SearchOptions = {},
 ): SearchResult[] {
-  if (typeof window === 'undefined') {
+  if (typeof window === "undefined") {
     return searchSubstancesRanked(query, options);
   }
   try {
-    const custom = JSON.parse(localStorage.getItem('drugucopia-custom-substances') || '[]') as Substance[];
-    const allSubs = [...substances, ...custom];
-    
+    const allSubs = [...substances, ...loadCustomSubstances()];
+
     // Reuse the search logic but with all substances
     const { limit = 20, minScore = 0, category, categoryFilter } = options;
     const cat = categoryFilter ?? category;
-    const pool = cat ? allSubs.filter(s => s.categories.includes(cat)) : allSubs;
-    
+    const pool = cat
+      ? allSubs.filter((s) => s.categories.includes(cat))
+      : allSubs;
+
     // Simple search for custom substances
     if (!query || query.trim().length === 0) {
-      return pool.slice(0, limit).map(s => ({
+      return pool.slice(0, limit).map((s) => ({
         substance: s,
         score: 0,
-        matchField: 'name',
-        matchType: 'name',
+        matchField: "name",
+        matchType: "name",
       }));
     }
-    
+
     const normalize = (s: string) =>
-      s.toLowerCase().replace(/[-–—]/g, ' ').replace(/\s+/g, ' ').trim();
+      s.toLowerCase().replace(/[-–—]/g, " ").replace(/\s+/g, " ").trim();
     const q = normalize(query);
     const rawQ = query.toLowerCase().trim();
-    
+
     const results: SearchResult[] = [];
     for (const substance of pool) {
       let bestScore = 0;
-      let bestMatchField = 'name';
+      let bestMatchField = "name";
       const normId = normalize(substance.id);
       const normName = normalize(substance.name);
       const normClass = normalize(substance.class);
-      
-      if (normId === q) { bestScore = 1.0; bestMatchField = 'id'; }
-      else if (normId.startsWith(q)) { bestScore = 0.95; bestMatchField = 'id'; }
-      else if (normId.includes(q)) { bestScore = 0.85; bestMatchField = 'id'; }
-      
-      if (normName === q) {
-        if (1.0 > bestScore) { bestScore = 1.0; bestMatchField = 'name'; }
-      } else if (normName.startsWith(q)) {
-        if (0.9 > bestScore) { bestScore = 0.9; bestMatchField = 'name'; }
-      } else if (normName.includes(q)) {
-        if (0.8 > bestScore) { bestScore = 0.8; bestMatchField = 'name'; }
+
+      if (normId === q) {
+        bestScore = 1.0;
+        bestMatchField = "id";
+      } else if (normId.startsWith(q)) {
+        bestScore = 0.95;
+        bestMatchField = "id";
+      } else if (normId.includes(q)) {
+        bestScore = 0.85;
+        bestMatchField = "id";
       }
-      
+
+      if (normName === q) {
+        if (1.0 > bestScore) {
+          bestScore = 1.0;
+          bestMatchField = "name";
+        }
+      } else if (normName.startsWith(q)) {
+        if (0.9 > bestScore) {
+          bestScore = 0.9;
+          bestMatchField = "name";
+        }
+      } else if (normName.includes(q)) {
+        if (0.8 > bestScore) {
+          bestScore = 0.8;
+          bestMatchField = "name";
+        }
+      }
+
       for (const commonName of substance.commonNames) {
         const cn = normalize(commonName);
-        if (cn === q) { if (0.88 > bestScore) { bestScore = 0.88; bestMatchField = commonName; } break; }
-        if (cn.startsWith(q)) { if (0.78 > bestScore) { bestScore = 0.78; bestMatchField = commonName; } break; }
-        if (cn.includes(q)) { if (0.65 > bestScore) { bestScore = 0.65; bestMatchField = commonName; } }
+        if (cn === q) {
+          if (0.88 > bestScore) {
+            bestScore = 0.88;
+            bestMatchField = commonName;
+          }
+          break;
+        }
+        if (cn.startsWith(q)) {
+          if (0.78 > bestScore) {
+            bestScore = 0.78;
+            bestMatchField = commonName;
+          }
+          break;
+        }
+        if (cn.includes(q)) {
+          if (0.65 > bestScore) {
+            bestScore = 0.65;
+            bestMatchField = commonName;
+          }
+        }
       }
-      
+
       if (substance.aliases) {
         for (const alias of substance.aliases) {
           const a = normalize(alias);
-          if (a === q) { if (0.87 > bestScore) { bestScore = 0.87; bestMatchField = alias; } break; }
-          if (a.includes(q)) { if (0.6 > bestScore) { bestScore = 0.6; bestMatchField = alias; } }
+          if (a === q) {
+            if (0.87 > bestScore) {
+              bestScore = 0.87;
+              bestMatchField = alias;
+            }
+            break;
+          }
+          if (a.includes(q)) {
+            if (0.6 > bestScore) {
+              bestScore = 0.6;
+              bestMatchField = alias;
+            }
+          }
         }
       }
-      
+
       for (const cat of substance.categories) {
         if (cat.toLowerCase().includes(rawQ)) {
-          if (0.4 > bestScore) { bestScore = 0.4; bestMatchField = 'category'; }
+          if (0.4 > bestScore) {
+            bestScore = 0.4;
+            bestMatchField = "category";
+          }
         }
       }
-      
+
       if (normClass.includes(q)) {
-        if (0.5 > bestScore) { bestScore = 0.5; bestMatchField = 'class'; }
+        if (0.5 > bestScore) {
+          bestScore = 0.5;
+          bestMatchField = "class";
+        }
       }
-      
+
       if (substance.description.toLowerCase().includes(rawQ)) {
-        if (0.3 > bestScore) { bestScore = 0.3; bestMatchField = 'description'; }
+        if (0.3 > bestScore) {
+          bestScore = 0.3;
+          bestMatchField = "description";
+        }
       }
-      
+
       if (bestScore >= minScore) {
         results.push({
           substance,
@@ -836,8 +974,11 @@ export function searchSubstancesRankedAll(
         });
       }
     }
-    
-    results.sort((a, b) => b.score - a.score || a.substance.name.localeCompare(b.substance.name));
+
+    results.sort(
+      (a, b) =>
+        b.score - a.score || a.substance.name.localeCompare(b.substance.name),
+    );
     return results.slice(0, limit);
   } catch {
     return searchSubstancesRanked(query, options);
