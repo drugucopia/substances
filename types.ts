@@ -25,7 +25,7 @@ export interface Substance {
   defaultUnit?: string;
   class: string;
   description: string;
-  dosage?: {} 
+  dosage?: {};
   effects: {
     positive: string[];
     neutral: string[];
@@ -43,24 +43,24 @@ export interface Substance {
   history: string | null;
   routes?: string[];
   afterEffects: string;
-  riskLevel: 'none' | 'low' | 'moderate' | 'high' | 'very-high';
+  riskLevel: "none" | "low" | "moderate" | "high" | "very-high";
   aliases?: string[];
   psychonautWikiUrl?: string;
   wikipediaUrl?: string;
 }
 
-export type SubstanceCategory = 
-  | 'stimulants'
-  | 'depressants'
-  | 'hallucinogens'
-  | 'dissociatives'
-  | 'empathogens'
-  | 'cannabinoids'
-  | 'opioids'
-  | 'deliriants'
-  | 'nootropics'
-  | 'other'
-  | 'medications';
+export type SubstanceCategory =
+  | "stimulants"
+  | "depressants"
+  | "hallucinogens"
+  | "dissociatives"
+  | "empathogens"
+  | "cannabinoids"
+  | "opioids"
+  | "deliriants"
+  | "nootropics"
+  | "other"
+  | "medications";
 
 export interface CategoryInfo {
   id: SubstanceCategory;
@@ -83,5 +83,5 @@ export interface TripSitCombo {
   drugB: string;
   status: string;
   note: string;
-  sources: { author?: string; title: string; url: string; }[];
+  sources: { author?: string; title: string; url: string }[];
 }
